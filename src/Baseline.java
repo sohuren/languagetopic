@@ -147,34 +147,45 @@ public class Baseline {
         
         
         List<CoreMap> sentences = paragraph.annotation.get(CoreAnnotations.SentencesAnnotation.class);
-        
-        
-        int count = 0;
+        double simi = - Double.MAX_VALUE;
         
         for(CoreMap sentence : sentences) {
             
         	List<CoreLabel> words = sentence.get(CoreAnnotations.TokensAnnotation.class);
             
-        	String word = Tools.getText(wordLabel) = List<CoreLabel> words
-           	
-        			
+        	ArrayList<String> sentence_words = null;
+            
+        	for(int i = 0 ; i < words.size(); i++)
+        	{
+        		CoreLabel wordLabel = words.get(i);
+        		String word = Tools.getText(wordLabel);
+        		sentence_words.add(word);
+        	}
+        	
+        	double simi_current = GetWordVectorSimiSum(SentRel.wordVec, question_answer, sentence_words);
+        	if (simi_current > simi )
+        	{
+        		simi = simi_current;
+        	}
+           			
         }
         	
-        	
-    
+        return 	simi;
     }
     
-   
-
     static double IC(Map<String, Integer> countMap, String word) {
-        return Math.log(1 + 1./countMap.get(word));
+        
+    	return Math.log(1 + 1./countMap.get(word));
+    
     }
 
     static double ITF(String word) {
-        Integer cnt = SentRel.word2Cnt.get(word);
+        
+    	Integer cnt = SentRel.word2Cnt.get(word);
         if(cnt==null)
             return 0;
         return Math.log(1 + 1./cnt);
+        
     }
 
 
@@ -188,6 +199,7 @@ public class Baseline {
         aWords.addAll(qWords);
 
         int slideSize = aWords.size();
+        
         double maxValue = - Double.MAX_VALUE;
         ArrayList<String> wordSeq = Tools.getWordSeq(paragraph);
 

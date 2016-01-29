@@ -212,7 +212,7 @@ public class Tools {
     }
 
     static void addFeature(HashMap<Integer, Double> features, String newFeature, double value) {
-        //dont do anything if value is 0
+        // dont do anything if value is 0
         if(value==0) return;
         int featureIndex = getFeatureIndex(newFeature);
         if(featureIndex!=-1)
@@ -220,7 +220,8 @@ public class Tools {
     }
 
     static void addFeatureIncrement(HashMap<Integer, Double> features, String newFeature, double value) {
-        //dont do anything if value is 0
+        
+    	// dont do anything if value is 0
         if(value==0) return;
         int featureIndex = getFeatureIndex(newFeature);
 
@@ -234,7 +235,7 @@ public class Tools {
     
     static ArrayList<Double> VectorSum(ArrayList<Double> vec1, ArrayList<Double> vec2)
     {	
-    	ArrayList<Double> result;
+    	ArrayList<Double> result = null;
     	
     	for(int i = 0 ; i< vec1.size(); i++)
     	{
@@ -246,7 +247,7 @@ public class Tools {
         
     static ArrayList<Double> VectorMul(ArrayList<Double> vec, Double scalar)
     {	
-    	ArrayList<Double> result;
+    	ArrayList<Double> result = null;
     	
     	for(int i = 0 ; i< vec.size(); i++)
     	{
@@ -259,10 +260,10 @@ public class Tools {
     static double GetWordVectorSimiSum(HashMap<String, ArrayList<Double>> wordvec, ArrayList<String> sentence1, ArrayList<String> sentence2)
     {	
     	double sum = 0.;
-    	double norm1, norm2;
+    	double norm1 = 0, norm2 = 0;
     	
-    	ArrayList<Double> vec1;
-    	ArrayList<Double> vec2;
+    	ArrayList<Double> vec1 = null;
+    	ArrayList<Double> vec2 = null;
     	
         for(int i = 0 ; i < sentence1.size(); i++)
         	vec1 = VectorSum(vec1, wordvec.get(sentence1.get(i)));
@@ -273,7 +274,6 @@ public class Tools {
         	vec2 = VectorSum(vec2, wordvec.get(sentence2.get(i)));
         
         vec2 = VectorMul(vec2, 1.0/sentence1.size());
-        
         
         for(int i = 0 ; i < vec1.size(); i++)
         {
