@@ -118,7 +118,7 @@ public class Baseline {
     {
     	
     	// HashMap<String, ArrayList<Double>> SentRel.wordVec;
-    	
+    
     	Set<String> pWords = Tools.getWordSet(paragraph);
         Set<String> qWords = Tools.getWordSet(paragraph.questions.get(quesNum).question);
         Set<String> aWords = Tools.getWordSet(paragraph.questions.get(quesNum).choices.get(ansNum));
@@ -129,25 +129,27 @@ public class Baseline {
         aWords.retainAll(pWords);
         aWords.removeAll(SentRel.stopWords);
         
-        String question_answer = ""; 
-        
+        ArrayList<String> question_answer = null; 
+        String element;
         Iterator iterator = aWords.iterator();
+        
         while(iterator.hasNext())
         {
-        	  String element = (String) iterator.next();
-        	  question_answer = question_answer + " " + element;
+        	  element = (String) iterator.next();
+        	  question_answer.add(element);
         }
         
         iterator = qWords.iterator();
         while(iterator.hasNext())
         {
-        	  String element = (String) iterator.next();
-        	  question_answer = question_answer + " " + element;
+        	  element = (String) iterator.next();
+        	  question_answer.add(element);
         }
-        
         
         List<CoreMap> sentences = paragraph.annotation.get(CoreAnnotations.SentencesAnnotation.class);
         double simi = - Double.MAX_VALUE;
+        
+        // compare for all the sentences  
         
         for(CoreMap sentence : sentences) {
             
@@ -162,7 +164,7 @@ public class Baseline {
         		sentence_words.add(word);
         	}
         	
-        	double simi_current = GetWordVectorSimiSum(SentRel.wordVec, question_answer, sentence_words);
+        	double simi_current = Tools.GetWordVectorSimiSum(SentRel.wordVec, question_answer, sentence_words);
         	if (simi_current > simi )
         	{
         		simi = simi_current;
@@ -263,20 +265,21 @@ public class Baseline {
     
     static HashMap<Integer, Double> swdFeatures(Paragraph paragraph, int sentNum, int quesNum, int ansNum) {
 
-        HashMap<Integer, Double> features = new HashMap<>();
+        
+    	HashMap<Integer, Double> features = new HashMap<>();
 
         double sw = slidingWindow(paragraph, quesNum, ansNum);
         double D = distanceBased(paragraph, quesNum, ansNum);
         double exclusive_fre = Max_frequency_exclusive(paragraph, quesNum, ansNum);
         double frequency = Max_frequency(paragraph, quesNum, ansNum);
-        
+        double word_embeding = Word_embedding(paragraph, quesNum, ansNum); 
         
         Tools.addFeatureIncrement(features, "SW", sw);
         Tools.addFeatureIncrement(features, "Dist", D);
         Tools.addFeatureIncrement(features, "SW+D", sw - D); 						// the weight should change automatically
         Tools.addFeatureIncrement(features, "Frequency", frequency); 				// the weight should change automatically
-        Tools.addFeatureIncrement(features, "Frequence_Ex", exclusive_fre); 	// the weight should change automatically
-        
+        Tools.addFeatureIncrement(features, "Frequence_Ex", exclusive_fre); 		// the weight should change automatically
+        Tools.addFeatureIncrement(features, "Word_Embedding", word_embeding); 		// the weight should change automatically
         
         return features;
     }

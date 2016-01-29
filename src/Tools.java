@@ -257,8 +257,9 @@ public class Tools {
     	return result;
     }
     
-    static double GetWordVectorSimiSum(HashMap<String, ArrayList<Double>> wordvec, ArrayList<String> sentence1, ArrayList<String> sentence2)
+    public static double GetWordVectorSimiSum(HashMap<String, ArrayList<Double>> wordvec, ArrayList<String> sentence1, ArrayList<String> sentence2)
     {	
+    	
     	double sum = 0.;
     	double norm1 = 0, norm2 = 0;
     	
@@ -281,8 +282,7 @@ public class Tools {
         	norm1 += vec1.get(i)*vec1.get(i);
         	norm1 += vec2.get(i)*vec2.get(i);
         }
-        
-    	
+        	
         return sum/Math.sqrt(norm1)/Math.sqrt(norm2);    	
     }
     
