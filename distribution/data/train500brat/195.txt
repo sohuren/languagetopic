@@ -1,0 +1,46 @@
+I spent last weekend with my grandma and grandpa.<s>
+I love them very much!<s>
+I always look forward to visiting them!<s>
+They always do fun things with me.<s>
+Last weekend, we went to the zoo together.<s>
+I saw a great big elephant.<s>
+It had a long nose.<s>
+My grandpa and I played a game to see who could be the most like an elephant.<s>
+We stomped around a lot and made trumpeting noises.<s>
+I won!<s>
+Grandma looked on and laughed.<s>
+I saw a monkeys too!<s>
+The monkeys swung through the trees.<s>
+They even made monkey noises!<s>
+Grandma wanted to take a picture of me with the monkeys, but I was too busy pretending I was monkey to stand still.<s>
+After we left the zoo, I went home.<s>
+We had dinner together.<s>
+Then, my grandma read me a story and tucked me into bed.<s>
+I had a great time with my grandparents.<s>
+I love them a lot.<s>
+I always look forward to visiting them.<s>
+
+1) <multiple> What did I do last weekend?
+* I went to the zoo with my grandparents.
+I made dinner.
+I stomped on a bug.
+I read a story by myself.
+
+2) <single> Why didn't Grandma take my picture?
+The elephant got in the way.
+Grandpa was stomping around.
+She didn't want to.
+* I was too busy pretending to be a monkey.
+
+3) <multiple> Who won the be-like-an-elephant game?
+* I won.
+Grandpa won.
+The monkeys won.
+Grandma won.
+
+4) <multiple> What did I do after I came back from the zoo?
+* I ate dinner, read a story, and went to bed.
+I stomped like an elephant, made monkey noises, and didn't stand still for a picture.
+I climbed a tree, stomped like an elephant, and won a game.
+I visited my grandparents, went to the zoo, and then went home.
+

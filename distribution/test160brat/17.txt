@@ -1,0 +1,60 @@
+I am very hungry.<s>
+I look for my mother.<s>
+When is dinner?<s>
+I ask.<s>
+Dinner is at six, my mother says.<s>
+What can we eat?<s>
+I ask.<s>
+We can pick food from our garden, she says.<s>
+I help her pick corn, beans, and peas.<s>
+The corn is yellow and white.<s>
+The beans are small and brown.<s>
+The peas are green and round.<s>
+I put the beans in a basket.<s>
+I put the peas in a bowl.<s>
+Mother brings the corn.<s>
+We go inside.<s>
+I have dirty hands.<s>
+I wash my hands with soap and water.<s>
+The water is warm.<s>
+My hands are now clean.<s>
+Mother lets me stir the beans.<s>
+I fill a pot with water.<s>
+Mother puts the corn into the pot.<s>
+She puts the pot on the stove.<s>
+The water boils.<s>
+Mary is my sister.<s>
+Mary puts four plates on the table.<s>
+Each plate is blue.<s>
+We each eat two pieces of meat.<s>
+I eat more corn than Mary.<s>
+Mary eats more beans than our mother.<s>
+What did you learn today?<s>
+Mary asks.<s>
+I can spell ten new words, I say.<s>
+Mary can only spell two words.<s>
+
+1) <single> What color are our plates?
+red
+white
+* blue
+green
+
+2) <multiple> Which food was not eaten at dinner?
+meat
+peas
+* salad
+corn
+
+3) <multiple> In which way did I not help my mother?
+pick corn
+fill a pot with water
+* wash dishes
+put peas in a bowl
+
+4) <single> How many words can Mary spell?
+one
+four
+zero
+* two
+

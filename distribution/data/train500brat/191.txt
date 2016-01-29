@@ -1,0 +1,45 @@
+One morning, Becca was putting on her shoes when she heard a knock at the door.<s>
+When she opened it, she saw her friend Faith standing on the porch.<s>
+"Bill is going to build a fort in my backyard today, and I get to help," Faith said.<s>
+"Would you like to come over and help too?"<s>
+Becca thought about what she had to do that day.<s>
+Her mother had told her she needed to get her chores done before she could play at Faith's house.<s>
+"First, I have to clean my room," Becca told Faith.<s>
+"Maybe I can help you," Faith said.<s>
+"I helped Sam clean his room once."<s>
+"Sure!"<s>
+Becca answered.<s>
+The girls went to Becca's room and started to pick up toys and clothes.<s>
+"Maybe I need to clean under the bed," Becca said.<s>
+Under the bed, she found a library book she had been missing.<s>
+Faith finished putting all of the clothes into the hamper.<s>
+"Thanks for the help!"<s>
+Becca said.<s>
+"Now I can go with you."<s>
+"I hope we don't have to clean my room, too!"<s>
+said Faith.<s>
+
+1) <multiple> Why did Becca clean her room?
+* Because her mother told her she had to do chores before playing.
+She wanted Faith to help her before she helped Faith with the fort.
+To find her missing library book.
+Because she wanted it to be neat.
+
+2) <single> What is Faith going to build?
+* a fort
+a backyard
+a hamper
+a bed
+
+3) <single> What did Becca find under her bed?
+toys
+* a book
+clothes
+shoes
+
+4) <multiple> Who knocked on Becca's door?
+* Faith
+Becca's mother
+Bill
+Sam
+

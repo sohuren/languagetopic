@@ -1,0 +1,36 @@
+I once was the leader of running a skills camp for a Boy Scout group.<s>
+The weekend long camp included a lot of different games.<s>
+One of the games was for fire-building.<s>
+The point of the game was to help teach campers how to best build fires.<s>
+There are many different ways you can build a campfire.<s>
+You can build a lean-to campfire.<s>
+You can also build a teepee fire.<s>
+To build the fires you must find and sort different sizes of sticks and brush and larger logs to get the fire going.<s>
+The goal of the game is to build a fire big enough to burn a string that is hanging a few feet above the ground.<s>
+My group was falling behind, so I gave the idea of throwing a bunch of leaves on the fire all at once to make a huge fire to quickly burn the string.<s>
+We were not allowed to win the game because it was said we cheated.<s>
+
+1) <multiple> Did the group win the game?
+Yes, by using a bunch of leaves.
+Yes, they won
+* No, they did not win because they cheated.
+There was no game.
+
+2) <single> Who was the camp for?
+Cub Scouts
+A group not named.
+* Boy Scouts
+Girl Scouts
+
+3) <single> How did you win the fire making game?
+* By burning a string a few feet above the ground.
+By lighting a fire
+By boiling some water
+By making the biggest fire.
+
+4) <multiple> What game is talked about in the story?
+Making a teepee
+* Fire making
+Tying a string
+Rowing
+

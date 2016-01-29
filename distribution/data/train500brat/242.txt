@@ -1,0 +1,49 @@
+David and Sue went to their Auntie's house to visit on Saturday morning.<s>
+She had some new ducklings in the pond that they wanted to see.<s>
+They went out to the pond and on the way they saw a frog.<s>
+They also saw a boat in the water.<s>
+They saw a water lily.<s>
+They looked in the water until they saw the mother duck and her ducklings.<s>
+They were different colors.<s>
+Six of them were brown and yellow.<s>
+Four of them were only yellow.<s>
+Two ducklings were brown.<s>
+There was one that was white.<s>
+They were all very fuzzy.<s>
+They went back to the house to tell Auntie Beth about the ducklings.<s>
+She was cooking on the stove.<s>
+She asked Sue to get some eggs.<s>
+She asked David to get some butter.<s>
+Auntie Beth poured some milk into a bowl of flour.<s>
+She made them a cake.<s>
+"I'm so glad you've come to visit me," Auntie Beth said.<s>
+Sue told her about the things they saw at the pond.<s>
+David said, "We saw a frog.<s>
+Don't forget the frog.<s>
+It was my favorite."<s>
+It was a good visit.<s>
+
+1) <multiple> What color were the most ducklings?
+* brown and yellow
+yellow
+brown
+white
+
+2) <multiple> What was David's favorite thing at the pond?
+boat
+duckling
+water lily
+* frog
+
+3) <single> What did the children come to see?
+frog
+* ducklings
+cake
+boat
+
+4) <single> What did Sue get for Auntie Beth
+* eggs
+flour
+milk
+butter
+

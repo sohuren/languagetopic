@@ -1,0 +1,46 @@
+There once was a spider name Thomas.<s>
+Thomas lived in North Carolina.<s>
+Thomas was traveling to see his grandmother.<s>
+His grandmother did not live in North Carolina.<s>
+She lived in Georgia.<s>
+Georgia was far from Thomas's house, so he had to take a train.<s>
+He bought a ticket for the train ride.<s>
+The ticket was five dollars.<s>
+Before he got on the train, Thomas the spider packed his bag.<s>
+He packed his blanket, two shirts, and two pairs of pants.<s>
+He did not pack any books or toys.<s>
+His grandmother had toys for him to play with.<s>
+She also had books for him to read.<s>
+Thomas likes to read and play with toys.<s>
+Thomas used the phone to call his grandmother to tell her he was coming to visit.<s>
+She was very excited.<s>
+Thomas took his bag and went to the train.<s>
+At the train Thomas looked at the snacks.<s>
+He wanted vanilla pudding.<s>
+They did not have vanilla or chocolate, so Thomas got strawberry.<s>
+He took his bag and strawberry pudding and got on the train.<s>
+
+1) <single> What did Thomas pack in his bag?
+Toys
+* He packed his blanket, two shirts, and two pairs of pants.
+Five dollars
+Books
+
+2) <multiple> Where does Thomas's grandmother live?
+In North Carolina
+In a bag
+* She lives in Georgia
+In a train
+
+3) <multiple> What snack did Thomas get?
+Chocolate pudding
+Vanilla pudding
+A blanket
+* Strawberry pudding
+
+4) <multiple> Why did Thomas take the train?
+To look at snacks
+* To visit his grandmother.
+To get a strawberry pudding
+To pack a bag
+

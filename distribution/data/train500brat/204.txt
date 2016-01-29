@@ -1,0 +1,46 @@
+Kate's parents planned a family trip to Europe!<s>
+This would be Kate's first big vacation out of America.<s>
+She loves to be on planes.<s>
+The plane ride was fun and they landed in Paris, France.<s>
+They went to the Eiffel Tower and the Seine River.<s>
+Kate even learned how to say hello in French!<s>
+They ate delicious food.<s>
+Then they took a train to London, England.<s>
+They drank tea and toast and went to see art.<s>
+Then they took another plane to Spain.<s>
+They went to the beach and ate delicious Spanish food.<s>
+Spanish food was her favorite so far.<s>
+A new friend taught her "Hola," which is hello in Spanish.<s>
+Finally, they went to Italy.<s>
+They ate pasta and pizza and saw the Leaning Tower of Pisa.<s>
+Her mom took a funny picture of her pretending to hold the tower.<s>
+She learned to say hello in Italian, too.<s>
+Kate had such a fun time on her vacation.<s>
+She took a lot of pictures and then made a photo album to show to her friends at school.<s>
+Kate wants to go back to Europe one day.<s>
+She loves to travel and see new and different places.<s>
+
+1) <single> What sight did they see in Italty?
+Beach
+pasta and pizza
+Eiffel Tower
+* Leaning Tower of Pisa
+
+2) <multiple> How many different languages did Kate learn to say "hello" in?
+4
+1
+0
+* 3
+
+3) <multiple> How many different places did Kate and her family visit?
+5
+3
+6
+* 4
+
+4) <single> Which country's food did Kate enjoy the most?
+England
+* Spain
+France
+Italy
+

@@ -1,0 +1,46 @@
+One day Magneson took a walk in the park.<s>
+He passed some trees and a pond.<s>
+In the pond was a duck named George.<s>
+George's wife was also in the pond.<s>
+Her name was Nancy.<s>
+Magneson walked over to the tree.<s>
+Nancy flew up into the tree.<s>
+She wanted to warn Magneson about the killer squirrel who lived inside of the tree.<s>
+A few years before, the squirrel had thrown a chestnut at George and Nancy's son.<s>
+He was knocked out, and the squirrel took him away.<s>
+He was never seen again.<s>
+Magneson asked what their son's name was.<s>
+They said it was Leonard.<s>
+But Magneson was only making small talk.<s>
+He didn't believe the story about the killer squirrel.<s>
+Even if there was one, there were many rocks by the pond that he could throw at the squirrel.<s>
+He could also hide in the tall grass.<s>
+George and Nancy were sorry to see that Magneson wouldn't listen.<s>
+They flew away, singing a sad song.<s>
+A short time later, the squirrel came out of the tree and threw a giant walnut at Magneson.<s>
+No one ever saw Magneson again.<s>
+
+1) <multiple> What was George's wife's name?
+Magneson
+George
+* Nancy
+Leonard
+
+2) <multiple> Who did the squirrel throw things at?
+Nellie and George
+* Leonard and Magneson
+George and Leonard
+Magneson and Nellie
+
+3) <single> What did the squirrel throw at Magneson?
+a chestnut
+* a giant walnut
+a duck
+a rock
+
+4) <single> Where did Magneson walk?
+in the trees
+in the pond
+* in the park
+in the tall grass
+

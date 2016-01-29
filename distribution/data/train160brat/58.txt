@@ -1,0 +1,41 @@
+Molly likes animals.<s>
+She has a cat.<s>
+She has a dog.<s>
+She has a bird.<s>
+She has a hamster.<s>
+She has a bunny.<s>
+Her cat's name is Kitty.<s>
+Her dog's name is Spike.<s>
+Her bird's name is Polly.<s>
+Her hamster's name is Barry.<s>
+Her bunny's name is Snowball.<s>
+Kitty plays with yarn.<s>
+Spike plays with a ball.<s>
+Polly plays in her cage.<s>
+Barry runs on his wheel.<s>
+Snowball eats carrots.<s>
+
+1) <multiple> What does Molly's cat play with?
+* yarn
+cage
+wheel
+ball
+
+2) <single> What does Molly like?
+* animals
+baseball
+skating
+singing
+
+3) <single> What is Molly's dog's name?
+Spot
+* Spike
+Tom
+Tiger
+
+4) <multiple> What does Molly's dog play with?
+* ball
+fish
+mouse
+paper
+

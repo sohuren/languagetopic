@@ -1,0 +1,39 @@
+Annie's sister, Julia, was having a birthday party in the afternoon.<s>
+Annie's mother was going to bake the cake for the party.<s>
+Mother asked Annie to help her bake the cake.<s>
+They chose to make a chocolate cake with chocolate frosting.<s>
+Annie got the bowls and the ingredients they would need for the cake.<s>
+She helped measure the flour, the sugar and the cocoa.<s>
+Once her mother added the rest of the ingredients, Annie was allowed to stir the ingredients in the bowl.<s>
+She helped to pour the cake mix into two pans and then put them in the oven.<s>
+The smell of the cake made Annie hungry.<s>
+While the cake was baking, Annie helped her mother make the chocolate frosting.<s>
+Her mother let her lick the spoon when they were done mixing the frosting.<s>
+Once the cake was done, Annie and her mother took the cake out of the oven and let it cool, and then they frosted it.<s>
+They ate the chocolate cake at Julia's party with scoops of vanilla ice cream and fresh strawberries.<s>
+Annie gave their dog, Sunny, a little piece of cake too!<s>
+
+1) <single> What flavor was the birthday cake?
+* Chocolate
+Vanilla
+Sugar
+Strawberry
+
+2) <single> Who was the birthday cake for?
+* Julia
+Annie
+Sunny
+Mother
+
+3) <multiple> Who did Annie give Sunny during Julia's party?
+ice cream
+* cake
+cocoa
+strawberries
+
+4) <multiple> What did Annie and her mother make?
+flour and sugar
+* cake and frosting
+ice cream and strawberries
+Julia and Sunny
+

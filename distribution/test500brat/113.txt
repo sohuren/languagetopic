@@ -1,0 +1,41 @@
+Sally wants to learn how to cook.<s>
+She has only made peanut butter and jelly sandwiches before.<s>
+Today she is going to try to make some spaghetti with meat sauce.<s>
+First she goes to the store down the street to buy the food.<s>
+She buys six tomatoes, some beef, seasoning, one box of pasta and ten pieces of fruit.<s>
+When she gets home she goes to the kitchen and starts boiling some water.<s>
+The water takes four hundred seconds to boil.<s>
+Next, she cuts up the beef and puts it in a pan to fry it.<s>
+When the beef is cooked she starts to cut the tomatoes.<s>
+When she is finished with the tomatoes she puts them in the pan and puts a lid on top.<s>
+Once the tomatoes get hot she adds the seasoning and mixes the sauce.<s>
+Finally she adds the cooked pasta to the sauce.<s>
+Sally thinks that her spaghetti with meat sauce smells really good!<s>
+She takes some to the table and starts eating her dinner.<s>
+Her table is in the dining room.<s>
+Sally wants to cook more foods tomorrow, maybe she'll make some fried rice!<s>
+
+1) <single> What did Sally make today?
+Fruit
+* Spaghetti with meat sauce
+Fried rice
+Peanut butter and jelly sandwiches
+
+2) <multiple> Where is Sally's table that she took her food to?
+The kitchen
+The store
+Down the street
+* The dining room
+
+3) <single> How many seconds does the water take to boil?
+* Four hundred
+One
+Ten
+Six
+
+4) <multiple> What does Sally do before she cuts up the beef and puts it in the pan?
+* Boils the pasta
+Adds the cooked pasta
+Adds the seasoning
+Cuts the tomatoes
+

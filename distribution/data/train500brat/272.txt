@@ -1,0 +1,43 @@
+Charlie woke up from his nap.<s>
+He had finished eating all the delicious food on the table that Samantha had made for him and he was tired.<s>
+With a laugh, Charlie looked at the green balloon that his daughter Samantha had put over his head to float.<s>
+Bobo the dog walked into the room where Charlie was sitting and made a noise.<s>
+Bobo barked.<s>
+\tabCharlie looked at Bobo and smiled, and then grabbed his brown hat from the table.<s>
+Next to his hat there was a picture of a rainbow that Samantha had drawn for Charlie.<s>
+It was a pretty rainbow.<s>
+Chelsea the cat walked in on Bobo with his barking and Charlie with his hat in hand and then meowed.<s>
+Chelsea and Bobo looked at each other.<s>
+Charlie, seeing the two looking at each other, made the choice that enough was enough and opened the door to walk outside.<s>
+Samantha was standing outside the house on the lawn, and with a yell, she surprised Charlie!<s>
+With a wave of her hand, she showed him the duck that she was watching.<s>
+Samantha gave the duck the name Wilfred, and Charlie was pleased.<s>
+He and Samantha watched Wilfred walk away and they saw a real rainbow in the distance.<s>
+It was a beautiful start to the day.<s>
+Bluebird the blue bird was flying high in the sky, and Charlie smiled.<s>
+In the distance, he saw a white airplane.<s>
+
+1) <multiple> Charlie has two pets named Chelsea and Bobo, what types of animals are these pets?
+A blue bird and dog.
+A dog and a duck.
+A cat and a duck.
+* A dog and a cat.
+
+2) <single> What was floating over Charlie's head as he slept?
+A hat
+* Green Balloon
+A rainbow
+A cat
+
+3) <single> What is the name of the cat?
+Samantha
+* Chelsea
+Bobo
+Wilfred
+
+4) <multiple> What did Charlie see a picture of on the table and the real thing in the sky?
+A blue bird
+A green balloon.
+A white airplane.
+* A rainbow.
+

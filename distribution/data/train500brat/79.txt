@@ -1,0 +1,40 @@
+At night, the magical chipmunks come out to play in the woods.<s>
+They shower in bowls, and take pictures with their phones.<s>
+They brush their teeth until they twinkle.<s>
+They hide in the bushes and play games.<s>
+There is one game they really like.<s>
+To play, one chipmunk puts his ear on the phone, and another hides in the woods with a different phone.<s>
+One chipmunk walks through the woods looking for the hiding chipmunk.<s>
+The hiding chipmunk tells 'hot' or 'cold' to the first one on the phone.<s>
+If 'hot', he is very close to finding!<s>
+If 'cold', he's very far away!<s>
+Chipmunks love to be hot, so there is a twist to this game!<s>
+These magical chipmunks can change the temperature with their voice, so if the hiding chipmunk says cold, all the chipmunks becomes colder.<s>
+If the hiding chipmunk says 'hot', all the chipmunks become hotter.<s>
+Oh, how the chipmunks love to play this game!<s>
+But they don't like to lose!<s>
+
+1) <single> Where does the chipmunk put his ear?
+in the bowl
+in the woods
+* on the phone
+in the shower
+
+2) <multiple> How do the chipmunks feel if they win the game?
+cold
+* hot
+mad
+twinkly
+
+3) <single> When do the chipmunks come out to play?
+* at night
+in bowls
+during the day
+in the woods
+
+4) <multiple> If the chipmunk says, 'cold', the looking chipmunk is...
+hot
+* far away
+bored
+close
+

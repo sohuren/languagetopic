@@ -1,0 +1,44 @@
+Kyle was excited.<s>
+So excited that he ate and got dressed before his dad even woke up.<s>
+Today he was going to the store to spend the money his grandma had sent him for his birthday.<s>
+When Dad was finally ready to go, Kyle hurried to the car.<s>
+Today was extra special because none of his sisters were going with them.<s>
+His older sister Sandy was visiting her best friend.<s>
+His younger sister Sarah was going to a movie with their mom.<s>
+So today was a special day, only Kyle and Dad being guys together.<s>
+Once they reached the store, Kyle walked slowly down each aisle, looking at all the toys and trying to find the best one.<s>
+Purple superheroes, colorful games, and a bright blue ball all caught his eye, but Kyle kept looking.<s>
+Finally he saw it, hiding on the bottom shelf.<s>
+The most perfect toy- a shiny, white jeep.<s>
+Kyle rushed to pick it up and show it to his dad.<s>
+His dad thought the jeep was a great toy.<s>
+And Kyle had enough money to buy it.<s>
+The clerk took Kyle's money and placed the perfect car into a bag for the boy.<s>
+As they drove home, Kyle looked into the bag at his dream toy several times, to make sure it was real.<s>
+And all afternoon he pretended to drive his jeep around the house.<s>
+This had been the best day ever!<s>
+
+1) <single> Who went to the store?
+Kyle and his mom
+* Kyle and his dad
+Sarah and Mom
+Sandy and Grandma
+
+2) <single> Who gave Kyle the money?
+* Grandma
+Dad
+Sandy
+Sarah
+
+3) <multiple> How many sisters did Kyle have?
+* two
+three
+four
+one
+
+4) <multiple> What toy did Kyle buy?
+* The white jeep on the bottom shelf
+The bright blue ball on the middle shelf
+A colorful game on the bottom shelf
+The purple superhero on the top shelf
+

@@ -1,0 +1,46 @@
+Grace was very excited about Halloween.<s>
+She wanted to dress up as a beautiful princess.<s>
+Her brother Max wanted to be a zebra.<s>
+Their mother made their costumes and got them ready to go trick-or-treating.<s>
+The three of them walked through their neighborhood and saw all of the other children in their costumes.<s>
+They saw their friends Mary and her sister Melissa.<s>
+Mary was dressed as a princess, like Grace.<s>
+The two girls said hello and looked over each other's costumes.<s>
+Grace had a purple dress with a pink hat; Mary had a pink dress with a purple hat.<s>
+The two girls switched hats so their hats matched their costumes.<s>
+They said goodbye and went on trick-or-treating.<s>
+Max and Grace walked up to the first house on their block and rang the doorbell.<s>
+A large man dressed as a doggy opened the door and gave them a bunch of candy.<s>
+They thanked him and moved on.<s>
+The next house had a mummy standing on the front porch.<s>
+They knew it was a costume, but they were too afraid to go up to him and ask for candy, so they moved on to the next house.<s>
+After they had walked the whole neighborhood and filled their bags with candy, Grace and Max went home with their mother.<s>
+They dumped the candy out on the dining room table and began to eat it.<s>
+"You had a nice Halloween, didn't you?"<s>
+their mother asked them.<s>
+Max and Grace smiled and said yes, they had.<s>
+
+1) <single> What was Mary's sister's name?
+Grace
+Amy
+Max
+* Melissa
+
+2) <multiple> What was Max's sister's name?
+Mary
+Melissa
+* Grace
+Amy
+
+3) <single> What was Grace's costume?
+mummy
+* princess
+doggy
+zebra
+
+4) <multiple> What color was Grace's dress?
+pink
+* purple
+blue
+red
+

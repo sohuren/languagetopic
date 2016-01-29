@@ -1,0 +1,27 @@
+Sally liked going outside.<s>
+She put on her shoes.<s>
+She went outside to walk.<s>
+She walked on the green grass.<s>
+The sun was warm.<s>
+The trees were tall.<s>
+The birds sang in the trees.<s>
+Sally liked how the birds can sing.<s>
+Sally likes to sing with the birds, outside.<s>
+Ring, ring, is how the birds sang.<s>
+Sally sang ring, ring, with the birds in the trees.<s>
+Sally took off her shoes.<s>
+Sally liked how the green grass was on her toes.<s>
+Sally's toes liked the green grass.<s>
+Sally walked on the green grass some more.<s>
+She saw Missy the cat.<s>
+Missy the cat meowed to Sally.<s>
+Sally waved to Missy the cat.<s>
+Sally likes Missy the cat.<s>
+Sally likes to meow to Missy the cat.<s>
+Meow, meow, Sally says to Missy the cat.<s>
+Missy the cat walks away from Sally.<s>
+Sally hears her name.<s>
+Sally, Sally, come home, Sally's Mom calls out.<s>
+Sally runs home to her Mom.<s>
+Sally liked going outside.<s>
+

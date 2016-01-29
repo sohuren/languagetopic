@@ -1,0 +1,46 @@
+On Tuesday evening, Rick wanted to play with his friends at a playground near his house.<s>
+Rick's mother, Trish, drove him to the playground.<s>
+Rick met up with Andrew and Chris.<s>
+Rick ran to the monkey bars.<s>
+Andrew ran to the slide.<s>
+Chris ran to the swings.<s>
+Trish sat on a bench near the monkey bars and read a book.<s>
+She wanted to finish the book for a long time and wanted to try to finish right now.<s>
+Around 6 PM, it started to rain.<s>
+Trish quickly put her book inside of her jacket to keep it dry.<s>
+Afterwards, she called Rick and his friends over and told them it was time to go.<s>
+Rick and Andrew ran to Trish to follow her to the car.<s>
+Chris tried to run to Trish but tripped and fell.<s>
+He scabbed his knee.<s>
+He was in a lot of pain.<s>
+Trish told Rick and Andrew to get inside of the car.<s>
+She ran to Chris to check on him.<s>
+Trish had a bandage in her pocket and put it over Chris' scab.<s>
+She then helped Chris get to the car.<s>
+The next day, Rick asked Chris if he was okay from the fall at the playground.<s>
+Chris said he was okay and wanted to go play at the playground again soon.<s>
+
+1) <multiple> What caused Trish to put her book inside of her jacket to keep it dry?
+swings
+* rain
+leaves
+car
+
+2) <single> Where did Rick run to when he arrived to the playground?
+swings
+slide
+bench
+* monkey bars
+
+3) <single> Who was Rick's mother?
+* Trish
+Martha
+Chris
+Andrew
+
+4) <multiple> On what day did Rick asked Chris if he was okay?
+Tuesday
+Friday
+* Wednesday
+Thursday
+

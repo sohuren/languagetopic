@@ -1,0 +1,47 @@
+Leah and the Big Yellow Dog  Leah was very happy.<s>
+It was a bright, sunny day and Mommy was taking her to Leah's favorite place.<s>
+Leah loved the play park near the water!<s>
+Mommy parked the car and Leah ran out right away and climbed the big slide.<s>
+Up she went and then down.<s>
+Two other kids saw Leah and ran over and slid down, too.<s>
+Leah was laughing and happy.<s>
+Suddenly a big, yellow dog walked into the park.<s>
+This was really a friendly dog, and only wanted someone to play with.<s>
+But Leah was scared of dogs.<s>
+Leah didn't see the dog at first.<s>
+Leah started walking toward the swing, and the dog followed Leah.<s>
+Before Leah sat on the on the swing, she turned around and saw the dog smiling at her.<s>
+The dog looked goofy standing there with its mouth open.<s>
+Leah was scared.<s>
+She started yelling and screaming.<s>
+This only made the dog look confused.<s>
+The dog then began sounding out with Leah, barking and howling itself.<s>
+They were a sight to see with Leah screaming and the dog howling.<s>
+Mommy went over and took Leah away from the dog, but mommy could barely keep herself from laughing.<s>
+The dog's master came and got the dog, and Leah went back to playing.<s>
+"Some dogs are nice," Mommy told Leah.<s>
+
+1) <multiple> Why was Leah happy?
+It was a bright sunny day and she was going to see a dog.
+It was a bright sunny day and she was going to play in the water.
+Mommy was taking her to the play park to see a dog.
+* It was a bright sunny day and she was going to the park.
+
+2) <single> Where did Leah go first in the park?
+the swing
+* the big slide
+the dog's house
+the water
+
+3) <single> What was Leah's favorite place?
+Mommy's car
+the dog's house
+* the play park
+the water
+
+4) <multiple> What did Leah do when she saw the dog?
+She ran over and got mommy because she was scared of dogs.
+She screamed because she liked this nice dog.
+She climbed on the swing because she was scared of dogs.
+* She screamed because she was scared of dogs.
+

@@ -1,0 +1,37 @@
+On Mother's Day Sunday I went to breakfast with my mom, sister and wife.<s>
+The day before that, I bought my mom a lovely bunch of flowers.<s>
+My mom had eggs, my sister had pancakes, and my wife had toast.<s>
+I had a muffin.<s>
+The restaurant was called Maggie's.<s>
+It was not my favorite breakfast restaurant.<s>
+I like Denny's or a diner.<s>
+Breakfast was not good.<s>
+The pancakes were soggy, the toast was burned and the eggs were cold.<s>
+Even worse, my breakfast made me sick.<s>
+But after breakfast we went back to my house and I gave my mom the present I bought.<s>
+It was a sunny day, and we all had a nice afternoon.<s>
+
+1) <multiple> What day did I buy my mom flowers?
+* Saturday
+Sunday
+Mother's Day
+Monday
+
+2) <single> What did my wife eat?
+muffin
+* toast
+eggs
+pancakes
+
+3) <single> Where did we eat breakfast?
+home
+Denny's
+* Maggie's
+diner
+
+4) <multiple> What made me sick?
+pancakes
+eggs
+* Muffin
+toast
+

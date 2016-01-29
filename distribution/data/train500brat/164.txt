@@ -1,0 +1,48 @@
+Jill was a normal student.<s>
+However, she was barely passing her classes this year.<s>
+Her finals were coming up in a few weeks and Jill was very nervous about her Math test.<s>
+She was never very good at Math.<s>
+Her brother always teased her because he was great at Math, History, and Science, but she preferred Art.<s>
+To raise her grades, Jill spent the week before finals studying every day in the school library.<s>
+On the last day before the test, Jill walked in and was ready to work hard like she had every day that week.<s>
+Except this time she looked over and saw her best friend, Michelle, walking up to her.<s>
+Michelle greeted Jill and told her that she wants to help her study for the Math test.<s>
+The two girls spend the rest of the afternoon looking over their class notes.<s>
+By the end of the day, Jill finally felt ready.<s>
+She left and walked back to her house.<s>
+That night Jill made sure to get lots of sleep.<s>
+She awoke early and had a filling breakfast before making her way to school.<s>
+Her teacher, Mr. Matthews, handed out the Math tests and she began to work.<s>
+She felt like she did a really good job, but she was scared, too.<s>
+Jill had to wait until tomorrow to see how she did.<s>
+The next day she hurried back to class.<s>
+Jill walked in and grabbed her test from the stack of papers.<s>
+She let out a yell.<s>
+Jill had failed.<s>
+She turned to her friend Michelle and started to cry.<s>
+She was so upset.<s>
+
+1) <single> What class did Jill prefer?
+Science
+* Art
+History
+Math
+
+2) <multiple> What did Jill not do to be ready for the test?
+* Made a cheat sheet with the test answers.
+Got lots of sleep the night before.
+Woke up early and had breakfast.
+Studied hard the whole week.
+
+3) <multiple> Where did Jill study with her friend?
+* At the library.
+At school.
+At the park.
+At her house.
+
+4) <multiple> Why was Jill upset?
+* She failed a test.
+She fought with Michelle.
+She was grounded.
+She lost a library book.
+

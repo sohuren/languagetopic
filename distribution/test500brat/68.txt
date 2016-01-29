@@ -1,0 +1,41 @@
+Josie could hear the birds singing outside the classroom window.<s>
+She could see some of them sitting on the branches of an apple tree.<s>
+Mrs. Harper checked to see if everyone was present.<s>
+Each child called out when they heard their name.<s>
+She then asked for a volunteer to read a story about a family of grasshoppers.<s>
+Many hands were raised but she picked Josie's friend, Mary.<s>
+While Mary was reading the story, she got a tickle in her throat.<s>
+She began to cough.<s>
+Mrs. Harper told her to go get some water to drink and a boy named Henry finished the story.<s>
+Next, Mrs. Harper showed the class a butterfly garden.<s>
+Someone asked if butterflies ate other bugs.<s>
+Mrs. Harper said that butterflies don't eat but only drink.<s>
+Josie was chosen to pass out turkey sandwiches for lunch.<s>
+Mrs. Harper went to the refrigerator.<s>
+She got out some vanilla yoghurt for each of the boys and girls.<s>
+All the students cheered.<s>
+
+1) <multiple> What did Mary do when she got a tickle in her throat?
+She called out.
+She cheered.
+* She coughed.
+She sang.
+
+2) <single> Who finished reading the story?
+Mary.
+Mrs. Harper.
+* Henry.
+Josie.
+
+3) <single> What was in the garden that Mrs. Harper showed the class?
+Bugs.
+Grasshoppers.
+Birds.
+* Butterflies.
+
+4) <multiple> What was kept in the refrigerator?
+Water.
+* Vanilla yoghurt.
+Apples.
+Turkey sandwiches.
+

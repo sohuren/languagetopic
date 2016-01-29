@@ -1,0 +1,46 @@
+Greg and his mother were building a racing car.<s>
+They were going to enter it into a race on Saturday.<s>
+They began building the racing car on Monday.<s>
+First, they had to build the body of the car.<s>
+Greg wanted it to look like a strawberry!<s>
+So they colored it red and put little dots all over it.<s>
+On Tuesday, Greg's father helped them put the wheels on the racing car.<s>
+His mother had to hold the car's body up when his father put the wheels on.<s>
+On Wednesday, Greg and his mother colored in the number 8 on the car.<s>
+This was Greg's lucky number!<s>
+On Thursday, Greg and his mother tested the racing car at a park near the river.<s>
+It went really fast!<s>
+On Friday, Greg and his mother and father were outside in their backyard, still practicing with the racing car, making sure it went as fast as it could.<s>
+Greg really wanted to win the race!<s>
+On Saturday, Greg and his mother went to the race.<s>
+It was being held on the track at his school.<s>
+They put their racing car on the track, and a man started to count down from 10.<s>
+Ten, nine, eight, seven, six, five, four, three, two, one, GO!<s>
+Greg pushed his car forward as fast as he could!<s>
+It reached the finish line before everyone else!<s>
+Greg won the race!<s>
+
+1) <single> What day was the race?
+Wednesday
+Friday
+* Saturday
+Thursday
+
+2) <single> What number did Greg put on his racing car?
+* 8
+3
+5
+10
+
+3) <multiple> How did Greg's father help with the racing car?
+* He helped put the wheels on.
+He colored in the number on the side.
+He helped color it red.
+He made the body of the car.
+
+4) <multiple> Where was the race happening?
+At the park.
+* On the track near his school.
+In a river.
+In their backyard.
+

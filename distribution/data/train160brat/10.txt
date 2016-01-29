@@ -1,0 +1,38 @@
+Jake wanted to eat an orange.<s>
+He liked fruit, and the only fruits in the house were apples, which he didn't like, oranges, and strawberries, which made him itchy.<s>
+But his mother had put oranges on top of the refrigerator.<s>
+Jake couldn't reach the top of the refrigerator.<s>
+He got the stool that he used to reach things in the cupboards.<s>
+But the stool wasn't tall enough on its own.<s>
+He thought if he stood on the edge of the kitchen sink he could reach the oranges.<s>
+(The kitchen sink was right next to the refrigerator).<s>
+So he used the stool to get up to the edge of the sink, and then he stood on the edge of the sink to get the oranges.<s>
+He took one out of the bag and then put the bag back on top of the refrigerator.<s>
+Then he used the stool to climb back down again with his orange.<s>
+He sat at the kitchen table, peeled the orange, and ate it.<s>
+Then he took all of the pieces of orange peel and threw them away in the yard waste.<s>
+
+1) <multiple> Why doesn't using the stool work at first?
+* It isn't tall enough
+it's in the cupboard
+it doesn't reach the edge of the sink
+Jake is too short to use the stool
+
+2) <multiple> At the beginning of the story, why can't Jake get the oranges?
+his mother told him not to
+he doesn't like them
+they make him itchy
+* They are on top of the refrigerator, where he can't reach
+
+3) <single> What fruit was not in the house?
+* Bananas
+Strawberries
+Apples
+Oranges
+
+4) <single> What does Jake do with the orange once he has it?
+Puts it back on top of the refrigerator
+Throws it away in the yard waste
+Puts it in the sink
+* Eats it
+

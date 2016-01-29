@@ -1,0 +1,38 @@
+Steve the penguin lived at the zoo.<s>
+Steve loved to lie on his towel outside during the summer.<s>
+In the winter Steve would get too cold and would stay in his house.<s>
+Steve loved the zookeeper's helper Bob.<s>
+The zookeeper's name was Joe, but he never came in to see Steve.<s>
+Bob would feed Steve treats all summer long when he was working.<s>
+In the spring, Tim was the zookeeper's helper and would never feed Steve treats, so Steve didn't like him.<s>
+Steve loved that Bob would give him was fish more than anything.<s>
+Steve also liked bananas, oranges and apples, but fish was his favorite.<s>
+Steve would stick his tongue out at the visitors to the zoo, other times he turn around and show them his back because they were always looking at Steve and he didn't like that.<s>
+Sometimes he would wave his arm to some visitors if they seemed to be nice.<s>
+Steve loved the summer; it was his favorite time of the year.<s>
+He got treats and his favorite helper Bob worked during the summer.<s>
+
+1) <multiple> What was Steve's favorite food?
+bananas
+* Fish
+oranges
+apples
+
+2) <multiple> Who was Steve's favorite helper?
+* Bob
+Joe
+Apple
+Tim
+
+3) <single> What was the penguin's name?
+* Steve
+Bob
+Joe
+Tim
+
+4) <multiple> What was the penguin's favorite time of the year?
+* summer
+spring
+winter
+treat
+

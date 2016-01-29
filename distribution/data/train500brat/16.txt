@@ -1,0 +1,42 @@
+Dave and John were playing catch in the living room.<s>
+Rose told them that was dumb, but she did not stop them.<s>
+She kept writing in her notebook.<s>
+If they wanted to get in trouble, then they could.<s>
+It was not her responsibility.<s>
+Dave told John to go long.<s>
+Dave did not have good aim and missed John's hands when he threw the ball.<s>
+Instead he hit the lamp and knocked it over.<s>
+He was glad he did not hit the dishes.<s>
+Nor did he hit the cat.<s>
+John was not glad that he hit the lamp, but was glad that the lamp was not broken.<s>
+When John's dad came home, he was very happy that John came clean about the lamp even when it was not broken.<s>
+After telling them off for playing inside, John's dad made them all a cake.<s>
+The cake had lemon frosting, which was Dave's favorite.<s>
+Rose cannot eat lemon, so she let Dave have her slice.<s>
+He chose to take Rose's cake home to his Bro.<s>
+Dave thanked her a lot.<s>
+
+1) <multiple> Who thought it was dumb to play inside?
+John
+* Rose
+Dave's Bro
+Dave
+
+2) <multiple> What happened to Rose's slice of cake?
+Rose ate it.
+* Rose gave it to Dave who brought it home for his Bro.
+The cat ate it.
+It was thrown away.
+
+3) <single> Who were playing in the living room?
+Rose and Dave
+John, Rose, and Dave
+* John and Dave
+John's Dad and Dave's Bro
+
+4) <multiple> What were not touched by the ball?
+Dave's hands and the cake.
+Rose's notebook and the lamp.
+The lamp.
+* The dishes and the cat.
+

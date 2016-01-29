@@ -1,0 +1,20 @@
+Sally the cat went outside to play.<s>
+First she went on the trail to the river.<s>
+Sally sat and watched the fish.<s>
+She wanted to catch a fish.<s>
+The fish swam away too fast.<s>
+Next she went to the field.<s>
+Sally laid down in the grass and took a nap.<s>
+There's nothing like a cat nap on a warm day.<s>
+When Sally woke up she saw a mouse.<s>
+Sally ran after the mouse and tried to catch it.<s>
+The mouse ran into a hole and got away.<s>
+"That's okay" Sally said.<s>
+"I'll get him next time."<s>
+Sally went back to the trail and began to walk home.<s>
+When she got back to the river she took a drink of water.<s>
+"This water tastes good" said Sally.<s>
+When she got back to her house, Sally went inside and ate a cat treat.<s>
+She spent the rest of day playing with her favorite person.<s>
+"This was a good day" said Sally.<s>
+

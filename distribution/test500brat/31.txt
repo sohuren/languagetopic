@@ -1,0 +1,49 @@
+Andy was a small boy who, like many small boys, loved to play.<s>
+He would play outside.<s>
+He would play in his basement.<s>
+He would play in his room.<s>
+When he played, he would play with lots of things.<s>
+Sometimes he played with blocks.<s>
+Sometimes he played with cards.<s>
+Sometimes he would even play with his sister's dolls.<s>
+One day, Andy became bored.<s>
+"Maybe I'll play outside," said Andy.<s>
+He tried to play outside, but it didn't seem right.<s>
+"I know," said Andy, "maybe I'll play in the basement."<s>
+So he tried to play in his basement, but that didn't seem right either.<s>
+"I guess I can play in my room," said Andy.<s>
+So he went to his room to play, but he still felt bored.<s>
+"Maybe I need to play with something different," said Andy.<s>
+So he tried to play with his blocks, but he was still bored.<s>
+"I'll play with my cards," said Andy, but they weren't fun either.<s>
+"I'll play with my sister's dolls," said Andy, but he kept being bored.<s>
+Andy was starting to get sad, and then his sister Angie came in and asked, "Do you want to play, Andy?"<s>
+"Yes," said Andy.<s>
+And they played with blocks, and dolls, and cards.<s>
+And they had fun.<s>
+As it turns out, all Andy needed was somebody to play with.<s>
+
+1) <multiple> Where didn't Andy play?
+* Playground
+Outside
+Basement
+His room
+
+2) <single> What didn't Andy do with Angie?
+* Play with sticks
+Play with dolls
+Play with blocks
+Play with cards
+
+3) <single> What did Andy finally do that made him have fun?
+Played in the basement
+* Played with his sister
+Played with a friend
+Played with blocks
+
+4) <multiple> What didn't Andy play with?
+* Video Games
+Blocks
+Dolls
+Cards
+

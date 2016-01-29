@@ -1,0 +1,45 @@
+Once upon a time there was a cow.<s>
+It was a very happy cow.<s>
+The cow put his chin in the window.<s>
+Then the cow put a rock in a window.<s>
+The cow was done putting things in the window.<s>
+The cow talked to his daddy.<s>
+Then the cow talked to his granddaddy.<s>
+Then it was time for the cow to eat lunch.<s>
+The cow took a long time to eat lunch.<s>
+The cow ate some chips for lunch.<s>
+The cow didn't eat a sandwich or a pickle for lunch.<s>
+The cow was getting very sleepy.<s>
+The cow wanted to take a nap.<s>
+The cow went to his bed.<s>
+There was a book on the bed.<s>
+The cow could not sleep on his bed.<s>
+The cow took the book off his bed.<s>
+Then the cow could take a nap.<s>
+The cow was very happy that it could take a nap on its bed.<s>
+The cow was a good cow.<s>
+
+1) <multiple> How many things did the cow put in a window?
+* two
+three things
+five rocks
+nothing
+
+2) <single> What did the cow take off the bed?
+his granddaddy
+a rock
+* a book
+a sandwich
+
+3) <single> What did the cow eat for lunch?
+sandwich
+pickle
+* chips
+popcorn
+
+4) <multiple> What two people did the cow talk to?
+granddaddy and mother
+* daddy and granddaddy
+granddaddy and brother
+daddy and teacher
+

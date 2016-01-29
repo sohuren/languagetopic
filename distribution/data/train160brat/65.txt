@@ -1,0 +1,53 @@
+Grace wants to play Frisbee.<s>
+She goes to her store to buy a Frisbee.<s>
+She picks out a red Frisbee.<s>
+It is small enough to fit in her hand.<s>
+It costs 75 cents.<s>
+She buys it.<s>
+She leaves the store.<s>
+When Grace gets home, she has no one to play with.<s>
+She looks for her friend Susan.<s>
+Susan is not at home.<s>
+She looks for her friend Jeff.<s>
+Jeff is not allowed to go outside.<s>
+Grace finds a dog named Ginger.<s>
+Ginger loves to play frisbee.<s>
+Grace tosses the frisbee to Ginger.<s>
+Ginger catches it in her mouth.<s>
+Ginger brings the frisbee back to Grace.<s>
+Grace tosses the frisbee again.<s>
+Ginger jumps up in the air and catches it.<s>
+Grace throws the Frisbee one more time.<s>
+The Frisbee lands in a tree.<s>
+Grace is too short to reach the Frisbee.<s>
+Grace pets Ginger and tells her that she is a good girl.<s>
+Grace takes Ginger home.<s>
+They eat cookies.<s>
+The next day, they come back to the park.<s>
+They get their Frisbee back.<s>
+They play again.<s>
+
+1) <single> What does the Frisbee cost?
+* 75 cents
+75 dollars
+25 cents
+80 cents
+
+2) <multiple> Who did Grace look for when she left the store?
+* Susan and Jeff
+Jeff and Grace
+Susan and Ginger
+Ginger and Jeff
+
+3) <single> What happens to the Frisbee when Grace throws it for the last time?
+* it lands in a tree
+it hits the ground
+it flies over Ginger's head
+Ginger catches it
+
+4) <multiple> What did Ginger and Grace do the next day?
+found Susan
+ate cookies
+* went back to the park, got their Frisbee back, and played again
+talked to Jeff
+

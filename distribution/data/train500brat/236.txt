@@ -1,0 +1,47 @@
+There was a beautiful butterfly that was flying around in a park.<s>
+It was the only one in there.<s>
+It was pink.<s>
+It was very pretty.<s>
+A small boy saw it and wanted to put it in his pocket.<s>
+He had a naughty look on his face.<s>
+First he walked slowly to where the butterfly was.<s>
+The butterfly had been sitting by a flower.<s>
+When it saw the boy nearby, it started to fly away.<s>
+The boy quickly started to chase it.<s>
+He laughed as he ran.<s>
+It was a game for him.<s>
+The butterfly was scared.<s>
+It flew very fast and very high in the air.<s>
+The boy jumped up.<s>
+The butterfly would not stay still.<s>
+He jumped as far up as he could.<s>
+He tried many, many times but he could not reach the butterfly.<s>
+The butterfly flew away.<s>
+The boy could not catch the butterfly.<s>
+He left the park with a sad look on his face.<s>
+He wanted to cry but did not.<s>
+
+1) <multiple> What did the boy do when he couldn't catch the butterfly?
+He started to cry.
+He started flying after it.
+He clapped his hands.
+* He left the park with a sad look on his face.
+
+2) <multiple> Was there more than one butterfly in the park?
+Yes, there were many.
+* No, it was the only one in there.
+There were no butterflies in the park.
+There were two in the park.
+
+3) <single> What did the butterfly do when it got scared?
+It bit the boy.
+It stayed still.
+It called the other butterflies over.
+* It flew very fast and very high in the air.
+
+4) <single> What did the little boy want to do with the butterfly?
+He wanted to show it to his friends.
+He wanted to chase it.
+He wanted to play a game with it.
+* He wanted to put it in his pocket.
+

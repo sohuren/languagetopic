@@ -1,0 +1,44 @@
+Susan was very happy to get some money from her grandmother.<s>
+She spent all morning at her grandmother's house doing chores for her.<s>
+Grandmother was getting older, and sometimes she needed help with small things around the house.<s>
+The first thing that Susan did was clean the big window in her house.<s>
+It was afternoon and the sun was shining, but it was hard to tell because the window was so dirty!<s>
+Susan used water and soap to clean the window.<s>
+It was very clean when she was finished.<s>
+Next, she swept the front porch.<s>
+She put all of the dirt and leaves into a big bin in the front yard.<s>
+That was a lot of work.<s>
+Susan was going back in the house for lunch when she saw that the light in the hall was out.<s>
+She asked her grandmother to show her where the light bulbs were at so that she could change it.<s>
+Since she was so short she had to get a stool to stand on.<s>
+Her grandmother stood by to make sure she didn't fall.<s>
+This was her last job of the day.<s>
+After all of her hard work her grandmother made her a ham sandwich with no cheese.<s>
+Susan did not like cheese.<s>
+Then her grandmother gave her five dollars for helping.<s>
+This was a whole dollar more than she got the last time!<s>
+
+1) <single> What did Susan do with the dirt she swept up?
+She swept it out to the street.
+* She put it into a bin in the front yard.
+She left it on the porch.
+She put it in the kitchen trash can.
+
+2) <multiple> What job did Susan complete last?
+She swept the porch.
+She made lunch.
+She washed the windows.
+* She changed the light bulb.
+
+3) <single> How long did Susan spend doing chores?
+The whole afternoon.
+All Friday night.
+Two afternoons.
+* All morning.
+
+4) <multiple> How much money did Susan's grandmother give her the last time she helped?
+Five dollars.
+* Four dollars.
+One dollar.
+Six dollars.
+

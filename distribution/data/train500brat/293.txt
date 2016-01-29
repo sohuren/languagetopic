@@ -1,0 +1,43 @@
+Josh was going on an adventure.<s>
+He was going to float down the river with his friends, Dennis and Connor.<s>
+They had been building a boat out of wood Connor's father had given them for the last week.<s>
+The boys wanted to paint the boat because the brown wood did not look very good.<s>
+Josh wanted green, Dennis liked purple and Connor said it would look good if it was red.<s>
+They had to call their friend, Tonya, to help choose.<s>
+Tonya thought the same as Josh on the color so that is what they painted the boat.<s>
+To thank Tonya for helping them choose the color, the boys invited her to come with them.<s>
+All four of them carried the boat through the vegetable garden in the back yard.<s>
+They were very careful not to step on any of the carrots, potatoes or green beans.<s>
+Josh's mother had packed some food for them to eat as they floated down the river.<s>
+Everything was in a big basket.<s>
+There were peanut butter sandwiches, potato chips and cupcakes with strawberry frosting.<s>
+Each person had a job on the boat.<s>
+Josh was the captain.<s>
+Dennis made sure the snacks did not get wet.<s>
+Tonya watched for rocks ahead.<s>
+Connor had to steer the boat.<s>
+
+1) <multiple> Who did not help build the boat?
+Josh.
+Connor.
+* Tonya.
+Dennis.
+
+2) <single> What job did Connor have on the boat?
+Keeping the snacks dry.
+* Steering.
+Watching for rocks.
+Being the captain.
+
+3) <multiple> What color did the boys paint the boat?
+Purple.
+Red.
+* Green.
+Brown.
+
+4) <single> What food did the friends not take on the boat?
+Potato chips.
+Peanut butter sandwiches.
+* Carrots.
+Cupcakes.
+

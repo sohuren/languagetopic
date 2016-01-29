@@ -1,0 +1,43 @@
+One day a man named John was walking down the block near the park when he came across a butterfly.<s>
+The butterfly was on a flower in the park.<s>
+The butterfly was named Jill.<s>
+John watched as Jill flew from the flower to a telephone down the block.<s>
+He followed Jill and watched her land on the phone.<s>
+He felt curious about why Jill was sitting on the phone.<s>
+Because of that feeling, he picked up the phone and all of a sudden he passed out.<s>
+When he woke up he was in a warmer place than before.<s>
+He looked around and saw that he was on a small piece of land in the middle of the ocean.<s>
+Its name was Otonga, but John didn't know that.<s>
+He looked behind him and saw a forest and a big volcano.<s>
+Next to him there was a cat named Bob.<s>
+John felt happy to be in such a nice place.<s>
+He got up.<s>
+Bob ran away into the forest.<s>
+John looked at the ocean, but he couldn't see anything else there.<s>
+He followed Bob.<s>
+After walking through the forest for a short time he got tired and sat down.<s>
+
+1) <multiple> Why did John pick up the telephone?
+Because he wanted to go to Otonga.
+* Because he was curious about why Jill was sitting on the phone.
+Because Bob told him to.
+Because he was tired.
+
+2) <multiple> What did John do on Otonga?
+* Followed Bob into the forest.
+Jumped into the volcano.
+Watched Jill sitting on the telephone.
+Realized that he was on Otonga.
+
+3) <single> What did Jill do?
+Picked up the telephone.
+Passed out.
+* Flew from the flower to the telephone.
+Followed Bob into the forest.
+
+4) <single> What is the name of the man in the story?
+Jill
+* John
+Otonga
+Bob
+

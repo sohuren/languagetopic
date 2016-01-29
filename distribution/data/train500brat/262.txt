@@ -1,0 +1,40 @@
+Seedy the watermelon was a very special type of watermelon.<s>
+He didn't have any seeds.<s>
+He was green and he had stripes.<s>
+All of his cousins had seeds, but he didn't have any.<s>
+He felt very left out.<s>
+He couldn't thing of why he was different.<s>
+His mom told him it was because he was a very special watermelon.<s>
+She also tells him she loves him the way he is.<s>
+But Seedy didn't think it was a good thing.<s>
+He wished he could be like everyone else and have seeds.<s>
+One day, he rolled out to the lawn and looked at all of his new cousins growing in the garden.<s>
+He rolled around until he found a little baby watermelon that didn't have any seeds either.<s>
+He sat next to him and talked to him.<s>
+He told him that he was very special, and was excited for him to be picked off the vine and be his special best friend.<s>
+He would name him Seedy, Jr.<s>
+
+1) <single> What is the main watermelon's name?
+Watermelon
+* Seedy
+Seed
+Green
+
+2) <single> What did Seedy name his best friend?
+Green
+Stripes
+Mom
+* Seedy, Jr.
+
+3) <multiple> Why was Seedy upset he didn't have any seeds?
+His mom said she loved him.
+He was lonely.
+* He felt left out and didn't know why he was different.
+He was green and had stripes.
+
+4) <multiple> What does Seedy's mom say about him?
+She says he is not special.
+She says she does not love him.
+* She says he is special and she loves him the way he is.
+She says he is green.
+

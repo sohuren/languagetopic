@@ -1,0 +1,28 @@
+Jack wants to play with his dog, Max.<s>
+Jack finds the ball.<s>
+He throws the ball across the yard.<s>
+Max runs after the ball.<s>
+Max brings the ball back to Jack.<s>
+Jack plays fetch with Max for a long time.<s>
+Jack now wants to Max for a walk.<s>
+He looks for Max's leash.<s>
+He looks on the porch.<s>
+He looks in the closet.<s>
+He looks on the hooks by the front door.<s>
+Jack finally finds the leash in the kitchen drawer.<s>
+Jack puts the leash on Max and leads him out the front gate.<s>
+Jack isn't sure where he wants to go.<s>
+He thinks about taking Max around the block.<s>
+He thinks about taking Max to the pet store for a treat.<s>
+He thinks about visiting his friend.<s>
+He finally knows where to go.<s>
+He takes Max to the park.<s>
+He sees his friends, Jim.<s>
+Sammy, and Paul, at the park.<s>
+They are all friends but Jack likes Sammy the best.<s>
+Jack has a great time playing with Max at the park.<s>
+They play with a Frisbee.<s>
+They chase in other and roll on the ground.<s>
+Max is very dirty when they got home.<s>
+Jack has to give Max a bath in the tub.<s>
+

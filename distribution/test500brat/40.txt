@@ -1,0 +1,49 @@
+There was once a small, grey cat that lived in the woods.<s>
+This was a lonely old cat that spent most of his time bullying other small animals that lived in the woods.<s>
+Almost all of the other little animals who lived in the woods knew of the old cat, and warned everyone they knew to stay away from him.<s>
+One day a young mouse was out taking a walk to collect some berries.<s>
+It was a nice day out, so the mouse chose to go down by the river to take a quick rest for a bit.<s>
+When the mouse arrived at the river he found the perfect spot to rest.<s>
+It was a small little area with soft sand to lie on, under a tree that gave a bit of shade.<s>
+The mouse then sat back.<s>
+After a little bit of time the mouse was fast asleep.<s>
+Not long after the mouse had fallen asleep, the cat caught a scent in the air of the young mouse.<s>
+The cat walked slowly up to the spot where the mouse was sleeping and licked his lips.<s>
+Right when the cat was about to catch the mouse, the mouse woke up.<s>
+"What are you doing?!"<s>
+asked the mouse in surprise.<s>
+"I am trying to find dinner," said the cat.<s>
+The mouse smiled.<s>
+"I collected extra berries today on my walk.<s>
+Would you like to have some?"<s>
+The cat was confused.<s>
+He had never been given such a kind thing.<s>
+"Well, OK.<s>
+Berries are not my favorite, but I guess that they are OK."<s>
+The cat and mouse then sat down together and ate a meal of tasty berries.<s>
+It turned out that the cat was not so terrible after all-but had never been given kindness.<s>
+
+1) <multiple> What was the cat confused about?
+The cat was confused about where the river was.
+The cat was confused about the other little animals who lived in the woods.
+* The cat was confused about being given berries.
+The cat was confused about catching the scent of the mouse.
+
+2) <multiple> Where did the mouse choose to rest?
+The mouse chose to rest in the woods.
+The mouse chose to rest on the small, grey cat.
+The mouse chose to rest with the other little animals who lived in the woods.
+* The mouse chose to rest in a small area with soft sand to lie on.
+
+3) <single> How did the cat find the mouse?
+The cat went down to the river because it was a nice day out and spotted him.
+The cat had followed the mouse to the river.
+* The cat caught a scent of the mouse.
+The cat was told by the other little animals.
+
+4) <single> Where did the cat live?
+Under a tree.
+By the river.
+With the mouse.
+* In the woods.
+

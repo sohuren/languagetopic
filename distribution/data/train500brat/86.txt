@@ -1,0 +1,41 @@
+One day, a boy named Jack wanted take a trip on his red tricycle.<s>
+He was not sure where he wanted to go, but he knew he wanted to go somewhere far away.<s>
+It was a cloudy and chilly day, so Jack wore a warm shirt.<s>
+Jack worried that he might get lonely on his trip.<s>
+He borrowed his mother's phone and taped it to the handle bars of his tricycle so he could call home.<s>
+He also put his music player in his pocket.<s>
+Jack put some left over pizza in his backpack in case he got hungry.<s>
+Jack pedaled down his driveway, heading out on his big trip.<s>
+When he got to the end of his driveway, Mrs. Jones, his teacher from school, was walking by on the sidewalk.<s>
+"Hello Jack", said Mrs. Jones, "Where are you going on that nice red tricycle?"<s>
+"I'm going on a trip to someplace far away" said Jack.<s>
+Mrs. Jones smiled, and thought for a second.<s>
+"Make sure you are back by morning, we have a field trip tomorrow", said Mrs. Jones.<s>
+Jack had been waiting for the field trip for weeks.<s>
+He looked at Mrs. Jones and said, "I think I'll wait to take a trip until I can fly.<s>
+I don't want to miss the field trip and this tricycle is not very fast."<s>
+
+1) <multiple> Why did Jack wait to take his trip?
+He got hungry
+A good show was on television
+* There was a field trip the next day
+His tricycle broke
+
+2) <single> What is the name of Jack's teacher?
+Mrs. Edwards
+* Mrs. Jones
+Mr. Hopkins
+Mr. Smith
+
+3) <multiple> Why did Jack borrow his mother's phone?
+To listen to music
+To order pizza
+Because he liked to tape things to his handle bars
+* So he could call home
+
+4) <single> Who did Jack meet at the end of his driveway?
+The mailman
+* His teacher
+His doctor
+His mother
+

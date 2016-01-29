@@ -1,0 +1,41 @@
+Johnny and his class were looking forward to a fun day in art class.<s>
+The teacher gave the class paint, brushes and other items to use to make their drawings.<s>
+Johnny's friend Kevin used a straw to blow paint on his paper.<s>
+It looked very cool.<s>
+Lisa used markers to make a picture of her and her dog.<s>
+Lisa has several pets, but her favorite one is her dog, Ben.<s>
+Tony used a potato to make stars.<s>
+He then put the potato into different colors of paint and made a nice pattern.<s>
+Johnny used feathers to make his picture.<s>
+When they had finished, the class chose which picture was the best.<s>
+Johnny got second place and was very excited.<s>
+Then it was time for lunch and the class had a party.<s>
+They had hamburgers with ketchup and had cake for dessert.<s>
+It was a very fun day for the whole class.<s>
+They all went home tired and happy.<s>
+Johnny took a nap when he went home.<s>
+
+1) <multiple> Who made a picture of her favorite pet??
+* Lisa made a picture of her and her dog.
+Kevin drew a picture of his bird.
+Tony drew his cat.
+Lisa made a picture of her and her cat.
+
+2) <single> What did the class do after they made their pictures?
+They went home.
+They took a nap.
+* They had lunch and a party.
+They had recess.
+
+3) <single> What did Johnny use to make his picture?
+He used ketchup to make his picture.
+Johnny used a potato.
+Johnny made his picture with markers.
+* Johnny used feathers to make his picture.
+
+4) <multiple> Did the class have cake for dessert after lunch?
+No, they had ice cream.
+* Yes, they had hamburgers with ketchup and cake for dessert.
+No, they had cookies.
+No, they only had hamburgers.
+

@@ -1,0 +1,48 @@
+Once upon a time there was a cute brown puppy.<s>
+He was a very happy puppy.<s>
+His name was Rudy.<s>
+Rudy had a best friend.<s>
+His name was Thomas.<s>
+Thomas had a nice dad named Rick.<s>
+Thomas and Rudy had been friends for almost a year.<s>
+Rudy and Thomas loved to play in the big back yard.<s>
+Sometimes, Thomas would ask his friend Jacob to come to the back yard and play with them.<s>
+Jacob would always bring his puppy too.<s>
+Jacob's puppy was named Sally.<s>
+Thomas and  Jacob would run around the back yard and Rudy and Sally chased them and barked.<s>
+They all had so much fun playing together.<s>
+One day, Thomas told Rudy that tomorrow would be a very special day.<s>
+It would be Rudy's birthday.<s>
+Rudy was very excited.<s>
+The next day came and Thomas threw a birthday party for Rudy.<s>
+All of Rudy's friends were there and they had presents for him.<s>
+Jacob brought Rudy a new ball and Sally brought him a bone.<s>
+There was one more present for Rudy to open.<s>
+When he opened the gift from Thomas, Rudy was so exited that he jumped and barked.<s>
+It was a new red collar with a shiny name tag on it.<s>
+It was the best gift Rudy had ever been given.<s>
+
+1) <single> What color was the cute puppy?
+* brown
+yellow
+black
+white
+
+2) <multiple> What was the best gift Rudy had ever been given?
+* a red collar with a name tag
+a toy
+a bone
+a ball
+
+3) <single> Where did Rudy and Thomas love to play?
+* the back yard
+at the park
+in the garden
+in the house
+
+4) <multiple> What was the name of Rudy's best friend?
+Sally
+Jacob
+* Thomas
+Rick
+

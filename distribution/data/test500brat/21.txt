@@ -1,0 +1,56 @@
+Three cats named Daisy, Sofia, and Abby wanted to start a band.<s>
+They put an ad in the newspaper because they needed a drummer.<s>
+Daisy and Sofia would play guitar and sing.<s>
+Bass would be played by Abby.<s>
+A few weeks passed and no one called about the ad.<s>
+Finally, one afternoon the telephone rang.<s>
+A deep voice said, "Do you still need a drummer?"<s>
+Daisy said, "Yes, come by this afternoon."<s>
+Daisy got the other cats together and they set up their instruments and waited for the drummer to show up.<s>
+Soon a dog came running up, pulling a set of drums behind him.<s>
+"You're the drummer?"<s>
+Sofia hissed.<s>
+"Scram!"<s>
+said Abby.<s>
+But Daisy was more accepting.<s>
+"C'mon guys, we need a drummer.<s>
+Just let him play!"<s>
+she said.<s>
+"Okay," said Sofia and Abby.<s>
+They started to jam.<s>
+"We need to come up with a name," Sofia said, between songs.<s>
+"How about 'Atomic Death Fish?'"<s>
+said Abby.<s>
+"No, too scary," said Sofia.<s>
+"How about 'Monkeys on Mars?'"<s>
+said Daisy.<s>
+"Too goofy," said Sofia.<s>
+"How about 'Sofia and the No Nos?'"<s>
+said the drummer.<s>
+"I love it!"<s>
+everyone said.<s>
+
+1) <multiple> What is the name of the band?
+Monkeys on Mars
+* Sofia and the No Nos
+Three Cats and a Dog
+Atomic Death Fish
+
+2) <single> What instruments did each of the cats play?
+Sofia played guitar, Daisy played drums, and Abby played Bass.
+Daisy played guitar, Sofia played drums, and Abby played Bass.
+Abby played guitar, Daisy played drums, and Sofia played Bass.
+* Daisy and Sofia played guitar and Abby played Bass.
+
+3) <single> What kind of animal is the drummer?
+fish
+monkey
+* dog
+cat
+
+4) <multiple> Which cat was accepting of the dog?
+Sofia and Abby
+Abby
+* Daisy
+Sofia
+

@@ -1,0 +1,48 @@
+There once was a beautiful princess named Lizzie who lived in a castle in the woods.<s>
+One day she went for a walk to see if any of the spring flowers had started to bloom.<s>
+Her mother's birthday was the next day.<s>
+If there were flowers blooming she would pick some for her mother.<s>
+Her mother's name was Queen Alice.<s>
+As she got deeper into the woods she came to a place that had a lot of flowers.<s>
+There were beautiful lilies growing around the edge of a pond.<s>
+There were some deer drinking water from the pond.<s>
+She picked some lilies for her mother, the queen.<s>
+The lilies were white and yellow and red.<s>
+She picked 12 lilies for her mother.<s>
+Lizzie also saw mushrooms growing in the woods.<s>
+There were birds building a nest in the bushes.<s>
+Under the bush she saw a paper cup that someone had left.<s>
+There were beautiful butterflies on the bush, too.<s>
+The sun was warm so she lay down to rest under the shade of a tree.<s>
+She fell asleep and as she was sleeping she had a bad dream.<s>
+She dreamed that as she was walking through the woods.<s>
+In her dream she tripped over a log and hurt her ankle.<s>
+She started to cry because she was afraid that nobody would miss her and she would have to sleep in the woods.<s>
+She heard someone calling her name and was very happy to see her father standing near her.<s>
+When she opened her eyes she also could see her brother Henry standing near her.<s>
+She could hear their dog, Daisy, rushing to meet them, too.<s>
+
+1) <single> What did Lizzie pick for her mother?
+* Lizzie picked lilies
+Lizzie picked a bird's nest
+Lizzie picked a paper cup.
+Lizzie picked mushrooms
+
+2) <multiple> What did Lizzie see at the edge of the pond?
+Lizzie saw a paper cup at the edge of the pond.  Lizzie saw mushrooms at the edge of the pond.
+* Lizzie saw deer at the edge of the pond.  Lizzie saw flowers at the edge of the pond.
+Lizzie saw butterflies at the edge of the pond.  Lizzie saw a bush at the edge of the pond.
+Lizzie saw her dog at the edge of the pond.  Lizzie saw her brother at the edge of the pond.
+
+3) <multiple> What did Lizzie dream about?
+She dreamed that there was a deer at the edge of the pond and that there were red flowers near the pond.
+She dreamed there were no flowers in the woods. She dreamed it was sunny.
+* She dreamed she tripped over a log and hurt her ankle. She dreamed she was going to have to sleep in the woods.
+She dreamed her father found her in the woods. She dreamed she picked mushrooms for her mother.
+
+4) <single> What was Lizzie's dog's name?
+Alice
+Lizzie
+* Daisy
+Henry
+

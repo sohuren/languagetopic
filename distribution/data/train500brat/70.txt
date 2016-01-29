@@ -1,0 +1,41 @@
+Anna loved the beach and went as often as she could.<s>
+She liked the birds and the waves.<s>
+Jason did not like the beach.<s>
+He did not like how warm the sand was.<s>
+He didn't like the salt in the water.<s>
+Jason wanted to stay home.<s>
+Jason went to the beach with his mother and father and met Anna.<s>
+She had a red kite that Jason liked very much.<s>
+Anna was having trouble getting the kite in the air and was sad.<s>
+Jason went over to help her and together they got the kite into the air and watched it go higher and higher.<s>
+Anna let Jason fly the kite for a little bit.<s>
+After that Jason was hungry.<s>
+Anna showed him that she had brought a green Picnic basket from her house.<s>
+Inside the picnic basket there were cakes and sandwiches and salad and some fruit.<s>
+Jason had brought lemonade in a blue bottle and shared it with Anna.<s>
+It was the most fun Jason had at the beach.<s>
+
+1) <single> What color is the Kite?
+Blue
+Blue and green
+* Red
+Green
+
+2) <multiple> What did Anna bring to the beach with her?
+A Bottle of lemonade
+Blue Kite
+* Kite and picnic basket
+Jason and his dad
+
+3) <multiple> Why did Jason not like the beach?
+* Salt in the water and Sand
+Birds
+Anna
+Waves
+
+4) <single> where does the story take place?
+Anna's house
+None of these places
+* On the beach
+At Jason's house
+

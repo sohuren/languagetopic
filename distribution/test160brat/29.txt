@@ -1,0 +1,40 @@
+Once upon a time there was a bird named Lily.<s>
+She lived in a tree with her parents.<s>
+One day Lily flew to her friend Molly's tree nest, but she didn't ask for her parents' permission.<s>
+They were having lots of fun playing that the time passed by so fast.<s>
+They played tag.<s>
+They played hide and seek.<s>
+They even played racing to see who could fly the fastest.<s>
+Lily's parents started to get very worried when she didn't return home for dinner.<s>
+They called neighbors and friends, and even called Molly but they didn't hear the phone ringing.<s>
+It wasn't until Molly's mom called her down to eat that Lily saw that it was almost past dinner time.<s>
+Lily told Molly she had to go home.<s>
+When Lily got home her parents were crying and very upset because they thought something happened to her.<s>
+Lily felt very bad for not telling her parents, and she said she would never leave without telling them again.<s>
+Her parents forgave her and sent her to bed.<s>
+Lily went right to sleep.<s>
+
+1) <multiple> Where did Lily eat dinner?
+at home
+* she didn't eat dinner
+at Jake's house
+at Molly's house
+
+2) <multiple> What games did Molly and Lily play?
+* tag, hide and seek, and racing
+racing and tag
+no games
+tag and hide and seek
+
+3) <single> What was Lily?
+a bear
+* a bird
+a fish
+a frog
+
+4) <single> What was the name of Lily's friend?
+Jake
+* Molly
+Megan
+James
+

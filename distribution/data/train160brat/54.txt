@@ -1,0 +1,58 @@
+Bob is a young child who eats potatoes.<s>
+He normally wakes up around 7 in the morning.<s>
+He has a dog named Gob.<s>
+Gob is a very smart dog.<s>
+Bob also owns a farm.<s>
+He grows potatoes on it.<s>
+One day he went out with his dog to go check on the farm.<s>
+There they found a wild duck, a cat, and a pumpkin.<s>
+Gob started to chase the duck.<s>
+The duck flew away.<s>
+Gob started to get hungry.<s>
+Gob then ate the pumpkin.<s>
+Bob got mad at Gob for eating the pumpkin.<s>
+Bob then threw Gob into the house.<s>
+Bob then grabbed a bucket.<s>
+He started to collect as many potatoes as he could find.<s>
+Bob loved potatoes.<s>
+He collected around 600 potatoes!<s>
+Bob started to run out of room for all the potatoes he found.<s>
+He then started to eat as many as he could.<s>
+In 1 hour he ate 100 potatoes!<s>
+He got so full he took a nap.<s>
+When he awoke he found the cat eating all the potatoes!<s>
+The cat ate 200 potatoes before Bob awoke.<s>
+However, Bob was too full and fat to move.<s>
+The cat laughed and wanted to eat the potatoes again.<s>
+Just then, Gob comes running out to chase the cat away!<s>
+The cat was too fat to run away.<s>
+It had eaten too many potatoes!<s>
+Gob grabbed the cat with his teeth and tossed the cat down a well.<s>
+Gob became a hero for saving the potatoes!<s>
+Bob now lets Gob eat whatever he wants, including pumpkins!<s>
+Gob is a very happy dog now!<s>
+
+1) <multiple> How many potatoes did Bob find that were not eaten?
+400
+200
+* 300
+600
+
+2) <multiple> Why could the cat not run away?
+It ate the pumpkin.
+It was stuck in a well.
+* it ate too many potatoes.
+It was lazy.
+
+3) <single> What is the name of the dog?
+Cat
+Pumpkin
+Bob
+* Gob
+
+4) <multiple> Why did Bob throw Gob into the house?
+He chased the duck.
+* Gob ate a pumpkin.
+He ate a potato.
+He got hungry.
+

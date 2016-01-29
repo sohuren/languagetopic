@@ -1,0 +1,43 @@
+The dog was playing in the street outside.<s>
+I walked past the dog and threw the ball to him.<s>
+He seemed to be hot from the heat of the day.<s>
+I then headed to the store because I needed to buy some food and other things that were needed.<s>
+I entered the store and said hi to Mr. Jones.<s>
+He had been working at the store for a long time.<s>
+I walked to the back of the store and picked up some cold sodas and a bottle of orange juice.<s>
+I then went and picked up some popcorn.<s>
+This would be good for eating later while watching tv.<s>
+I then went to the dog food section and picked a meat treat for the dog.<s>
+I then went up to the front of the store and paid Mr. Jones.<s>
+He smiled and thanked me for shopping at his store.<s>
+Then I walked back to my house and looked at the dog.<s>
+His name was Rex and had lived with us for around four years.<s>
+His coat was brown and white.<s>
+I unwrapped the dog treat and gave it to him.<s>
+Rex seemed happy and started to lick my hand in happiness.<s>
+He was a good dog and it made me feel good that he was happy.<s>
+
+1) <multiple> what did I buy in the store
+a meat pie
+hot dogs and soda
+a ball
+* popcorn, soda, juice, and dog treat
+
+2) <single> what color was the dog
+* brown and white
+pure white
+he was a good dog
+he licked my hand
+
+3) <single> what is the name of the dog
+Jones
+Rin tin tin
+* Rex
+Hazel
+
+4) <multiple> What did Mr. Jones do
+he asked, "what are you doing here?"
+he picked out a treat
+he said, "we are closed"
+* he smiled and thanked me for shopping at his store
+

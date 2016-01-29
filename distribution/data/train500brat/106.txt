@@ -1,0 +1,40 @@
+A man named Jerry lived in a small town in the state of Kentucky.<s>
+Jerry owned a sheep farm.<s>
+His favorite time of year was when lambs were born.<s>
+They were very cute.<s>
+Jerry also had other animals on his farm, such as pigs, dogs, cats, and cows.<s>
+One day Jerry wanted to paint his barn.<s>
+He could not find his ladder.<s>
+He looked in the barn, in his house, in his garage, and in his field.<s>
+Since he could not find it he had to stand on a table.<s>
+It took Jerry six days to paint his barn that way.<s>
+Jerry's favorite activity was to sit on his porch and sip lemonade.<s>
+He would watch the clouds float by in the sky.<s>
+He thought they looked a lot like his sheep.<s>
+Every night when Jerry went to sleep, he would listen to the sound of the wind blowing across the fields on his farm.<s>
+He would dream about feeding his sheep.<s>
+
+1) <multiple> What did Jerry think the clouds looked like?
+lemonade
+cats
+* sheep
+pigs
+
+2) <single> What kind of farm did Jerry own?
+dog
+cow
+pig
+* sheep
+
+3) <single> What could Jerry not find?
+* his ladder
+his house
+his garage
+his barn
+
+4) <multiple> What did Jerry stand on to paint his barn?
+a ladder
+* a table
+a field
+a porch
+

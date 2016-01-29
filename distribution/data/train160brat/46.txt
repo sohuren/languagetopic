@@ -1,0 +1,66 @@
+Two kittens were playing.<s>
+They had come in from outside.<s>
+Now they were in the living room in the house.<s>
+One kitten was named Snowball and one kitten was named Fuzzy.<s>
+Suddenly, Snowball saw something interesting.<s>
+"Look at that!"<s>
+said Snowball.<s>
+"What is it?"<s>
+asked Fuzzy.<s>
+"It's a ball of yarn.<s>
+On the top shelf!"<s>
+said Snowball.<s>
+She had seen the yarn that was kept in a basket up there!<s>
+"That looks like it's fun to play with!"<s>
+said Fuzzy.<s>
+"But how could we get to it?<s>
+It's so high up," he wondered.<s>
+"I have an idea," said Snowball.<s>
+"Watch this!"<s>
+Suddenly, Snowball jumped up on to the couch.<s>
+"What are  you doing?"<s>
+asked Fuzzy.<s>
+"Just watch!"<s>
+said Snowball.<s>
+Snowball then jumped to the table next to the couch.<s>
+Then, she jumped to the middle shelf.<s>
+"That's dangerous!"<s>
+said Fuzzy.<s>
+Snowball and Fuzzy were still small kittens.<s>
+They weren't used to jumping very high yet.<s>
+"Don't worry, I'll be careful.<s>
+I think we're allowed to be up here."<s>
+said Snowball.<s>
+Then, she jumped all the way to the top shelf, where the yarn was.<s>
+"Look out below!"<s>
+she yelled, and pushed the ball of yarn off the shelf and on to the floor.<s>
+"Whoa!"<s>
+said Fuzzy.<s>
+"Thanks!"<s>
+Snowball then jumped down to the middle shelf, and down to the table, and down to the couch, and back to the floor.<s>
+There, she and her brother played with the ball of yarn until they got tired and took a nap.<s>
+
+1) <multiple> Why was it dangerous for Snowball to get the ball of yarn?
+Balls of yarn are dangerous for kittens to play with.
+Jumping is bad for her.
+She is not allowed to be on the shelf.
+* She is still small, and wasn't used to jumping very high yet.
+
+2) <multiple> Where were the kittens playing?
+* In the living room in the house
+The bathroom
+Outside
+The bedroom
+
+3) <single> What did the kittens do after they finished playing with each other?
+Went outside.
+* Took a nap.
+Played with their humans.
+Ate their food.
+
+4) <multiple> Which kitten got the ball of yarn?
+Fuzzy
+* Snowball
+A kitten that is not Fuzzy or Snowball.
+They got the ball of yarn together.
+

@@ -1,0 +1,28 @@
+It was a cold winter day in John's city.<s>
+It was December and snowing outside.<s>
+This made John want a bowl of warm soup.<s>
+John went to the refrigerator to make soup.<s>
+He looked for the things needed to make the soup.<s>
+He did not see some items he needed.<s>
+John needed to go to the grocery store.<s>
+John wanted to make a list.<s>
+He found a pencil and paper to make a list.<s>
+He needed sugar, lettuce, tomatoes and cheese.<s>
+John wrote down the items.<s>
+He put the grocery list in his pocket.<s>
+He then went to the closet to get dressed.<s>
+John needed a jacket and gloves for the cold weather.<s>
+He also put his boots on.<s>
+He remembered to close the front door to his house.<s>
+John used a key to lock his front door.<s>
+Then he put the house key is his pocket.<s>
+The grocery store was around the corner.<s>
+John walked to the grocery store.<s>
+He grabbed a grocery basket to put his items in.<s>
+What did John need?<s>
+He pulled out his list of items.<s>
+John found each item and walked back to his house.<s>
+On this cold winter day, John can make a bowl of warm soup.<s>
+He has all the items he needed.<s>
+John was happy.<s>
+

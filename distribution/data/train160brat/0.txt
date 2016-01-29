@@ -1,0 +1,39 @@
+Tom had to fix some things around the house.<s>
+He had to fix the door.<s>
+He had to fix the window.<s>
+But before he did anything he had to fix the toilet.<s>
+Tom called over his best friend Jim to help him.<s>
+Jim brought with him his friends Molly and Holly.<s>
+Tom thought that Jim was going to bring Dolly with him but he didn't.<s>
+The four of them got to work right away.<s>
+Fixing the toilet was easy.<s>
+Fixing the door was also easy but fixing the window was very hard.<s>
+The window was stuck and could not be opened.<s>
+They all pushed on the window really hard until finally it opened.<s>
+Once the window was fixed the four of them made a delicious dinner and talked about all of the good work that they had done.<s>
+Tom was glad that he had such good friends to help him with his work.<s>
+
+1) <multiple> What was the hardest thing for Tom and his friends to fix?
+Door
+House
+* Window
+Toilet
+
+2) <single> What did Tom need to fix first?
+Door
+House
+Window
+* Toilet
+
+3) <multiple> Jim didn't bring which person with him?
+Jim
+* Dolly
+Molly
+Holly
+
+4) <single> Who was Tom's best friend?
+Molly
+Holly
+* Jim
+Dolly
+

@@ -1,0 +1,25 @@
+Bob and Sue were in class.<s>
+Bob was listening to the teacher.<s>
+Sue was looking out the window, thinking about what she would do during recess.<s>
+The teacher was writing on the chalkboard as she spoke.<s>
+She was very happy to be teaching the children more vocabulary words to use.<s>
+Then they could read more books.<s>
+The teacher thought reading was always a very fun activity.<s>
+While thinking, Sue planned how she would climb the tall tree in the playground.<s>
+It had many low, thick branches.<s>
+She wanted to see what the yard looked like from up above.<s>
+She did not think reading was a very fun activity at all.<s>
+She would rather be outside.<s>
+Bob took lots of notes on what the teacher was saying.<s>
+He also copied down everything she wrote.<s>
+He was very proud of his notes.<s>
+If the other students ever needed help, he was glad give it to them.<s>
+He thought reading the books people his age told him to read boring.<s>
+However, he loved borrowing books from his older sister.<s>
+Those books were exciting to him.<s>
+He wanted to learn more vocabulary so he could better understand the stories in his older sister's books.<s>
+Soon enough, the bell rang.<s>
+Sue practically ran out the door on her way to the tree.<s>
+Bob stayed behind to thank the teacher before he left.<s>
+The teacher was very happy to have helped her students.<s>
+

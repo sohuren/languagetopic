@@ -1,0 +1,43 @@
+Che was very upset.<s>
+He had been looking all over his room for his library book.<s>
+He couldn't find it at all!<s>
+His dog Dot was trying to help, but she was only getting in the way.<s>
+Today was going to be a very important library day at school.<s>
+Every class that brought all of their library books back today was going to have a pizza party.<s>
+If he couldn't find this book his class would not get a party.<s>
+This was not going to be good.<s>
+Che called for his dad.<s>
+He was going to need help finding this book if he was going to get to school on time.<s>
+His father told him that he needs to take better care of his things.<s>
+He told him that he would help him find his book.<s>
+They looked in every room of the house together.<s>
+They checked the bathroom, kitchen, and living room.<s>
+Finally his father had an idea.<s>
+He moved the couch and there was the book!<s>
+Che was very happy.<s>
+He would help his class get a pizza party.<s>
+
+1) <single> Where did they find the book?
+* Under the couch.
+In the kitchen.
+In the bathroom.
+Under his bed.
+
+2) <multiple> Why was today an important day?
+* His class would get a pizza party if everybody brought their library books back.
+The library was closed.
+There was going to be a pizza party for everybody who came to school.
+There was pizza for school lunch today.
+
+3) <single> Why was Che happy?
+He didn't have to go to school.
+* He found the book.
+He got a pizza party.
+His father brought him pizza.
+
+4) <multiple> Why was Che upset?
+He was late for school.
+His father would not help him.
+His dog was getting in the way.
+* He couldn't find his library book.
+

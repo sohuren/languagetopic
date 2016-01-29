@@ -1,0 +1,45 @@
+The day was sunny and warm.<s>
+The birds were chirping and dancing around happily.<s>
+Ashley, the daughter of the dressmaker in town, was walking and whistling and enjoying the day, carrying her fishing pole.<s>
+She was on her way to the creek to meet her friend Ethan to go fishing.<s>
+She was so excited; she loved to fish!<s>
+As she was walking she took a time out to smell the flowers.<s>
+She chose to pick some for her mother.<s>
+"Mom may be so happy."<s>
+she said out loud.<s>
+"Pleased with what?"<s>
+she heard behind her.<s>
+Ashley jumped, dropping the flowers.<s>
+"Oh Ethan!<s>
+Why did you do that?"<s>
+she asked.<s>
+"I'm sorry, I scared you" Ethan stated.<s>
+"I didn't mean to, I was curious that's all."<s>
+Ashley turned to Ethan "That's alright, I was picking flowers for my mom, let's go fishing before it's too late".<s>
+Ashley and Ethan skipped off to the creek and had a wonderful time fishing.<s>
+Even if they didn't catch anything.<s>
+
+1) <multiple> Where was Ashley going? Who was she going to meet?
+To the creek to sun-bathe.
+To the flower shop to buy her mom flowers.
+* To the creek to fish, and to meet Ethan.
+To the dress shop where her mom worked.
+
+2) <single> What happened when Ethan saw Ashley?
+They laughed.
+* He scared her.
+She saw him before he saw her.
+He gave her a hug.
+
+3) <single> What is the name of the little girl?
+Ethan
+* Ashley
+Emma
+Isabella
+
+4) <multiple> Did Ashley and Ethan catch any fish? If so how many?
+Two
+One
+Three
+* No
+

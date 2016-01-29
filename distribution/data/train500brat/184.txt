@@ -1,0 +1,47 @@
+Greg enjoys playing with his friends.<s>
+On Friday, Greg went outside to play with two of his friends, Peter and Lucy.<s>
+They played with a ball for some time, but then they got bored.<s>
+Lucy said that she wanted to climb a tree.<s>
+Peter thought that they could see if their other friend Robert could play with them.<s>
+The three of them went to find Robert.<s>
+They saw Robert in front of his house, but he said that he was busy and he could not play with them.<s>
+Greg and Peter then thought that Lucy's idea was good.<s>
+There was a large tree in the park.<s>
+Greg, Peter, and Lucy walked to the park together.<s>
+When they got to the park, they were surprised by the size of the tree.<s>
+It was much larger than they thought.<s>
+At first, Greg was scared to climb the tree.<s>
+But Peter and Lucy told him that it would be fun, so he began to climb.<s>
+When he had climbed the first few branches, he slipped and fell down.<s>
+But he was not hurt.<s>
+After that, the three friends thought that it was too dangerous to climb that tree.<s>
+So they all went home.<s>
+When Greg went home, his mother asked him what happened.<s>
+She saw that his shirt was dirty.<s>
+Greg explained about the tree.<s>
+Then he changed into a different shirt, so that his mother could wash the dirty shirt.<s>
+
+1) <single> What did they find in the park?
+Greg's mother
+A ball
+* A large tree
+Their friend, Robert
+
+2) <single> What was the name of Greg's friend who could not play with them?
+Peter
+Greg
+Lucy
+* Robert
+
+3) <multiple> Why did Greg, Peter, and Lucy walk to the park together?
+* They wanted to climb a tree in the park.
+Their friend Robert told them to go to the park.
+There was a ball that they could play with in the park.
+Greg's mother wanted them to play in the park.
+
+4) <multiple> How did Greg's mother know that something had happened to him?
+Robert could not play
+She could see that Greg was scared
+She spoke to Lucy, who told her what happened
+* His shirt was dirty
+

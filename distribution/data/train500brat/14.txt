@@ -1,0 +1,42 @@
+Mary was spending a few days over her grandma and grandpa's house.<s>
+Mary and her grandpa went to the park on Thursday morning.<s>
+She had so much fun with him, and they were smiling the whole time!<s>
+He pushed her on the swings, then helped her go down the slide.<s>
+After they left the park, they went back to her grandpa's house.<s>
+Mary asked her grandpa to make her lunch because she was starving!<s>
+He told her that he could make her a few things.<s>
+She could choose between chicken and pasta, beef and rice, or pizza and salad.<s>
+Mary asked him to make her chicken and pasta.<s>
+They ate lunch together at the kitchen table.<s>
+The next day, Mary and her grandma went to see a movie at the movie theater.<s>
+There was a new cartoon movie about cats and dogs that she couldn't wait to see!<s>
+They ate popcorn and candy, and Mary had some juice.<s>
+On Saturday, Mary's grandparents brought her back home to her mom and dad.<s>
+They were so excited to see her!<s>
+Mary spent Sunday with her mom, dad, grandma, and grandpa.<s>
+They had a big picnic, and it was a great end to the week.<s>
+
+1) <multiple> What day did Mary and her grandma see a movie?
+* Friday
+Sunday
+Saturday
+Thursday
+
+2) <single> Where did Mary go on Thursday?
+To the movie theater.
+* To the park.
+To her mom and dad's house.
+To a restaurant.
+
+3) <single> Whose house did Mary stay over?
+Her friend's house.
+A cat and dog's house.
+* Her grandma and grandpa's house.
+Her mom and dad's house.
+
+4) <multiple> What did Mary eat for lunch on Thursday?
+Pizza and salad.
+Beef and rice.
+* Chicken and pasta.
+Popcorn and candy.
+

@@ -1,0 +1,38 @@
+Andrew wanted to make some extra money to buy a toy truck that he really wanted but didn't get for his birthday.<s>
+The truck cost thirty dollars and it made four different noises.<s>
+The truck also had a ladder that was three feet long.<s>
+Andrew had asked for it for his birthday but didn't get it.<s>
+He did get a camera from his uncle and a puzzle from his friend.<s>
+In order to make the money his mom told him that he needed to do chores around the house.<s>
+His mom told him that he could make five dollars by mowing the lawn.<s>
+He chose to do this chore and it took him three hours.<s>
+She then gave him the money.<s>
+He also chose to walk the dog every day for a week which made him one dollar a day.<s>
+His grandpa gave him a late birthday present for his birthday.<s>
+His grandpa's gift was twelve dollars.<s>
+He spent the afternoon counting his money and found that he was still short of his goal.<s>
+
+1) <multiple> What was the second way Andrew made money?
+Mowing the lawn
+* Walking the dog
+It was a gift
+He didn't make any money
+
+2) <multiple> How much more money does Andrew need to make to buy the truck?
+five dollars
+seven dollars
+* six dollars
+eight dollars
+
+3) <single> Who gave Andrew the late present?
+his friend
+* his grandpa
+his uncle
+his mom
+
+4) <single> What does Andrew want to buy?
+a dog
+a gift
+a lawn
+* a toy truck
+

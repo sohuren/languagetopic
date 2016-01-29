@@ -1,0 +1,41 @@
+Paul and George wanted to get something to eat for lunch.<s>
+Sam and Ralph went to school lunch room, but Paul and George wanted to leave and get something outside.<s>
+They both go to the same school and have the same lunch period, which is how they know each other.<s>
+They are allowed to leave school for 1 hour for lunch.<s>
+They get together and rule out pizza, pasta, spicy food and chips.<s>
+They also want to go somewhere close because they only have an hour.<s>
+They know there are two places that have burgers and fries close by.<s>
+Paul loves burgers and George loves fries.<s>
+Paul says that Great Burger has good burgers.<s>
+George says that Best Burger has good fries.<s>
+They now have a problem.<s>
+"How are we going to pick where we are going to go?"<s>
+says George.<s>
+Paul answers "Let's go to Great Burger today and tomorrow let's go to Best Burger."<s>
+George, being a good friend, says OK.<s>
+They leave school and go to eat burgers and fries.<s>
+
+1) <single> What do George and Paul want to eat for lunch?
+Chips
+Pasta
+Pizza
+* Burgers and Fries
+
+2) <multiple> Who picks where they went for lunch?
+* Paul
+Ralph
+George
+Sam
+
+3) <multiple> Who has the best burgers, says Paul?
+Best Burger
+School
+Good Burger
+* Great Burger
+
+4) <single> How do George and Paul know each other?
+Best Burger
+Great Burger
+* Lunch period
+Fries
+

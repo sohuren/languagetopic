@@ -1,0 +1,41 @@
+There was once an animal named Eddy.<s>
+He was not a dog, a bunny or a bear but a little kitten.<s>
+Unlike the black, white and orange cats in his neighborhood, Eddy was a gray cat.<s>
+He loved to go outside and run around the streets and the city.<s>
+He liked to listen to the birds chirp and watch the children draw with chalk.<s>
+He was a very smart and friendly kitten.<s>
+Eddy was good at many things.<s>
+He was good at hopping, running and playing.<s>
+The thing Eddy was best at was climbing!<s>
+His claws gripped trees hard which made it easy for him to pull himself up.<s>
+Anyone who saw Eddy climb might think he was part monkey!<s>
+Eddy also loved his family.<s>
+When he wasn't outside he liked to sit with people when they would read, play with toys and eat.<s>
+Eddy was a very lazy cat!<s>
+He loved to sleep most of the day, at least 12 hours!<s>
+His family could always count on him to be sleepy.<s>
+
+1) <multiple> What kind of animal was Eddy?
+A bear.
+A bunny.
+A dog.
+* A kitten.
+
+2) <multiple> What color was Eddy?
+Black.
+White.
+Orange.
+* Gray.
+
+3) <multiple> What was Eddy best at?
+Hopping.
+Playing.
+* Climbing.
+Running.
+
+4) <multiple> What did Eddy do most of the day?
+Sit with people.
+* Sleep, at least 12 hours.
+Eat food.
+Play with toys.
+

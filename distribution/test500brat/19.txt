@@ -1,0 +1,41 @@
+A young mother had a child that was in kindergarten.<s>
+One day, the class took a trip to the zoo.<s>
+This was the start of a very good day.<s>
+The child had a lot of fun.<s>
+The animals were very friendly, and the friendliest of all was a baby tiger, which the child called 'kitty'.<s>
+The mother laughed when her child asked to see a unicorn.<s>
+Instead, she gave her daughter a cookie and they had some ham sandwiches for lunch.<s>
+They had lunch by the stone benches in the park area.<s>
+There was a trashcan nearby.<s>
+The mother threw their trash in the trashcan when they were done.<s>
+Then they went to go see the pigs.<s>
+The pigs made a noise like 'oink'.<s>
+There were also cows.<s>
+There was also a slide.<s>
+The slide was a water slide, and the child begged her mother to let her go down it.<s>
+At the end of the day, the child was dirty and tired, but she had a lot of fun.<s>
+
+1) <single> Which animal was the friendliest?
+The pig.
+The cows.
+* The tiger.
+The unicorn.
+
+2) <multiple> Where did the mother throw their trash?
+On the bus.
+* The trashcans near the stone benches.
+Outside the zoo.
+On the ground.
+
+3) <single> Where did the class take a trip?
+The water slide.
+The park.
+* The zoo.
+The school.
+
+4) <multiple> Where did they have lunch?
+By the pigs.
+With a unicorn.
+The tiger den.
+* The stone benches in the park area.
+

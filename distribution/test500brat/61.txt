@@ -1,0 +1,41 @@
+One day, a boy named Sam went to the doctor because he fell and hurt his knee.<s>
+He was riding his green tricycle in the yard when it happened.<s>
+He played with yellow and red blocks in the waiting room before his visit with the doctor.<s>
+His mother was sitting in a chair, reading a magazine and talking to other mothers sitting around her.<s>
+The friendly nurse called Sam from the waiting room to finally visit the doctor.<s>
+The nurse weighed Sam, measured his height, and asked him questions about the foods he had eaten that day.<s>
+The nurse also took his temperature to make sure that he did not have a fever.<s>
+After the nurse left the room, the doctor came in and asked Sam about his knee.<s>
+Sam told the doctor all about his fall off the tricycle and the doctor wrote a lot of notes down.<s>
+Doctors write a lot of notes so they can tell people like Sam more about their accidents.<s>
+The doctor said, "Wow Sam!<s>
+It sounds like you had quite a fall."<s>
+The doctor put a bandage on his knee and gave him some medicine to take once he got home.<s>
+On the way out of the doctor's office, Sam took a purple lollipop to eat on the car ride home.<s>
+Sam's mom drove him back home, telling him to be careful for the next time that he plays outside.<s>
+Sam's mom really cared about him and didn't like to see him get hurt.<s>
+
+1) <multiple> Why did the doctor write a lot of notes down?
+To tell the nurse more about Sam's accident
+The doctor wrote no notes.
+To tell Sam's mother about his knee
+* To tell Sam what to do about his knee
+
+2) <multiple> What did the nurse NOT do to Sam before the doctor came?
+measured his height
+asked him questions about food
+* gave him medicine
+took his temperature
+
+3) <single> What color was the lollipop that Sam ate?
+yellow
+red
+green
+* purple
+
+4) <single> What was Sam doing before meeting the doctor?
+* playing with blocks
+reading a magazine
+talking to his mother
+playing with friends
+

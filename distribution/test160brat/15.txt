@@ -1,0 +1,40 @@
+A boy was trying to pick out what instrument that he wanted to play.<s>
+His parents wanted him to pick a good one because playing an instrument was very important to them.<s>
+So, the boy went to a music store with his parents.<s>
+When he got there he didn't know where to start, so the boy walked up to the front and asked the man who worked there for help.<s>
+First the worker brought the boy to a piano.<s>
+"No way," said the boy, "that looks way too hard!"<s>
+The worker laughed at this, and then brought out a guitar.<s>
+The boy thought that guitars were too popular and wanted to play something that not many other people would play.<s>
+Finally, the worker brought the boy to the drums.<s>
+"That's it!<s>
+That is a cool instrument that I could really get into."<s>
+However, his mom wasn't so happy with this because she thought that he would be too loud.<s>
+The boy's dad stepped in and talked her into it because he knew that if the boy liked what he did, he would do way better.<s>
+Twenty years later, and the boy was the drummer in a band.<s>
+It the most popular rock band in the world.<s>
+
+1) <multiple> What happened to the boy?
+He quit the drums after 2 years.
+* He became a drummer in the most popular rock band in the world.
+He didn't get the drums.
+He switched to playing guitar.
+
+2) <multiple> Why did the boy pick an instrument?
+His brother played an instrument
+He thought guitars were cool
+* His parents thought it was important
+He wanted to join the school band
+
+3) <single> Why did the boy not want to play the guitar?
+They had too many strings
+* They were too popular
+He had soft fingers
+He couldn't reach the strings
+
+4) <single> Who talked the Mom into letting the boy get the drums?
+* The Dad
+The Worker
+The drums came alive and talked to the mom.
+The Boy
+

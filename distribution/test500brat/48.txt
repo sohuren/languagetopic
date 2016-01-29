@@ -1,0 +1,43 @@
+Ted's Birthday  Ted was feeling happy as he looked into his bedroom mirror.<s>
+He knew that tomorrow would be his birthday.<s>
+Ted would be seven years old and his daddy was going to take him somewhere special.<s>
+Ted's little brother Paul was playing with his alphabet blocks on the floor.<s>
+Ted walked over and pat him on the shoulder.<s>
+"Daddy said he's taking me to the new yogurt store," he told Paul.<s>
+Paul is four years old so he asked Ted what a yogurt store was.<s>
+"Yogurt is like ice cream," he told Paul, "and I'm going to get cherry."<s>
+Paul said that he wanted cherry, too.<s>
+Then Ted walked over to the closet.<s>
+He looked at his favorite shirt and pants to wear tomorrow.<s>
+Then he looked at his shiny black pair of shoes.<s>
+He smiled because he would have a nice shirt, pair of pants, and pair of shoes to wear for his birthday.<s>
+The two boys then heard the front door open and close.<s>
+They raced down the stairs to greet their father.<s>
+"Daddy, I'm ready for my birthday," Ted said.<s>
+"Me too," said Paul.<s>
+Their father laughed as he picked them up and carried them upstairs.<s>
+
+1) <single> Where is Ted's daddy taking him for his birthday?
+The cherry candy store.
+The shirt store.
+* The yogurt store.
+The shoe store.
+
+2) <multiple> What things did Ted look at in the closet?
+Yogurt spoons.
+Alphabet blocks.
+Mirrors.
+* A shirt, pair of pants, and a pair of shoes.
+
+3) <multiple> What did the boys say to their father?
+Ted and Paul told him that they wanted cherry yogurt.
+* Ted said that he was ready for his birthday, and so did Paul.
+Ted and Paul said that they wanted pizza instead of yogurt.
+Ted and Paul said that they would be four years old.
+
+4) <single> What was Ted happy about?
+He got a new mirror.
+* His birthday is tomorrow.
+He got a new pair of shoes.
+He got some cherry candy.
+

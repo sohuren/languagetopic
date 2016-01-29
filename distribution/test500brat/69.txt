@@ -1,0 +1,44 @@
+John is five years old and loves the ocean.<s>
+When he is in the tub, John pretends that he is a sailboat racer.<s>
+He always wins.<s>
+Sometimes John stays in the tub too long.<s>
+When this happens his mother yells at him.<s>
+Today, John stayed in the tub too long.<s>
+His mother was not happy.<s>
+After getting out of the tub, John had to brush his teeth.<s>
+He used his favorite toothpaste.<s>
+John doesn't like cinnamon flavored toothpaste or fruit flavored toothpaste.<s>
+His favorite type of toothpaste is mint.<s>
+After brushing his teeth, John went to bed.<s>
+His puppy does not like to fall asleep on Tuesdays.<s>
+He falls asleep quickly every other day.<s>
+On Mondays and Wednesdays he falls asleep before John!<s>
+Today, his puppy did not want to fall asleep.<s>
+John was tired, but his puppy kept him up too long.<s>
+His mom told him to go to bed.<s>
+He finally fell asleep after that.<s>
+
+1) <single> What is John's favorite type of toothpaste?
+* Mint
+Cinnamon
+Fruit
+Unflavored
+
+2) <multiple> What day is it?
+Monday
+Friday
+Wednesday
+* Tuesday
+
+3) <multiple> What happens when John stays in the tub too long?
+He wins the race
+* His mother yells at him
+Nothing
+He falls asleep
+
+4) <single> What does John pretend to be when he's in the tub?
+a boy
+a puppy
+* a sailboat racer
+a boat
+

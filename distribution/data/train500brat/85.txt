@@ -1,0 +1,40 @@
+Molly and her friend Jessica liked to play hide and go seek in the woods.<s>
+They would almost always play in the woods behind Molly's house.<s>
+They liked to play there because of the giant trees, which were more fun to play in at nighttime.<s>
+One evening, after a big meal of chicken and potatoes at Molly's house the girls went outside to play hide and go seek.<s>
+They almost turned back because they thought they saw a wolf.<s>
+Luckily, it ended up being a shadow from an old boot.<s>
+Jessica counted to fifty to give Molly time to hide.<s>
+In the middle of counting, Jessica heard a sound!<s>
+Jessica opened up her eyes to see Molly had found a puppy!<s>
+The puppy had a bell on its collar, so the girls knew it must belong to someone.<s>
+They carried the puppy back to Molly's house instead of playing hide and go seek.<s>
+As soon as they got to Molly's front door, Molly's neighbor saw them and screamed with joy.<s>
+The puppy ran over to Molly's neighbor and licked her face.<s>
+The neighbor thanked the two girls by giving them each a folded five dollar bill.<s>
+The girls were very excited that they helped save the day!<s>
+
+1) <multiple> The girls thought they saw a wolf, but what did they really see?
+Giant Trees
+A puppy
+* A shadow of an old boot
+An old boot
+
+2) <single> Where did the girls play hide and go seek?
+Inside Jessica's house
+* The woods behind Molly's house
+Inside Molly's house
+The woods behind Jessica's house
+
+3) <single> What reward did Molly and Jessica get from the neighbor?
+Each girl got one dollar
+* Each girl got five dollars
+They got no money
+They had to split five dollars between them
+
+4) <multiple> When did Jessica see Molly and the puppy?
+* When she stopped counting when she heard a sound
+When they first entered the woods
+After the neighbor asked for help finding her puppy
+After she was done counting and opened her eyes to seek Molly
+

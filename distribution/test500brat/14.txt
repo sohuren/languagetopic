@@ -1,0 +1,51 @@
+Hi there!<s>
+How are you doing today?<s>
+I was hanging out with my friend earlier today.<s>
+I am looking for a guy in a blue shirt and blue pants.<s>
+Have you seen him?<s>
+I cannot find him, and I thought I looked everywhere.<s>
+I have checked behind the green couch and he was not there.<s>
+I looked inside the white refrigerator and he was not there either.<s>
+I looked to the left and looked to the right of the television and he was not in those places either!<s>
+Where would you look for someone?<s>
+Where would you look in their house?<s>
+I think he could be in one of the other rooms here.<s>
+I checked in the living room and it was empty.<s>
+I checked in the bedroom and it was empty too!<s>
+I knocked on the bathroom door and that was empty.<s>
+It is easy to find him because he is in blue.<s>
+Wait, what's that?<s>
+You said you saw someone in the kitchen?<s>
+What were they wearing?<s>
+Were they wearing a blue shirt?<s>
+Oh they weren't?<s>
+I think that could still be my friend!<s>
+I'll head over to the kitchen, you can follow if you want.<s>
+There's my friend!<s>
+And he's wearing an orange shirt now; he must have left to change his shirt.<s>
+Thank you so much!<s>
+
+1) <single> What color did I say he was wearing?
+green
+orange
+* blue
+white
+
+2) <single> What color shirt is my friend wearing?
+blue
+green
+* orange
+white
+
+3) <multiple> How many rooms did I say I checked?
+5
+4
+* 3
+2
+
+4) <multiple> What room was my friend in?
+bathroom
+living room
+bedroom
+* kitchen
+

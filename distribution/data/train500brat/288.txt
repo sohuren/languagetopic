@@ -1,0 +1,44 @@
+Annie was helping her little brother Max pick flowers from the garden.<s>
+They wanted to put the flowers in a jar to put on the kitchen table.<s>
+Mother's Day was the next day and their mother loved fresh flowers.<s>
+After they picked flowers and put them in a jar, Max asked Annie if they could have a snack.<s>
+Annie took Max into the kitchen and got out an apple to slice up.<s>
+They sat down at the table looking at the flowers and ate their apple slices.<s>
+There was a window in the kitchen that let in sunlight.<s>
+"Hey!"<s>
+Max said, pointing at one of the roses in the jar.<s>
+"There's something moving on that rose."<s>
+Annie looked more closely at the flowers.<s>
+"It's a ladybug," she said.<s>
+"We need to take it back outside."<s>
+Suddenly the ladybug began flying around the kitchen.<s>
+Max jumped up and ran around trying to catch it.<s>
+At last he clapped his hands around it.<s>
+"Careful!"<s>
+said Annie.<s>
+Max walked outside and let the ladybug go.<s>
+
+1) <single> What did Max do with the ladybug after he caught it?
+He put it on the rose.
+He chased it around the kitchen.
+He let it eat some of the apple slices.
+* He let it go outside.
+
+2) <multiple> How did the ladybug get inside the house?
+It was eating the apple.
+Max put the ladybug in the jar and brought it in the house.
+* It was on one of the roses when Max and Annie brought them inside.
+Annie let it in through a window.
+
+3) <multiple> Why were Max and Annie picking flowers?
+* Because their mother likes flowers
+So that they could have a snack
+To catch ladybugs
+There was nothing else to do
+
+4) <single> Where did Max and Annie put the flowers they had picked?
+In the garden
+They gave them to their mother
+In the window
+* In a jar
+

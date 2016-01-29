@@ -1,0 +1,57 @@
+Jamey really wanted a pet dog, so he went to ask his parents.<s>
+"Mom, Dad, can I we get a dog?"<s>
+Jamey's mom and dad thought about this, and then answered him.<s>
+"Having a pet can be a lot of work, Jamey.<s>
+When you own a dog, you have to feed him, and take him for walks, and clean up after him.<s>
+You even have to do those things when you would rather be playing or watching TV.<s>
+If you promise to help take care of him, we'll get a dog."<s>
+Jamey was very happy to hear this!<s>
+The next weekend, his mom and dad took him to a big building where puppies and kittens without homes were kept.<s>
+It was very noisy inside!<s>
+Jamey looked at a big yellow dog first.<s>
+"This dog is pretty big, Jamey," his father said.<s>
+"He might need a bigger yard to run around in than we have."<s>
+Jamey thought that Dad was right about that.<s>
+The next dog Jamey looked at was a very small white dog.<s>
+It barked over and over again as Jamey and his mother looked at it.<s>
+"This dog is very noisy Jamey.<s>
+He might need a lot of attention from you.<s>
+Do you think you want to give this puppy that much attention?"<s>
+Jamey wasn't sure he could give the little white dog all the time it needed to be happy.<s>
+Finally Jamey looked at a third dog, a brown dog that was bigger than the white dog, but smaller than the yellow one.<s>
+The dog came over to Jamey right away and seemed to love to be petted and fussed over.<s>
+"Do you like the brown dog?"<s>
+asked Jamey's dad.<s>
+"Yes!"<s>
+said Jamey.<s>
+"Can we get him?"<s>
+"Will you feed him and walk him every afternoon when you get home from school?"<s>
+asked Jamey's mom.<s>
+"I promise," said Jamey.<s>
+"In that case, I guess we have a dog!"<s>
+This made Jamey very happy.<s>
+
+1) <multiple> How many pets did Jamey look at before picking one?
+He looked at one of them.
+He looked at four of them.
+* He looked at three of them.
+He looked at two of them.
+
+2) <single> What did Jamey have to promise his parents so he could get a dog?
+Jamey had to promise to only let his mom and dad feed and walk the dog.
+Jamey had to promise to pet the dog.
+Jamey had to promise to clean up after the dog.
+* Jamey had to promise to feed and walk the dog.
+
+3) <single> Why did Jamey not choose the yellow dog?
+The yellow dog was very noisy.
+He didn't want to feed the yellow dog.
+* The yellow dog was too big.
+He didn't want to walk the yellow dog.
+
+4) <multiple> What were the colors of the different dogs Jamey saw?
+He saw brown, black, and gray dogs.
+* He saw yellow, white, and brown dogs.
+He saw white, brown and black dogs.
+He saw yellow, black and white dogs.
+

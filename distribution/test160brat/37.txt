@@ -1,0 +1,38 @@
+Jimmy didn't eat breakfast.<s>
+Because he didn't eat breakfast he was very hungry and could not stop thinking about food.<s>
+He was thinking about all of the things that he liked to eat the most.<s>
+He was thinking about breakfast foods like bacon and eggs but he was also thinking about lunch and dinner foods like pizza and macaroni and cheese.<s>
+Jimmy was even thinking about some of his favorite desserts like chocolate cake and cherry pie.<s>
+He was even thinking about vanilla pudding and he doesn't even like vanilla pudding.<s>
+Jimmy was so hungry that he was having a hard time playing with his friends.<s>
+Jimmy was playing with Tommy, Timmy and Suzy.<s>
+Timmy chose not to play.<s>
+Jimmy wasn't having any fun because he was so hungry.<s>
+Jimmy was playing hide and go seek with Tommy and Suzy but he could not find any good places to hide.<s>
+Jimmy did not want to play hide and seek.<s>
+If he had to play a game he wanted to play tag but what he really wanted to do was eat lunch.<s>
+
+1) <multiple> Jimmy wasn't playing hide and seek with which of his friends?
+Tommy
+* Timmy
+Suzy
+Jimmy
+
+2) <multiple> Jimmy likes all of the following desserts except.
+Cherry Pie
+Chocolate cake
+* Vanilla Pudding
+Pizza
+
+3) <multiple> What did Jimmy really want to do the most?
+have fun
+Play hide and go seek.
+* Eat lunch
+Play tag
+
+4) <multiple> What meal did Jimmy not eat?
+Dinner
+Lunch
+Dessert
+* Breakfast
+

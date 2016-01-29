@@ -1,0 +1,41 @@
+John wanted to have a birthday party for his son, Mike.<s>
+John and his wife Sara knew that their son loved clowns, as did their daughter Jane.<s>
+So they looked up a place to have a clown come to his birthday party.<s>
+When the clown arrived, ten of Mikes friends showed up to watch the show.<s>
+His parents had sent out 12 invites, thinking 6 or 8 kids would come.<s>
+The clown started the show by squirting some water from a flower into John's face.<s>
+This caused John's face to turn red.<s>
+After the show, when everyone had left, it was up to John and Sara to clean up after the party.<s>
+There was food everywhere; they had had salad and there was lettuce on the ground.<s>
+Later that evening it was dinnertime and the family had to choose what to eat.<s>
+The choices were order a pizza, make hamburgers, go get fried chicken or make noodles.<s>
+Since it was Mike's birthday they let him choose.<s>
+He really wanted pizza so they called up Pizza Palace to place their order.<s>
+When the pizza arrived it did not come in a square box like most pizzas.<s>
+Instead it was in a round box that no one had ever seen.<s>
+John gave everybody a slice and then placed Mike in his lap to eat dinner.<s>
+
+1) <single> How many of Mikes friends came to the party
+6
+* 10
+8
+12
+
+2) <multiple> What was picked for dinnertime and by who?
+Noodles, John
+* Pizza, Mike.
+Salad, Sara
+Hamburgers, Jane
+
+3) <single> What shape box did the pizza come in?
+Triangle
+Square
+* Circle
+no box.
+
+4) <multiple> What performer came to the party, and what was the party for?
+Clown, daughter's birthday party
+Magician son's birthday party
+Magician, daughter's birthday party.
+* Clown, son's birthday party
+

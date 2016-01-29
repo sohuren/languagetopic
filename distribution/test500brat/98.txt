@@ -1,0 +1,39 @@
+There was once a young bear who lived in a small cave in the woods.<s>
+His cave was comfy, warm, and dark, and had a bit of a yard in front of it.<s>
+The bear lived with his mother and father, and spent his days walking around and his nights curled up asleep.<s>
+He liked to look for berries to eat.<s>
+His favorite berries were blueberries, but he would eat any berries he found: strawberries, raspberries, cherries, anything.<s>
+There was a river near the bear's cave, and he loved to sit on the bank and look at the fish and frogs, and at his own reflection in the water.<s>
+One sunny afternoon, when he was looking into the river, he saw a family of ducks swimming by.<s>
+He got up and followed them.<s>
+They swam along in the river, and he walked along the bank.<s>
+They traveled like this until they reached a small clearing in the forest.<s>
+The bear stopped and looked around, and saw that the clearing was completely filled with blueberries -- more than he had ever seen!<s>
+The young bear ate his fill of blueberries, then took home as many as he could carry in his paws.<s>
+He went to bed happy.<s>
+It was a wonderful day.<s>
+
+1) <multiple> What kinds of animals did the bear follow?
+fish
+* ducks
+lions
+frogs
+
+2) <single> What berries did the young bear like best?
+raspberries
+* blueberries
+strawberries
+cherries
+
+3) <multiple> Where did the bear like to sit?
+In a clearing in the forest.
+* On the bank of the river near his cave.
+In his cave.
+Up in a tree.
+
+4) <single> What type of day did the bear's adventure happen on?
+During the night
+A sunny morning
+A rainy morning
+* A sunny afternoon
+

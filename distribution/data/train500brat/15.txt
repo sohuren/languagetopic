@@ -1,0 +1,41 @@
+Brendan loves cats.<s>
+He owns 8 cats.<s>
+He has 7 girl cats and only 1 boy cat.<s>
+Brendan brushes the cats' hair every day.<s>
+He makes sure to feed them every morning and evening and always checks to see if the cats have water.<s>
+Sometimes he feeds them special treats because he loves them.<s>
+Each cat gets 3 treats.<s>
+He doesn't give them food like chips and cake and candy, because those foods aren't good for cats.<s>
+He likes to play with the cats.<s>
+The cats like to chase balls of paper that Brendan makes for them.<s>
+Some of his cats have orange fur, some have black fur, some are spotted and one is white.<s>
+The white cat is Brendan's favorite.<s>
+She is the first cat he owned.<s>
+Her name is Snowball.<s>
+When he first got Snowball she was a kitten.<s>
+His other cats are named Fluffy, Salem, Jackie, Cola, Snickers, Pumpkin and Whiskers.<s>
+
+1) <single> Who makes the paper balls the cats play with?
+Whiskers
+Pumpkin
+Snickers
+* Brendan
+
+2) <multiple> What does Brendan feed his cats?
+cake
+chips
+candy
+* cat food and treats
+
+3) <single> How many cats does Brendan have?
+7
+3
+1
+* 8
+
+4) <multiple> What is the name of Brendan's favorite cat?
+* Snowball
+Jackie
+Fluffy
+Salem
+

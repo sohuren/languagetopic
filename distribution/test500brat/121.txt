@@ -1,0 +1,50 @@
+Once there was a beautiful Queen.<s>
+She liked dancing.<s>
+She liked singing.<s>
+She liked playing.<s>
+But the thing she liked the most was eating ice cream.<s>
+She liked many kinds of ice cream, but her favorite was strawberry.<s>
+She liked it best because it was pink, and pink was her favorite color.<s>
+Because she liked eating ice cream so much, she wanted a kingdom wide ice cream eating holiday.<s>
+Everyone had to stop working and eat ice cream.<s>
+All of the people were happy with the new holiday.<s>
+It was summer, and everyone would rather eat ice cream than work.<s>
+The queen wanted to see what the favorite flavor of ice cream was in her kingdom.<s>
+Everyone got to say their favorite flavor.<s>
+159 people liked chocolate.<s>
+67 people liked vanilla.<s>
+382 people liked strawberry.<s>
+The queen was very happy that everyone liked strawberry as much as she did.<s>
+The king was not happy.<s>
+He liked chocolate the best.<s>
+He wanted to get rid of all of the strawberry ice cream so that chocolate could be the winner.<s>
+When the queen found out she was very sad.<s>
+Then she had an idea: chocolate strawberry ice cream.<s>
+The king liked the idea.<s>
+All the people liked the idea.<s>
+A new ice cream flavor was made and everyone loved it.<s>
+
+1) <single> What was the queen's favorite flavor?
+Chocolate
+Caramel
+Vanilla
+* Strawberry
+
+2) <single> What was the new flavor?
+vanilla chocolate
+* chocolate strawberry
+chocolate caramel
+vanilla strawberry
+
+3) <multiple> Why was the king not happy?
+Because he didn't like strawberry.
+Because he liked vanilla.
+Because he didn't like the queen's singing.
+* Because his favorite flavor didn't win.
+
+4) <multiple> Which flavor did the most people like?
+* Strawberry
+Caramel
+Vanilla
+Chocolate
+

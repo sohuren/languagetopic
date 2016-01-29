@@ -1,0 +1,42 @@
+Jane was good at basketball but she liked soccer more.<s>
+She played forward for her soccer team on Saturday morning.<s>
+A man in a black and white striped shirt blew his whistle to start the game.<s>
+It was hot so Jane's coach handed out orange slices for the players to eat at half time.<s>
+Jane's team was winning but she was more excited for what she would do in the afternoon.<s>
+Her father was going to take her to watch a baseball game.<s>
+When the soccer game was over, Jane took off her soccer shoes and put them next to her father's running shoes in the back of his car.<s>
+Jane and her father drove to the baseball game.<s>
+After buying their tickets, they went to find their seats.<s>
+A man in a green shirt stood at the top of the stairs in their section.<s>
+He showed them where their seats were.<s>
+Jane saw a lot of empty peanut shells on the ground near their seats.<s>
+A man in a blue shirt was yelling for people to buy some cotton candy.<s>
+Jane's father bought them hot dogs to eat instead.<s>
+Jane put ketchup and mustard on hers.<s>
+The home team was named the Cardinals and they wore red.<s>
+The pitcher threw the first pitch and everyone cheered.<s>
+
+1) <multiple> What color shirt was the man wearing who showed Jane and her dad their seats?
+Blue.
+* Green.
+Black and white.
+Red.
+
+2) <multiple> Who was not at the baseball game?
+The pitcher.
+Jane's father.
+A man who had cotton candy.
+* Jane's coach.
+
+3) <single> What sport did Jane's father take her to see?
+Soccer.
+Basketball.
+Running.
+* Baseball.
+
+4) <single> What did Jane and her father eat at the baseball game?
+* Hot dogs.
+Cotton candy.
+Orange slices.
+Peanuts.
+

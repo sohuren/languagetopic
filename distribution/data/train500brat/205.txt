@@ -1,0 +1,43 @@
+His parents were out and dropped him at the babysitter's house at 12 o'clock.<s>
+Lunchtime had past, but later the babysitter fixed him a dinner of some kind of brown meat.<s>
+Under the meat was a slice of dry toast.<s>
+Timmy didn't like the dinner and wished he had spaghetti or pizza.<s>
+Even if it wasn't what he wanted, the meal filled his tummy and stopped the hunger pains.<s>
+Timmy was bored and wanted something to do, but he didn't have any toys.<s>
+All he had was some paper, his toothbrush and toothpaste.<s>
+He wished he was home where he had left his favorite toy race car and train.<s>
+The house was quiet and nighttime was near.<s>
+He pretended he was camping.<s>
+It was 8 o'clock and the streetlight came on and shined through the curtain, making scary shadows on the wall.<s>
+He looked through the trash in the babysitter's extra room but couldn't find anything useful.<s>
+If he at least had some markers or crayons he could draw some pictures, but he didn't even have a pencil.<s>
+Timmy thought for a bit and found he could make a toy boat.<s>
+He folded the paper into a mighty ship.<s>
+In his imagination the little boat was in a storm on a dark sea.<s>
+Danger was all around.<s>
+The imaginary men on his paper boat were facing the storm bravely and sailed into safety as he was falling asleep.<s>
+
+1) <single> What time of day was it when Timmy got bored?
+lunchtime
+morning
+* 8 o'clock
+midnight
+
+2) <single> Where was Timmy?
+camping
+* Babysitter's house
+hotel
+home
+
+3) <multiple> What did Timmy have to play with?
+* Paper boat
+dump truck
+train
+race car
+
+4) <multiple> What did Timmy have for dinner?
+spaghetti
+hamburger and fries
+pizza
+* Meat and toast
+

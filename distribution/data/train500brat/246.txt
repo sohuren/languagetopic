@@ -1,0 +1,41 @@
+One day a young princess named Amelia was looking out of the window of her castle.<s>
+Amelia loved to sing, but was tired of singing only the songs her mother, Queen Anne, allowed her to sing.<s>
+Princess Amelia thought it might be fun to write her own songs instead.<s>
+So, on Saturday Princess Amelia went to the garden with a pen and paper.<s>
+She thought and thought, but couldn't come up with any words for a song.<s>
+What could she write about?<s>
+Daisy, her cow?<s>
+Her frog, Pete?<s>
+Nothing came to mind.<s>
+She sat there all day.<s>
+And the next day too.<s>
+Amelia was tired and hungry.<s>
+But she wanted to stay until she had a song.<s>
+Finally, on Monday, Queen Anne came looking for Amelia and forced her to return to her room.<s>
+She gave Amelia a large book of songs to sing.<s>
+Amelia was happy.<s>
+
+1) <single> What does Amelia love to do?
+think
+write
+garden
+* sing
+
+2) <multiple> Why did Amelia stay in the garden?
+she had to feed her cow Daisy
+to wait for her mother
+to pet her frog
+* to try and think of a song to write
+
+3) <multiple> How long did Amelia sit in the garden?
+all day Monday
+* three days
+two days
+Saturday afternoon
+
+4) <single> What is the name of the princess?
+Pete
+* Amelia
+Daisy
+Anne
+

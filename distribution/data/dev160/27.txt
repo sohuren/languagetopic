@@ -1,0 +1,28 @@
+Tammy likes the park.<s>
+There are swings at the park.<s>
+There is a slide at the park.<s>
+Mary goes to the park with Tammy.<s>
+They jump rope.<s>
+They play tag.<s>
+They like the park.<s>
+Tammy and Mary have fun at the park.<s>
+Tammy has a dog named Max.<s>
+Tammy and Mary take Max to the park.<s>
+Max likes the park.<s>
+He chases rabbits.<s>
+He chases a ball.<s>
+Tammy throws the ball to Max.<s>
+Mary throws the ball to Max.<s>
+The park is no fun in the rain.<s>
+Tammy and Mary cannot go to the park when it rains.<s>
+Mother says no.<s>
+They are sad when they cannot go to the park.<s>
+Tammy and Mary play in the house when it rains.<s>
+They play with dolls.<s>
+They dress up and have a tea party.<s>
+Today is sunny.<s>
+Tammy and Mary can go to the park.<s>
+Mother says yes.<s>
+They can take Max to the park.<s>
+They are happy when it is sunny.<s>
+

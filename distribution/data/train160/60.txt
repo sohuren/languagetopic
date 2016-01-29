@@ -1,0 +1,29 @@
+Luke takes his dog for a walk.<s>
+Luke has many pets.<s>
+He has a turtle named Bob.<s>
+He has a cat named Freckles.<s>
+He has a bird named squeaky.<s>
+The dog is named Sparky.<s>
+Sparky loves to go on walks with Luke.<s>
+Sparky jumps around in front of the doorway.<s>
+Luke puts on his hat, coat, and gloves because it is chilly outside.<s>
+Luke puts a leash around Sparky's neck.<s>
+Luke opens the door and they are ready to go.<s>
+Luke walks up Vine Street to the stop sign.<s>
+The stop sign is red.<s>
+Luke looks both ways and then walks across Willow street with Sparky.<s>
+Luke and Sparky walk up the hill.<s>
+At the top of the hill, Luke and Sparky turn left.<s>
+They walk downhill on First Street.<s>
+At the bottom of the hill, they see a small pond.<s>
+The pond is on Elm Street.<s>
+Sparky is very happy.<s>
+Swimming in the pond are ducks.<s>
+There are white ducks and brown ducks.<s>
+There are baby ducks, too.<s>
+Sparky walks all around the pond.<s>
+Luke watches the ducks as they swim around the pond.<s>
+When it is time to go, Luke leads Sparky back to the sidewalk.<s>
+It is warmer and Luke takes off his hat and coat.<s>
+They walk home.<s>
+

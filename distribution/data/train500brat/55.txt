@@ -1,0 +1,51 @@
+Ginger and Joey were two young dogs.<s>
+They were happy because it was now the summer and they could play outside more often.<s>
+Today Ginger and Joey were running around in their big backyard.<s>
+They had fun barking at many things.<s>
+They barked at squirrels.<s>
+They barked at a bus.<s>
+They barked at the mailman.<s>
+They barked at a weird bug.<s>
+They barked so much, they were never quiet!<s>
+The neighbor was a grumpy old man.<s>
+His name was Bert.<s>
+Bert threw a shoe at them because they were barking too much.<s>
+He couldn't take a nap because they were so loud.<s>
+Bert got too angry and Bert throws things when he gets too angry.<s>
+The shoe missed both Ginger and Joey, but they barked a little less.<s>
+Now they ran even faster.<s>
+After a very long time, they began to get tired.<s>
+They sniffed around the edges of the yard and found some old watermelon.<s>
+That's a good snack for young dogs like Ginger and Joey!<s>
+Next, they rolled around in the dirt.<s>
+Then they chased their tails.<s>
+Finally, their mom came out and told them to come inside.<s>
+They were so dirty, they needed a bath.<s>
+Ginger loved baths and jumped right into the tub.<s>
+Joey was scared and ran away to hide.<s>
+After a little bit, his mom found him and he got a bath in the end, too.<s>
+
+1) <multiple> What was Joey scared of?
+A weird bug
+Ginger
+The summer
+* A bath
+
+2) <single> What was the name of one of the dogs?
+Watermelon
+Mom
+* Ginger
+Bert
+
+3) <multiple> Why was Bert so angry today?
+* Ginger and Joey were barking too much
+Ginger and Joey took a bath in his tub
+Ginger and Joey were running in his backyard
+Ginger and Joey ate his watermelon
+
+4) <multiple> What did Ginger and Joey bark at?
+Their mom
+The tub
+* The mailman
+Bert
+

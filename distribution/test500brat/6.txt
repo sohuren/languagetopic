@@ -1,0 +1,42 @@
+I have a friend who is a princess of the piggies.<s>
+No, really!<s>
+She lives in a piggy castle and has piggy gowns and piggy balls and a piggy carriage, though no piggy crown.<s>
+She loves being a princess, but sometimes it gets boring.<s>
+There's only so much fun to be had walking around a castle.<s>
+She likes to cook too.<s>
+So sometimes, she goes to the kitchen.<s>
+She has a lot of fun in the kitchen making new foods.<s>
+She likes to pretend she's a cook!<s>
+Someday she wants to be a piggy princess cook!<s>
+One of her favorite things to cook is pea soup.<s>
+She loves soup, and pea soup most of all, even if tomato is pretty good too.<s>
+She doesn't like vegetable or chicken soup at all.<s>
+She grows her own peas, mushes them up in the soup, and then stirs it all up with a spoon.<s>
+She also cooks it on the stove.<s>
+She loves to cook, and I love to eat.<s>
+We're best friends!<s>
+
+1) <single> What does my friends want to be?
+A ball
+A spoon
+A pea
+* A cook
+
+2) <multiple> What is my friend's favorite kind of soup?
+* Pea
+Chicken
+Vegetable
+Tomato
+
+3) <multiple> What doesn't my piggy princess friend have?
+* Crown
+Castle
+A best friend
+Carriage
+
+4) <multiple> What do my friend and I do together?
+Grow peas
+Play tag
+Go to balls
+* Cook and eat
+

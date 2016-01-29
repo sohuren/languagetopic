@@ -1,0 +1,45 @@
+Steve took his family to the lake.<s>
+There are a lot of things to do at the lake.<s>
+Steve's favorite thing to do is ride in his red boat across the blue water.<s>
+The boat is very loud and makes dark brown smoke.<s>
+The boat can go very fast.<s>
+Steve has a son named Bobby.<s>
+Bobby doesn't like riding in the boat, he prefers to sit on the shore and make lunch.<s>
+He makes sandwiches for the whole family.<s>
+Bobby loves eating ham sandwiches, but Steve prefers turkey sandwiches.<s>
+Bobby's mom also likes to eat ham sandwiches.<s>
+Bobby also has a younger sister named Mary.<s>
+Mary doesn't like eating sandwiches so she brings one cup of soup and some chips for her lunch.<s>
+Mary enjoys fishing at the lake.<s>
+She caught two yellow fish, five pink fish and three blue fish.<s>
+Mary wants to cook the fish for dinner.<s>
+Bobby's mom likes to wear her favorite orange hat.<s>
+Her hat also has a big purple flower on top.<s>
+She got the hat from Billy who works at the big store down the street.<s>
+After Steve's family leaves the lake they all want to go home and eat dinner.<s>
+Playing at the lake makes them all very hungry!<s>
+
+1) <single> How many cups of soup did Mary bring for lunch?
+Five
+Two
+Three
+* One
+
+2) <multiple> What color is Steve's boat?
+Purple
+Blue
+Orange
+* Red
+
+3) <multiple> Who gave Bobby's mom the orange hat?
+Mary
+Bobby
+Steve
+* Billy
+
+4) <single> What is Steve's favorite thing to do?
+Eat dinner
+* Ride in his boat
+Make sandwiches
+Fishing
+

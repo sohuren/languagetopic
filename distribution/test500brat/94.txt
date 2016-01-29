@@ -1,0 +1,43 @@
+The kitchen comes alive at night in the Sanderson house.<s>
+Vegetables, fruit, bread, and more come out to play.<s>
+The knives and forks dance on the tables.<s>
+There are games and prizes.<s>
+Milk is used for swimming races.<s>
+The cereal often wins those.<s>
+Fruit gets used as balls in some games.<s>
+Blueberries scream in joy as they are kicked into soccer goals in games between the spoons and vegetables like celery and carrots.<s>
+Their cousins, the raspberries, like to watch the games.<s>
+Everyone has a great time and laughs.<s>
+They are happy to come out and be friends.<s>
+If someone, like little John or his sister Kim, comes down to get water, they all hide until they leave.<s>
+The father, Ryan, sometimes wakes up and thinks he hears something downstairs.<s>
+His wife, Susan, tells him he needs to go back to bed.<s>
+She tells him he is imagining things.<s>
+He is not.<s>
+The kitchen got too loud.<s>
+They were having so much fun they woke up the family!<s>
+
+1) <multiple> Who does not play soccer?
+Carrots.
+Celery.
+* Raspberries.
+Spoons.
+
+2) <single> Who dances on tables?
+* Forks.
+Raspberries.
+Spoons.
+Blueberries.
+
+3) <multiple> Who is told he is imagining things?
+Susan.
+Kim.
+* Ryan.
+John.
+
+4) <multiple> Who often wins the swimming races?
+Bread.
+* Cereal.
+Fruit.
+Vegetables.
+

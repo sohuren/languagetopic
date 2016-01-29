@@ -1,0 +1,37 @@
+There was once a family called the McAllisters.<s>
+There was a dad, John McAllister, a mom, Amy McAllister, and their two twins, Ally and Jonah McAllister.<s>
+This family was a family family, but when it came time to eat dinner, they sometimes argued.<s>
+This is because different people liked different meals.<s>
+John liked chicken most of all, and Amy liked vegetables.<s>
+The twins, Ally and Jonah, preferred hotdogs, but Ally preferred ketchup, and Jonah preferred mustard.<s>
+When it came to every day dinners, they took turns eating what each person liked.<s>
+However, when it came to special meals like thanksgiving, it was difficult for the family to choose what to have.<s>
+There would be frequent fights between all of them on what they would eat.<s>
+Finally, they all had the answer.<s>
+They would invite their grandpa over, because their grandpa was a great cook and could make everyone's favorite food, including chicken, vegetables, and hotdogs.<s>
+On Thanksgiving, everyone was happy.<s>
+
+1) <single> What was the dad's favorite food?
+Vegetable
+Hotdog with mustard
+Hotdog with ketchup
+* Chicken
+
+2) <multiple> How did they choose what to eat for thanksgiving?
+They took turns
+They argued about it
+They all wanted the same thing
+* They invited grandpa over to make it all
+
+3) <single> What was the mom's favorite food?
+Hotdog with mustard
+Hotdog with Ketchup
+Chicken
+* Vegetables
+
+4) <multiple> How did the twins like?
+Ally preferred chicken and Jonah preferred vegetables
+Ally preferred vegetables and Jonah preferred chicken
+Ally preferred mustard and Jonah preferred ketchup
+* Ally preferred ketchup and Jonah preferred mustard
+

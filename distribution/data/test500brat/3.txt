@@ -1,0 +1,44 @@
+There once lived an elf who was a stinker.<s>
+He was real mean to everyone around.<s>
+He'd throw pies at girls.<s>
+He'd put soap in the fridge.<s>
+He'd give the queen shorts as birthday presents.<s>
+No one liked the elf.<s>
+One day he was planning a way to make someone feel sad.<s>
+He thought to draw on someone's head.<s>
+He went looking for someone who was asleep so he could draw on them.<s>
+He found a boy laying under a tree.<s>
+He walked right up to him with his magic marker.<s>
+He drew a giant house on the boy's forehead.<s>
+The boy woke up and pushed the elf off of him.<s>
+The boy knew the elf had done something bad to him so he ran all the way home without looking back.<s>
+The elf felt real good about himself.<s>
+He had mad the boy sad!<s>
+He skipped off and took a swim in a nearby pond.<s>
+The boy never talked to the elf again after that.<s>
+The elf didn't care and went on annoying people.<s>
+
+1) <multiple> Why did the elf go swimming in a pond?
+He put soap in the fridge.
+He was nice to everyone.
+* He had annoyed the boy and made him sad.
+He had celebrated the queen's birthday.
+
+2) <single> What did the elf to do girls?
+He at their soap.
+He pushed them in ponds.
+* He threw pies at them.
+He woke them up.
+
+3) <single> What did the elf do as he went to the pond?
+* skipped
+layed under a tree
+drew on someone's face
+slept
+
+4) <multiple> What did the elf do to the boy?
+He gave him shorts for his birthday.
+He gave him soap.
+* He drew a house on his forehead with a magic marker as he was sleeping.
+He swam with the boy.
+

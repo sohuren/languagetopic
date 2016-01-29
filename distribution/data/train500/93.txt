@@ -1,0 +1,22 @@
+All the animals were having a picnic.<s>
+Turtle brought hotdogs for everyone.<s>
+All the animals came to make their hotdogs.<s>
+Rabbit put ketchup on his hotdog.<s>
+Duck put mustard on his hotdog.<s>
+Bear put ketchup and mustard on his hotdog.<s>
+Turtle and Fox did not put ketchup or mustard on their hotdog.<s>
+Goose looked at the hotdogs.<s>
+He did not like hotdogs at all.<s>
+He was very hungry.<s>
+He looked around for something else to eat.<s>
+Duck had brought chips, but Goose did not like chips.<s>
+Bear had brought salad, but Goose did not like salad.<s>
+Fox had brought apples, but Goose did not like apples.<s>
+Rabbit brought carrots, but Goose did not like carrots.<s>
+Goose looked around for something that he liked.<s>
+Then he saw something near the edge of the meadow.<s>
+It was a bunch of red strawberries.<s>
+Goose liked strawberries very much.<s>
+He took a basket and gathered up as many strawberries as he could and brought them to the picnic.<s>
+Everyone was happy, and Goose was not hungry any more.<s>
+

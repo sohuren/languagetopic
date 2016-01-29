@@ -1,0 +1,48 @@
+There once was a boy named John who was a good superhero.<s>
+He thought he was a superhero, at least.<s>
+His mommy made him eat his cereal with yoghurt every morning so he could stay strong.<s>
+Today he had to go to school and he wasn't very happy about that.<s>
+After breakfast he walked to the bus stop.<s>
+There he found his neighbor Ashley, who was also an evil superhero.<s>
+John thought she was an evil superhero at least.<s>
+When John got to the bus stop, Ashley made a silly face at him.<s>
+Then she dared him to lick a worm she found on the sidewalk.<s>
+John had super powers, so he said yes to the dare.<s>
+He picked up the worm.<s>
+It was slimy and gross.<s>
+It wiggled around between his fingers.<s>
+John closed his eyes and licked it.<s>
+Ashley laughed so hard, she fell to the ground.<s>
+But John felt like a real superhero who had won the day for good kids everywhere.<s>
+First thing tomorrow, John would start wearing a cape to school.<s>
+He hoped his mommy would let him wear it.<s>
+The bus came and Ashley was still sitting on the ground laughing.<s>
+John had a great, superhero kind of thought.<s>
+He put the worm in her hair.<s>
+Now Ashley was screaming!<s>
+John the superhero got in trouble for that.<s>
+
+1) <multiple> Why did John lick the worm?
+* Ashley dared him to
+He wanted to be an evil superhero
+He had to for school
+His mommy made him
+
+2) <multiple> What did John do before meeting the evil superhero?
+* Ate his cereal and yoghurt
+Got on the bus to school
+Licked a worm
+Put a worm in Ashley's hair
+
+3) <single> Who was a good superhero?
+Mommy
+The worm
+* John
+Ashley
+
+4) <multiple> What did John get in trouble for?
+* Putting a worm in Ashley's hair
+Missing the school bus
+Not eating his cereal and yoghurt
+Licking a worm
+

@@ -1,0 +1,41 @@
+Sally was looking through her closet for some clothes to wear to the school dance tomorrow night.<s>
+She had a lot of clothes to look through, but she needed something perfect for the dance, since she would be seen by a lot of other people, and she wanted to stand out from the rest of the girls.<s>
+There would be a lot of boys there, too.<s>
+If she looked as nice as she imagined she could, she would have a lot of boys asking her to dance.<s>
+And she didn't want to dance alone, because that would make her feel sad.<s>
+But she had to hurry, since it was getting late, and she had to sleep soon.<s>
+She was so excited, that she barely touched her baked potato she had during suppertime.<s>
+She also had chicken, some green beans, and corn on the cob.<s>
+She came down to four choices for what she could wear to the dance.<s>
+a pink dress, a green dress, a red dress, and a yellow dress.<s>
+She tried on each one and looked at herself in the mirror to see how she looked.<s>
+She chose the yellow dress, because it was the prettiest.<s>
+After making her choice, she changed into her pajamas and got in bed.<s>
+She turned the light out and fell asleep.<s>
+She dreamed about the fun she would have at the dance.<s>
+Sally smiled as she slept.<s>
+
+1) <single> why was Sally picking out a dress?
+* For a school dance
+for suppertime
+so she could dream
+to sleep
+
+2) <multiple> What did Sally barely touch at suppertime?
+chicken
+* a baked potato
+green beans
+corn on the cob
+
+3) <single> What dress did Sally pick?
+pink
+red
+* Yellow
+green
+
+4) <multiple> Why did Sally want to look nice?
+so she could go to sleep
+so she would have fun
+* so she would have a lot of boys asking her to dance
+so she could have chicken
+

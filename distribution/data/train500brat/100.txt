@@ -1,0 +1,38 @@
+Joey went to the doctor yesterday.<s>
+He was a little scared because he might have to get a shot, but his mother promised that it wouldn't hurt.<s>
+During the time they were in the waiting room, Joey played with some blue and green blocks and some toy cars that the doctor kept there for the children who came to see him.<s>
+He also met another little boy named Bobby who also had to see the doctor.<s>
+Bobby liked playing with the cars more than the blocks, but Joey liked playing with both of them.<s>
+Joey also met a little girl named Sandy who was playing with some dolls the doctor also had for the children.<s>
+When it was Joey's turn to see the doctor, his mother led him into one of the rooms and had him sit on a yellow chair.<s>
+The doctor was a friendly man who wore glasses.<s>
+He took Joey's temperature and looked in his ears, then asked him a few questions about how he had been feeling.<s>
+When Joey said his throat hurt a little, the doctor took a look at it as well.<s>
+He said everything looked okay, and Joey wouldn't need any shots this visit.<s>
+On the way out Susan the nurse let Joey take a red lollipop from a basket on her desk.<s>
+By the time Joey got home, he thought the doctor wasn't so scary after all.<s>
+
+1) <multiple> What did the doctor check when he was seeing Joey?
+* Temperature, ears and throat
+Ears and throat
+Temperature, eyes and ears
+Temperature and throat
+
+2) <single> What color chair did Joey sit on?
+Green
+* Yellow
+Red
+Blue
+
+3) <multiple> What were the names of the other children Joey met at the doctor's office?
+Sandy and Susan
+* Bobby and Sandy
+Bobby and Susan
+Bobby, Sandy and Susan
+
+4) <single> What toys did Bobby like best?
+The dolls
+* The cars
+He liked them all
+The blocks
+

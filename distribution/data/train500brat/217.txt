@@ -1,0 +1,45 @@
+There once was a small boy who liked to wiggle.<s>
+He would wiggle everywhere he went.<s>
+He would wiggle during supper when he was eating his food.<s>
+He would wiggle down the winding path outside his house.<s>
+He could wiggle his right knee when he walked, and that gave his wiggle even more wiggle.<s>
+One day, his grandpa was watching the boy wiggle.<s>
+His grandpa was old and liked to cough.<s>
+He had a long beard that was grey at the top.<s>
+He was tired of watching the boy wiggle, and thought the boy was wiggling around a little too much.<s>
+So, his grandpa gave the boy a pea and told him it was a magic pea.<s>
+He said the magic pea would stop his wiggle.<s>
+The boy started roaring with laughter.<s>
+He didn't believe a pea could stop his wiggle.<s>
+The grandpa put the pea in a little square bag and tied it around the boy's waist.<s>
+The boy tried to wiggle, but he couldn't wiggle at all.<s>
+All he could do was walk straight.<s>
+That was no fun.<s>
+What good was a boy if he couldn't wiggle when he wanted?<s>
+The grandpa coughed and smiled.<s>
+He enjoyed watching the boy not wiggle any more.<s>
+
+1) <multiple> Why did grandpa give the boy a pea?
+The boy was hungry from wiggling.
+He found it in his long beard.
+He found it in a bag.
+* It was a magic pea that would stop the boy's wiggle.
+
+2) <single> Where did grandpa put the pea?
+On the winding path.
+In his long beard.
+* In a square bag
+On the boy's right knee.
+
+3) <multiple> What happened when the boy got the pea?
+His right knee started to wiggle.
+His wiggle was wiggling even more.
+* He could not wiggle and could only walk straight.
+He ate it for supper.
+
+4) <single> What did the grandpa like to do?
+Eat peas
+Wiggle
+Laugh
+* Cough
+

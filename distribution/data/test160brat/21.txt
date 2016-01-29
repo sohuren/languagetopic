@@ -1,0 +1,43 @@
+On a nice and sunny day, Bob and Sally walked to the beach.<s>
+When they got there, the first thing they wanted to do was to look for buried treasure.<s>
+To find the treasure they had brought two shovels and two buckets.<s>
+They both started digging holes in the sand with their shovels.<s>
+After looking very hard for treasure for an hour, they didn't find anything.<s>
+This made Bob and Sally very sad.<s>
+They gave up and went to play in the water.<s>
+While they were playing in the water, Sally found a bottle with a little paper inside.<s>
+Sally opened the bottle and found a treasure map.<s>
+Sally showed the map to Bob and they started to look for the treasure.<s>
+After walking every step that the map said, they started digging with their shovels.<s>
+After digging a really a big hole, they found a box.<s>
+They were very happy that they found it and wanted to see what was inside.<s>
+Bob slowly opened the box and there was a very big pearl.<s>
+Next, they ran to a special store to ask about the pearl.<s>
+The worker in the store told Bob and Sally that the pearl could make them rich.<s>
+Bob and Sally looked at each other and decided not to sell it.<s>
+They took the pearl home and saved it in a special box, so they could remember their day at the beach.<s>
+
+1) <single> What did Bob and Sally find in the box?
+A coin
+* A pearl
+A ring
+A necklace
+
+2) <single> What did Sally find in the water?
+A shell
+A bucket
+* A bottle
+A shovel
+
+3) <multiple> What did Bob and Sally do after they showed the pearl to the worker?
+They sold it.
+They left it at the beach.
+* They took it home.
+They gave it away.
+
+4) <multiple> Why did Bob and Sally stop looking for the treasure?
+* They were sad at not finding anything.
+They forgot to bring a shovel.
+They did not want to find the treasure.
+They got hungry.
+

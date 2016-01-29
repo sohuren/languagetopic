@@ -1,0 +1,42 @@
+There were 2 best friends named Sam and Jenny.<s>
+They were not friends with Kimmi, a girl in the same class.<s>
+And they were not friends with Joe.<s>
+Joe was not their friend because he didn't talk to Sam and Jenny.<s>
+Joe did not talk to anyone.<s>
+Kimmi talked to everyone, but she did not keep secrets she was told and she said  bad things about the people around her all the time.<s>
+No one liked her.<s>
+Everyone thought she was mean.<s>
+One day, Sam and Jenny were playing with their puppy near a big tree when they found Kimmi sitting under the tree crying.<s>
+Kimmi was sad that no one wanted to be her friend.<s>
+Sam and Jenny felt bad for Kimmi.<s>
+Jenny told Kimmi  she would have a lot of friends if she didn't say such mean things about people.<s>
+Sam said that was not true, because Joe did not talk about people and he had no friends.<s>
+Sam and Jenny thought about it a long time.<s>
+Sam and Jenny brought Kimmi to meet Joe.<s>
+Kimmi and Joe became friends soon and Kimmi learned not to say mean things about people.<s>
+Everyone was happier.<s>
+
+1) <single> Why was Kimmi sad?
+she did not like the puppy
+* Nobody liked her.
+Joe said mean things about her.
+she wanted Jenny to be nice to her
+
+2) <single> who are friends at the start of the story?
+* Sam and Jenny
+Sam and Jenny and Kimmi and Joe
+Jenny and Kimmi
+Kimmi and Joe
+
+3) <multiple> Who is not friends with Sam at the start of the story?
+Sam is friends with everyone.
+Jenny
+Joe
+* Joe and Kimmi
+
+4) <multiple> what were Jenny, Sam and Kimmi doing under the tree?
+Sam and Kimmi found Jenny with a hurt puppy
+Jenny and Kimmi found Sam crying
+* Sam and Jenny were playing with a puppy and found Kimmi crying.
+Jenny, Sam and Kimmi were playing together
+

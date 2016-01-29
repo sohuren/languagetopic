@@ -1,0 +1,43 @@
+Ally was at home, sitting in her chair.<s>
+She was drinking orange juice.<s>
+Orange juice was her favorite drink, because she loved its sweet taste.<s>
+Ally's sister was sitting on the carpet.<s>
+She was drawing a pair of pink socks.<s>
+Ally's sister loved the color pink, because she thought it was cute.<s>
+Ally's brother was also sitting on the carpet.<s>
+He was drinking coffee with lots of sugar in it.<s>
+He loved sugar because it made him feel energetic.<s>
+All of the sudden, there was a knock at the door.<s>
+Ally's sister answered it.<s>
+When she opened the door, she saw an alligator wearing a suit and tie!<s>
+Ally's sister screamed, and closed the door.<s>
+"Please," the alligator said, "Don't be afraid.<s>
+I want to draw with you."<s>
+Ally's sister opened the door, and the alligator came inside.<s>
+He sat on the carpet, and started drawing his own pair of pink socks.<s>
+Ally's sister sat down, and joined him.<s>
+
+1) <multiple> Who loved sugar in the story?
+Ally's sister
+* Ally's brother
+Ally
+The alligator
+
+2) <single> Why did Ally's sister love the color pink?
+* She thought it looked cute.
+It made her feel energetic.
+It was the alligator's favorite color.
+It tasted sweet.
+
+3) <multiple> Who was knocking at the door?
+Ally's brother
+Ally
+Ally's sister
+* An alligator
+
+4) <multiple> Why did Ally love orange juice?
+It made her feel energetic.
+* She loved its sweet taste.
+It was the alligator's favorite drink.
+It looked cute.
+

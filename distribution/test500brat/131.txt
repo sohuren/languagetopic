@@ -1,0 +1,44 @@
+Jake liked his old sneakers but they were getting too small.<s>
+He tried on sixteen different pairs of shoes at the mall with his mom.<s>
+He was looking for green shoes with blue laces.<s>
+He couldn't find any he liked and left sad.<s>
+His mom wanted to cheer him up.<s>
+They stopped for lunch at a restaurant drive-thru.<s>
+"What do you want to order?"<s>
+asked Jake's Mom as she got a cheeseburger and a large drink.<s>
+He ordered a hamburger.<s>
+While they ate, Jake and his mom talked about different shoes Jake might try on next.<s>
+He didn't want to go back to the store, but he really wanted green shoes.<s>
+He ate some of her fries as he thought about it.<s>
+Suddenly, his mom had a great idea.<s>
+They would paint a pair of new shoes green!<s>
+Jake loved that idea.<s>
+So they went to the Art Store and bought green paint.<s>
+They went back to the mall and bought new blue shoelaces and white sneakers.<s>
+Jake was so excited about his shoes that he painted them as soon as he got home.<s>
+Afterwards, he walked around the house in his new shoes dripping green paint.<s>
+
+1) <single> What color sneakers did Jake and his mom buy?
+Green
+Blue
+* White
+Yellow
+
+2) <multiple> Why were Jake's shoes dripping?
+They were old.
+They were wet.
+* He painted them as soon as he got home.
+He bought them that way.
+
+3) <multiple> What did Jake eat for lunch?
+A hot dog and some fries.
+A cheeseburger and a drink.
+Nachos and a drink.
+* A hamburger and some fries.
+
+4) <single> What color shoes did Jake want?
+* Green
+Yellow
+Red
+Blue
+

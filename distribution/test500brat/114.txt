@@ -1,0 +1,40 @@
+A boy named Pedro was walking down the street one day, and he met a pretty girl in a pink dress who handed him a bell.<s>
+It was made of metal, and looked worn and old.<s>
+The girl said, this bell gave me my wish for a pink dress, but in order to keep my wish, I have to give the bell to someone else.<s>
+Ring the bell three times to get your wish.<s>
+Not two, not four, but three.<s>
+When your wish arrives, give the bell to someone else.<s>
+Pedro thanked the girl for the bell, and when she had gone, he rang the bell three times and wished for a puppy.<s>
+Soon after, he saw a puppy on a street corner.<s>
+It was black with brown and white spots.<s>
+He picked the puppy up and hugged it.<s>
+Then he saw his friend Alice.<s>
+He gave the bell to Alice, who rang the bell and wished for a pretty bird.<s>
+Soon a pretty bird landed on her shoulder.<s>
+Alice thought the bell was a wonderful thing, and chose to keep it, rather than give it away.<s>
+The next day when she woke up, her bird had flown away.<s>
+
+1) <multiple> What item was not wished for in the story?
+A puppy
+A bird
+A pink dress
+* A bell
+
+2) <multiple> Which child lost her wish?
+* Alice
+Carla
+Pedro
+The girl in the pink dress
+
+3) <single> What was the magic item that can give wishes?
+A girl
+A puppy
+* A bell
+A genie
+
+4) <single> What color was Pedro's puppy?
+White with black spots
+Brown with white spots
+Tan
+* Black with brown and white spots
+

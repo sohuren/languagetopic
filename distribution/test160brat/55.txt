@@ -1,0 +1,39 @@
+Tasha and Hassan went to their grandma's house.<s>
+They were going to stay there for two days.<s>
+Tasha was happy because she likes to play with the farm animals.<s>
+She wanted to milk the cow.<s>
+She also wanted to play with the baby pig.<s>
+Hassan wanted to stay in the house and bake sugar cookies.<s>
+He also wanted to make fresh cocoa.<s>
+When Hassan started to make the cookies he saw that there was no milk in the fridge to make the cookies and cocoa.<s>
+He walked outside and asked Tasha to fill up the bucket with fresh milk from the cow.<s>
+Hassan used the milk to make the cookies and hot cocoa.<s>
+Tasha and Hassan shared the cookies with their grandma.<s>
+They ate all of the cookies and drank the hot cocoa in front of the TV.<s>
+Their grandma promised to make them apple pie the next morning.<s>
+She had picked a basket full of apples the day before.<s>
+
+1) <single> When did Grandma promise to make apple pie?
+next week
+in two days
+* the next morning
+when they returned home
+
+2) <multiple> Where did Tasha and Hassan for two days?
+* Grandma's house
+on a camping trip
+to school
+to their aunt's job
+
+3) <single> What did Tasha use to put the fresh milk in from the cow?
+a cup
+a bowl
+a jug
+* a bucket
+
+4) <multiple> What happened to the sugar cookies and hot cocoa?
+gave them to the animals
+* They all ate it in front of the tv
+they threw they away
+put them in the fridge
+

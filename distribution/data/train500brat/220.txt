@@ -1,0 +1,46 @@
+Paul worked as a cook in a restaurant.<s>
+For Valentine's Day, he made chocolate desserts.<s>
+He tripled the recipe to feed all the people.<s>
+He separated the eggs and measured the sugar.<s>
+Then he melted the chocolate.<s>
+He mixed the egg whites until they made a thick foam.<s>
+He mixed the egg yolks with the sugar.<s>
+But as he was ready to mix everything, his boss asked him to do a different job.<s>
+Paul chopped some vegetables.<s>
+When he came back, Greg had taken over his work and made a mistake.<s>
+The mix was much too thin.<s>
+It looked like chocolate soup.<s>
+It wouldn't rise at all.<s>
+Luckily Paul was ready.<s>
+He had practiced the dessert recipe before.<s>
+It looked like it didn't have enough egg whites.<s>
+Paul separated more eggs and mixed the egg whites.<s>
+He added the extra egg whites to the mix.<s>
+His addition worked.<s>
+The desserts rose high in the oven.<s>
+He saved the day!<s>
+
+1) <single> Who made a mistake with the dessert recipe?
+The boss
+The oven
+* Greg
+Paul
+
+2) <multiple> How did Paul know how to fix the recipe and what did he do?
+He made Greg fix the recipe. Greg added egg whites.
+He didn't know how to fix the recipe. The desserts didn't rise in the oven.
+* He had practiced it before. He added egg whites.
+He asked the boss for help. The boss had him chop vegetables.
+
+3) <single> What did the desserts do in the oven?
+* They rose
+They fell
+They thinned
+They didn't rise
+
+4) <multiple> What ingredients did Paul use to make the desserts?
+* Eggs, sugar, and chocolate
+Chocolate, soup, and vegetables
+Vegetables, sugar, and eggs
+Soup, desserts, and vegetables
+

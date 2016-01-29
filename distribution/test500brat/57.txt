@@ -1,0 +1,48 @@
+Once, there was a boy named Dan that was no older then seven or eight years old.<s>
+Dan lived with his mother Sam and father Spike in a small house in a dangerous neighborhood in New York city.<s>
+Before their move from Florida he spent most of his time outside at a park.<s>
+In fact they moved around a lot.<s>
+They have also lived in Georgia and California and this was the first time being stuck inside.<s>
+It got so bad he was looking forward to going to school.<s>
+This boy was an only child and was not allowed to go outside to play.<s>
+Instead he spent most of his time locked inside his house alone with no friends to play with.<s>
+One day he got a great idea.<s>
+Why don't I ask my mom, for a pet?<s>
+He thought long and hard.<s>
+I can get a dog or cat.<s>
+I don't like birds, fish or hamsters.<s>
+This way I'll always have a friend to play with when I'm inside.<s>
+He thinks to run up to his mom and say mommy, mommy!<s>
+Can I get a new pet?<s>
+His mom told him that if he wanted a pet that he would have to show her that he could take care of it.<s>
+She gave him chores and said, "if you can do these chores for one month I'll get you a dog."<s>
+Every evening before bed he would clear the table, clean the bathrooms and nicely stack all of the dishes.<s>
+His mother was in awe in the fact the she never had to tell him to complete his chore.<s>
+At the end of the month his mother kept her promise a got him a new puppy.<s>
+The boy was in love at first sight but the boy wasn't sure if the puppy looked like a Bob or a Rick.<s>
+Finally he yelled,  "I'm going to call him Rick!"<s>
+
+1) <multiple> What type of pet did the boy want?
+Bird
+Fish
+* Dog
+Hamster
+
+2) <single> What state does the boy live in?
+* New York
+California
+Georgia
+Florida
+
+3) <multiple> What did the boy want to name the puppy?
+Spike
+Sam
+* Rick
+Dan
+
+4) <single> Where did the boy spend most of his time?
+At the park
+Outside
+* Inside
+At school
+

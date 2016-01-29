@@ -1,0 +1,49 @@
+"How are you asleep?<s>
+It's six in the morning!"<s>
+"Hello Dad," I said.<s>
+My dad thought waking me up early for father-son time was a treat.<s>
+I wished we could hang out at night instead.<s>
+He sat in the chair at the foot of my bed with an enormously cheesy grin on his face, with a big shopping bag on his lap.<s>
+"What's in the bag, Dad?"<s>
+"I bought you some presents!<s>
+You're a growing young man, and it is only right that you pick a sport."<s>
+Dad dug through the bag, and pulled out a football and a baseball.<s>
+"Any of these look good?"<s>
+"Dad, you know all I want in life is to join the circus!<s>
+Why can't you let me be myself?"<s>
+Dad leaned in closer to me, a serious look on his face.<s>
+"Son, when I was eight I wanted to join the circus too.<s>
+But when I got to high school, everybody made fun of me.<s>
+They told me I was dumb for not playing sports and dumb for practicing juggling all day.<s>
+They told me that nobody would marry me if I didn't give up my circus dreams."<s>
+"Then how did you find Mom?"<s>
+"By giving up my dreams of circus juggling and playing football instead!<s>
+Come on, you'll like it."<s>
+I slowly pulled myself out of bed and grabbed the football from Dad's hand.<s>
+I wanted to make him happy.<s>
+But I wish he could've been happy with a dream where you didn't get hit with things.<s>
+
+1) <single> What time is it?
+eight at night
+* Six in the morning
+eight in the morning
+six at night
+
+2) <multiple> Why did the Dad play football in high school?
+the coach made him
+he didn't play football
+* To marry Mom
+for fun
+
+3) <multiple> Which ball did the son not pick
+soccer ball
+* baseball
+bowling ball
+football
+
+4) <multiple> What did the dad want to do before high school?
+play soccer
+play football
+watch movies
+* juggle in the circus
+

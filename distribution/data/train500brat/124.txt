@@ -1,0 +1,43 @@
+There once was a business man named Red.<s>
+Red owned his own business.<s>
+He had his very own movie store.<s>
+There are food stores, sporting goods stores, and even radio stores, but Red owned a movie store.<s>
+Many people visited his movie store and watched a lot of movies.<s>
+There were many different types of movies in his store.<s>
+He had funny movies about dogs.<s>
+He had scary movies about monsters.<s>
+He had action movies about cops and even had silly movies about grown-ups.<s>
+His movie store was known for its paint job.<s>
+The paint job was the color red.<s>
+It was not blue, purple, or yellow.<s>
+The people in the town loved his red movie store and Red the movie store guy loved them.<s>
+He gave them all the movies they could ever want.<s>
+They kept watching his movies and soon Red opened another movie store.<s>
+Red had two red movie stores and people loved watching his movies.<s>
+Red even had popcorn at his movie store.<s>
+He did not have ice cream, candy, or soda pop and this made people very sad.<s>
+
+1) <multiple> What kind of business did Red own?
+Grocery Store
+Radio Store
+* Movie Store
+Sporting Good Store
+
+2) <single> What was Red's movie store known for?
+Funny movies about dogs
+Candy
+* Its Paint Job
+Scary Movies
+
+3) <multiple> What did Red have in his movie store?
+* Popcorn
+Soda Pop
+Ice Cream
+Candy
+
+4) <single> What color was Red's movie store?
+* Red
+Yellow
+Blue
+Purple
+

@@ -1,0 +1,35 @@
+Once upon a time, there was a giraffe named Scoop.<s>
+He was a very friendly giraffe and he was cute, too.<s>
+He had beautiful orange and yellow markings and he loved to play with his friends, but Scoop had a problem.<s>
+His neck was really short, so he could not reach the tall plants and his mommy and daddy had to get all of his food for him.<s>
+One day, Scoop's friend Scap, invited him over for a sleepover party.<s>
+It sounded like so much fun, but Scoop was too embarrassed.<s>
+He didn't want everyone to laugh at him at feeding time when he couldn't reach the food by himself, so he said he could not come to the party  Scap was a really good friend and he knew that Scoop wanted to come to the party, so he came up with a plan.<s>
+That afternoon, Scap gathered all the little giraffes in the neighborhood and they spent the day together collecting food.<s>
+They then went to Scoop's house and showed him all the food they had gathered for the party and once again invited him along.<s>
+He happily said yes and they all had a wonderful time.<s>
+
+1) <single> Who invited Scoop to the party?
+* Scap
+his mom
+his dad
+his sister
+
+2) <single> What kind of animal was Scoop?
+gorilla
+dog
+cat
+* giraffe
+
+3) <multiple> Did Scoop go to the party?
+* yes
+There was no party.
+He went to the movies.
+no
+
+4) <multiple> Why was Scoop embarrassed to go the the party?
+He was missing a leg.
+* His neck was very short.
+He didn't have any spots.
+He was a donkey.
+

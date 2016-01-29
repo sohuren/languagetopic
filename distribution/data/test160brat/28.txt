@@ -1,0 +1,49 @@
+Once upon a time, there was a dog named Puddles.<s>
+Puddles was lonely because he lived in an area where there were no other dogs, but only cats.<s>
+Day after day, Puddles would have to eat cat food and do cat things in order to fit in with the rest of his group.<s>
+He found it very boring and Puddles was sad.<s>
+Puddles didn't even look like a cat!<s>
+All of the other cats teased Puddles.<s>
+"You're too big," they said.<s>
+"You've got too long of a nose!"<s>
+"Why are you panting like that?"<s>
+Puddles knew that he was different.<s>
+One day, Puddles chose to run away from all of the cats.<s>
+The cats laughed at him.<s>
+What a stupid dog!<s>
+Didn't he know that there were monsters in the woods that could eat him?<s>
+Puddles didn't care, because Puddles was sad enough to try.<s>
+So Puddles packed up his things - his squeaky ball, his water dish, and his bone - and headed off into the woods.<s>
+He was finally happy!<s>
+All of a sudden, Puddles turned.<s>
+He smelled a funny smell.<s>
+It smelled like something he had never smelled before.<s>
+He turned around, and what did he see but another dog!<s>
+Puddles was so happy, he barked with joy.<s>
+He went home with the other dog, who was named Mittens, and to his family.<s>
+Puddles was never lonely again.<s>
+
+1) <multiple> Why did the cats not like him?
+He didn't eat cat food
+He had a long nose
+* He was different
+He panted
+
+2) <single> Where did Puddles live in the beginning?
+with cats and dogs
+* In a group of cats
+In a group of dogs
+With humans
+
+3) <multiple> What does Puddles choose to do?
+* Go into the woods
+Go to sleep
+Eat cat food
+Become a cat
+
+4) <single> Who did Puddles find?
+Food
+A monster
+* A dog family
+A group of cats
+

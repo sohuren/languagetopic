@@ -1,0 +1,36 @@
+My cat's name is Buggleton.<s>
+She is black and white with big green eyes and very long whiskers, like a bug.<s>
+When I woke up this morning, my cat was not inside the house.<s>
+She is allowed outside, and we have a cat door in the kitchen so she can come and go as she pleases.<s>
+She comes home at night, sleeps in her special box, and is here for breakfast before going outside for new adventures.<s>
+We can lock the cat door so she can't go outside when we go on vacation.<s>
+If we go on vacation for more than a few days, my mom comes over to check on her and feed her.<s>
+So it was very weird to wake up and see that she was not home for her morning food!<s>
+My husband and neighbor and I called for her, but she did not come.<s>
+Guess where she was?<s>
+Trapped in the garage overnight!<s>
+
+1) <single> What is my cat's name?
+Mom
+* Buggleton
+Kitchen
+Joe
+
+2) <multiple> Where was my cat this morning?
+* Garage
+Shed
+Kitchen
+Box
+
+3) <multiple> Where does my cat have a door?
+Den
+Garage
+* Kitchen
+Box
+
+4) <single> Who takes care of my cat when I am on vacation?
+Neighbor
+Husband
+Brother
+* Mom
+

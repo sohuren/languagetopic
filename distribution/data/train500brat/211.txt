@@ -1,0 +1,58 @@
+It was a beautiful day.<s>
+In the morning Tommy and I went to the park to play.<s>
+We rode our bikes around and went down to the lake.<s>
+We swam around in the lake and splashed water on other kids.<s>
+We got back on our bikes and rode back home.<s>
+Mommy made lunch.<s>
+It was yummy, peanut butter and jelly sandwiches and milk.<s>
+Then it was time for our nap.<s>
+We woke up and watched some TV.<s>
+Mommy gave us some money for candy later.<s>
+Tommy and I went back to the park to play.<s>
+Tommy and I played with a baseball with some other kids.<s>
+Then we played with the football.<s>
+We went to the store across the street.<s>
+We bought some candy with the money Mommy gave us.<s>
+We went back to the park and watched the other kids play as we ate our candy.<s>
+It was hot, so we went swimming again.<s>
+It was fun!<s>
+We like swimming so we go swimming almost every day.<s>
+We swam all afternoon until Mommy came down to the park at told us to come home.<s>
+Mommy was very upset because we were gone so long.<s>
+Mommy was worried that something might have happened to us.<s>
+Mommy was not paying attention to her kids and what they were doing for hours.<s>
+Tommy and I told Mommy she needs to pay more attention to us.<s>
+Mommy started crying, then Tommy and I started crying.<s>
+Mommy said from now on, I must pay more attention to you two.<s>
+Daddy came home from work and playing softball for his company team.<s>
+Daddy wanted to know what was going on.<s>
+Daddy saw that we were all crying.<s>
+Daddy started to cry too.<s>
+We all said that we would pay more attention to each other.<s>
+We all said that we would do more things together like going to the park.<s>
+We all said we would eat together more often.<s>
+
+1) <single> What did Tommy and I do after playing in the park in the morning?
+washed the dog
+watched TV
+made dinner
+* We had a peanut butter and jelly sandwich and milk for lunch.  Took a nap. Watched some TV.  Then went back to the park
+
+2) <multiple> How did Mommy feel and what did she do when she brought the kids home?
+pay more attention
+* She cried
+took a bath
+upset
+
+3) <multiple> What happened when daddy came home?
+played games
+ate dinner
+* crying, everyone said they would do things together
+went to bed
+
+4) <multiple> what did Tommy and I do at the park in the morning and afternoon?
+hide and seek
+* rode bikes, played baseball, ate candy from the store, played football, swim and watched other kids play.
+swimming
+baseball
+

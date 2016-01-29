@@ -1,0 +1,48 @@
+Tim Goes To The Beach  Today was exciting.<s>
+Tim's mom was taking him and his little sisters, Rebecca and Georgia, to the beach!<s>
+They were going to go swimming.<s>
+Then they were also going to have a picnic lunch on the beach.<s>
+After their picnic lunch, Tim's mom was going to light a campfire and they were going to eat toasted marshmallows.<s>
+Tim and his mom and his two little sisters hopped into the van.<s>
+His little sisters were both very blonde and pretty little girls.<s>
+They were only 4 years old.<s>
+Because they lived in the city, they had a short drive to get to the beach.<s>
+To pass the time, Tim played Eye Spy with his mother as they drove for a bit.<s>
+Once they had gotten bored with Eye Spy, they played 20 Questions.<s>
+Tim would think of something, and his mother would ask him questions to try and guess what it was.<s>
+When they got to the beach, it was warm, and sunny.<s>
+The salt water was warm, and the waves lapped up on the shore.<s>
+It made a lovely noise.<s>
+It also felt great on Tim's toes, and his little sisters giggled when the waves hit them.<s>
+When they had had their fill of swimming, Tim's mom had them sit down to a nice dinner.<s>
+They ate and ate.<s>
+They ate macaroni salad.<s>
+Then they ate some cold chicken.<s>
+They also had lemon pie for dessert.<s>
+Tim's mom started a fire, and they spent the rest of the evening as the sun set eating toasted marshmallows and singing campfire songs.<s>
+Tim thought it was a very good day.<s>
+
+1) <single> Why was Tim's day exciting?
+* Tim and his mother and two little sisters were going to the beach.
+Tim and his little sisters were going to have a campfire in the backyard.
+Tim and his mother were going to the swimming pool.
+Rebecca and Georgia, Tim's sisters, were taking him to the beach.
+
+2) <multiple> Did Tim do anything to pass the time in the van during the trip?
+Tim asked his sisters questions in the van.
+* Tim played Eye Spy, and 20 Questions with his mother in the van.
+Tim did not do anything to pass the time.
+Tim played Eye Spy with his sisters in the van.
+
+3) <multiple> What did Tim's family have for a picnic on the beach?
+Tim's family had lemon chicken, macaroni, and a pie for dessert.
+* Tim's family had cold chicken, macaroni salad, and lemon pie for dessert.
+Tim's family had macaroni and cheese, chicken, and a lemon pie for dessert.
+Tim's family had chicken salad, and lemon pie for dessert.
+
+4) <multiple> What was the water like when the family reached the beach?
+* The water was warm, and made a lovely sound when it lapped up on the shore, and it also felt great on Tim's toes.
+The water was hot when they went swimming.
+The water was full of seaweed.
+The water was cold.
+

@@ -1,0 +1,43 @@
+Ashley woke up bright and early on Friday morning during summer.<s>
+Her birthday was only a day away, and her parents had promised her a trip to the fair as her present the next day!<s>
+She thought it was going to be quite a treat.<s>
+She skipped down the stairs to see her mom making a chocolate cake on the stove.<s>
+"You run along outside to go play with your friends," her mom told her, "I can get everything ready for your special lunch on my own."<s>
+When Ashley made it outside, she found her friend Katherine playing in the dirt.<s>
+When Ashley came closer, she saw that in the dirt were a bunch of insects.<s>
+Katherine loved finding and collecting different ones for her insect collection.<s>
+Ashley thought it was kind of gross personally, but she sat down next her anyways.<s>
+"Happy birthday, Ashley," Katherine yelled when she saw her best friend.<s>
+"Thank you," Ashley answered, "Do you want to go up to the playground until it's time for lunchtime?<s>
+Mom says you're invited to come by the way."<s>
+Katherine nodded, and the two spent a fun morning playing on the playground.<s>
+Once lunchtime came, the two walked back to Ashley's house.<s>
+She could picture how many of her favorite foods her mom had most likely made, and she could almost taste the spaghetti on her tongue.<s>
+Lunch was ready when they arrived, and it was delicious!<s>
+The chocolate cake her mom made was an extra special treat.<s>
+She couldn't wait to go to the fair tomorrow!<s>
+
+1) <single> Which food could Ashley imagine eating?
+insects
+dirt
+* spaghetti
+chocolate cake
+
+2) <single> Where was Ashley going for her birthday present?
+the playground
+* the fair
+her best friend's house
+home
+
+3) <multiple> What was Katherine playing with when Ashley found her?
+the swings
+spaghetti
+cake
+* insects
+
+4) <multiple> What day of the week was Ashley's birthday?
+* Saturday
+Friday
+summer
+Wednesday
+

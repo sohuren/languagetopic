@@ -1,0 +1,61 @@
+Lulu is a little dog.<s>
+She likes to play with her toys.<s>
+She really likes her little lamb.<s>
+She likes when Lauren throws her lamb.<s>
+Lulu likes to chases the lamb.<s>
+Lulu doesn't like to bring the lamb back to Lauren.<s>
+Lauren gets mad.<s>
+Lulu likes to bark.<s>
+She barks at the children outside.<s>
+She barks when the mailman comes to the door.<s>
+Lulu barks at everything.<s>
+Lulu barks all the time.<s>
+Daddy gets mad.<s>
+Lulu likes to eat.<s>
+She likes her dog food.<s>
+Her dog food has a picture of dog that looks like her on the bag.<s>
+Lulu likes her food, but she likes the cat's food better.<s>
+The cat gets mad.<s>
+Lulu likes to drink water.<s>
+Her favorite water bowl is in her cage.<s>
+Lulu likes that water bowl because it's the right height.<s>
+Lulu likes her water bowl, but she likes Heather's glass of water better.<s>
+Heather gets mad.<s>
+Lulu likes her bed.<s>
+She goes there to rest.<s>
+She likes to sleep on the blanket there.<s>
+Her favorite blanket is from Grandma.<s>
+Lulu likes Grandma's blanket, but she likes Alan's better.<s>
+Alan gets mad.<s>
+Lulu curls up on the blanket on the couch.<s>
+Lauren gives Lulu her lamb to sleep with.<s>
+Daddy pets Lulu.<s>
+The cat licks Lulu.<s>
+Heather thinks Lulu looks sweet.<s>
+Alan lets Lulu use his blanket.<s>
+No one gets mad at Lulu.<s>
+
+1) <single> Where is Lulu's favorite water bowl?
+her favorite water bowl is the fish bowl
+her favorite water bowl is on the kitchen floor
+* her favorite water bowl is in her cage
+her favorite water bowl is the cat's water bowl
+
+2) <multiple> Why does Daddy get mad?
+Lulu never brings her lamb to him when they play fetch
+Lulu drinks from Daddy's water glass
+Lulu steals Daddy's blanket
+* Lulu barks at everything and she barks all the time
+
+3) <multiple> What do Lauren and Alan give to Lulu to sleep with?
+Lauren gives Lulu her doll and Alan gives Lulu his scarf
+Lauren gives her a toy cat and Alan gives her Grandma's blanket
+* Lauren gives her the lamb and Alan gives her his blanket
+Lauren gives Lulu her blanket and Alan gives her the lamb
+
+4) <single> What toy does Lulu like to play with?
+Alan's toy dog
+her ball
+her blanket
+* her lamb
+

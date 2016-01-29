@@ -1,0 +1,43 @@
+Gia was new in the neighborhood.<s>
+She really wanted to meet some new friends.<s>
+She was lonely and tired of playing with her toys all by herself.<s>
+Her mother told her that the best way to meet new friends was to go somewhere where other kids are at.<s>
+She remembered seeing a park on the corner when they were moving in.<s>
+She asked her mother if she could go to the park.<s>
+Her mother walked her down the street to the park.<s>
+When Gia got to the park she was not happy.<s>
+There was no one there.<s>
+She sat on a swing and looked at the ground.<s>
+It seemed like this was going to be another lonely day.<s>
+Gia heard a noise and looked up.<s>
+There was a girl coming down the hill.<s>
+She smiled, but she was a little scared.<s>
+What if she wasn't nice?<s>
+That would make her sad.<s>
+Gia was so happy when the girl walked up and said, "Hi, my name is Julie.<s>
+What's yours?"<s>
+
+1) <single> Where was the park?
+Over the hill.
+In another neighborhood.
+* On the corner.
+At the school
+
+2) <multiple> Why did Gia go to the park?
+* To meet some new friends.
+To swing by herself.
+To play with her toys.
+To run up the hill.
+
+3) <multiple> Why was Gia lonely?
+* She had no friends in the new neighborhood.
+Her mother wouldn't let her go outside.
+She didn't like to share when she played with her toys.
+Nobody kids lived in her neighborhood.
+
+4) <single> Who walked with Gia to the park?
+Julie.
+Her friends.
+She walked by herself.
+* Her mother.
+

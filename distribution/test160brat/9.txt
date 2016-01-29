@@ -1,0 +1,45 @@
+Emily and her brother Matthew went outside to play.<s>
+They brought their dog Bo with them, too.<s>
+Bo was holding a bone in her mouth.<s>
+Matthew threw a ball and Bo chased after it.<s>
+Emily laughed as Bo ran away.<s>
+Bo brought the ball back to Matthew.<s>
+Then Bo barked.<s>
+This time Emily threw the ball.<s>
+She was younger than Matthew, so the ball did not go as far.<s>
+Bo chased after the ball anyway, and Emily laughed again.<s>
+Matthew smiled at his little sister.<s>
+Bo ran back to Emily and dropped the ball at her feet.<s>
+Then Bo wagged her tail and licked Emily's face.<s>
+Emily giggled and scratched Bo's ears.<s>
+Then Matthew and Emily's mother came outside holding a bar of soap.<s>
+She told them that it was time for dinner and they had to come inside and wash their hands.<s>
+Just then, Matthew and Emily's dad came home from work.<s>
+Matthew and Emily ran to their dad.<s>
+They all walked inside together and Bo followed them in.<s>
+They would have to play ball tomorrow.<s>
+
+1) <multiple> Why did Matthew smile?
+Because it was time for dinner.
+Because his dad was home.
+* Because Emily was laughing.
+Because Bo was a pretty dog.
+
+2) <single> What is the name of the boy in the story?
+* Matthew
+Bo
+Mother
+Emily
+
+3) <single> What did Matthew throw?
+A bar of soap
+A bone
+Emily
+* A ball
+
+4) <multiple> Who told the kids to come inside for dinner?
+Their father
+Their friend
+* Their mother
+Bo
+

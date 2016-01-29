@@ -1,0 +1,46 @@
+Sam was outside playing.<s>
+It was very hot out and he got really thirsty.<s>
+He saw that Mr. Brown was setting up a table with sodas and snacks down the street.<s>
+Sam was very excited because this would solve his problem.<s>
+He checked his pockets.<s>
+They were empty.<s>
+Where did his money go?<s>
+This was a problem.<s>
+In order to get a soda and snack he would need money.<s>
+Sam ran home as fast as he could.<s>
+He was in a rush.<s>
+He passed by Jim as he was running.<s>
+He asked Sam why he was running.<s>
+"No time," Sam Said.<s>
+When he got inside the house Sam was very happy.<s>
+His money was on his dresser in his bedroom.<s>
+Thank goodness.<s>
+He had enough money to get a soda.<s>
+Sam ran back outside, but this time he slowed down when he saw Jim.<s>
+He told Jim to come with him to Mr. Brown's table.<s>
+He had enough money to buy them both a soda.<s>
+
+1) <single> Who else did Sam buy a soda for?
+Mr. Brown.
+* Jim.
+No one.
+His mother.
+
+2) <multiple> Why did Sam get a soda?
+Jim bought him one.
+* He was thirsty from playing outside.
+They were free.
+He loved soda.
+
+3) <multiple> What was Sam looking for in his pockets?
+His snacks.
+A soda.
+* His money.
+His key to his house.
+
+4) <multiple> Why did Sam go back home?
+* To get money for soda.
+To show Jim his house.
+To ask his mom for money.
+To get a snack and a drink of water.
+

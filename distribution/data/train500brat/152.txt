@@ -1,0 +1,44 @@
+Jim wanted to go eat some pizza.<s>
+He was a giant.<s>
+He had eaten a hot dog and some carrots earlier that day, but it had been a long time.<s>
+He was very hungry after a hard day of playing with his kitty.<s>
+But Jim had a problem, he did know where he was.<s>
+While playing with his kitten, he had left his yard and wandered into the deep woods that were near his house.<s>
+It was getting dark outside, and Jim the giant was scared.<s>
+He was also hungry.<s>
+It had been a long time since Jim had eaten.<s>
+Also, it was becoming cold, and Jim had left his jacket on the ground.<s>
+There was some joy from the fact that he had his kitty.<s>
+His name was Bob, and was riding around on his shoulder.<s>
+Still, Jim needed to find his way out of the woods fast.<s>
+It was at this time that Jim remembered that he had a flashlight in his pocket.<s>
+With his flashlight, Jim could see the woods, and spot his house off in this distance.<s>
+He ran home fast.<s>
+Once he was home, Jim put down his kitty, and ordered a pizza.<s>
+He was safe.<s>
+He called his friends Steve and Adam to tell them about his big adventure, and sat down to play with his kitty Bob.<s>
+
+1) <single> What did Jim find in his pocket?
+Kitty
+* Flashlight
+String
+Wood
+
+2) <multiple> What was the name of the giant?
+Bilbo
+Bob
+Pizza
+* Jim
+
+3) <multiple> What was the name of Jim's kitty?
+Jim
+Steve
+* Bob
+Adam
+
+4) <single> What did Jim want to eat?
+Carrots
+* Pizza
+Hot Dog
+Hamburger
+

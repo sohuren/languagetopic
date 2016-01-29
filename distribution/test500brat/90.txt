@@ -1,0 +1,34 @@
+There once was a dog named Bruno.<s>
+Bruno belonged to a family, the Smiths, but he was most loved by Sarah.<s>
+Sarah was the youngest child in the house, she lived there with her mom, dad and older brother Fred.<s>
+Bruno would sleep with Sarah every night, and wake up with her every morning.<s>
+Together they would eat cheese and ham for breakfast every day!<s>
+One day after breakfast Sarah was getting ready to go to school, but something scared her!<s>
+There was a big storm.<s>
+Sarah was too scared to go to school with all of the thunder and lighting.<s>
+Bruno could tell Sarah was scared, and did the only thing a dog could do, Bruno walked with Sarah to school the whole way so she was no longer scared!<s>
+
+1) <single> Who was the youngest in the house?
+Fred
+Mom
+Dad
+* Sarah
+
+2) <single> What is the dog's name?
+Fred
+Sarah
+* Bruno
+Smith
+
+3) <multiple> Who did Bruno belong to?
+Sarah
+Bruno
+Fred
+* The Smiths
+
+4) <multiple> What scared Sarah?
+Breakfast
+Fred
+School
+* The Storm
+

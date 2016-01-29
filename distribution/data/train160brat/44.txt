@@ -1,0 +1,44 @@
+Bob walked out the door with a huge grin on his face.<s>
+It was his first day of middle school.<s>
+His mom, who is a nurse at the high school, waved at him as he entered the bus.<s>
+The bus driver said "good to see you Bob".<s>
+Bob said "you too Mr. Smith".<s>
+Bob was so excited to see his friends that he could barely breathe.<s>
+As he walked down the school bus, Bob's friends Jill, Jim, Jeff and Chris all waved to him.<s>
+Instead of sitting next to his best friend Chris, Bob turned left and sat next to Jill.<s>
+Jeff and Jim started laughing at him and teased "Bob and Jill sitting in a tree, K-I-S-S-I-N-G".<s>
+Bob's face turned red from embarrassment.<s>
+Chris felt bad for Bob and reached into his pockets to help his friend.<s>
+When he reached in, he felt a pencil, a rock and a folded up piece of paper.<s>
+Chris's eyes twinkled.<s>
+He had a plan.<s>
+Without Jim and Jeff seeing, Chris quickly made a paper airplane with the piece of paper he found in his pocket.<s>
+He threw the paper airplane at Jim.<s>
+The plane hit Jim in the face.<s>
+Both Jim and Jeff stopped laughing.<s>
+Bob looked over to Chris and smiled.<s>
+
+1) <multiple> What did Chris pull out of his pocket?
+Airplane
+* Paper
+Pencil
+Rock
+
+2) <single> Where does Bob's mom work?
+the school bus
+on an airplane
+* The high school
+the middle school
+
+3) <single> Who did the paper airplane hit in the face?
+Chris
+* Jim
+Jill
+Jeff
+
+4) <multiple> Who is Bob's best friend?
+* Chris
+Jim
+Jill
+Jeff
+

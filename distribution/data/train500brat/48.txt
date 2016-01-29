@@ -1,0 +1,36 @@
+Mark got a letter from his granddaddy that said there was something cool to see.<s>
+He called his granddaddy on the telephone and asked what it was.<s>
+He was told that he needs to come over to see it for himself.<s>
+After asking his parents if it was OK, Mark went to his granddaddy's house.<s>
+When he got there, they turned off the television and lamp and went around to the backyard.<s>
+In his granddaddy's backyard, there was a river and lots of plants and flowers.<s>
+They followed the river and found a pond.<s>
+The pond was full of goldfish because it was a goldfish pond.<s>
+There were goldfish of every different color in the pond and it was an amazing sight.<s>
+Mark had lunch with his granddaddy by the pond and thanked him for showing the interesting pond to him.<s>
+After that, Mark went home and told his parents about how cool the trip was.<s>
+
+1) <single> What did Mark and his granddaddy find by following the river?
+Many plants and flowers.
+His parents.
+* A pond.
+Another river.
+
+2) <multiple> Where was the goldfish pond located?
+* By the river behind Mark's granddaddy's house.
+At Mark's house.
+At Mark's parents other house.
+In Mark's friend's backyard.
+
+3) <multiple> When did Mark leave for his granddaddy's house?
+Before he called his granddaddy.
+In the afternoon.
+After lunch.
+* Before lunch.
+
+4) <single> What did Mark get that day?
+A free lunch.
+A television for his room.
+* A letter from his granddaddy.
+Many different goldfish.
+

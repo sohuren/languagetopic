@@ -1,0 +1,36 @@
+Oil is plentiful in West Texas.<s>
+When people think of West Texas they think of these machines called "pump-jacks."<s>
+A pump-jack is a machine that pulls Oil out of the Earth.<s>
+Robert's job is to fix pump-jacks.<s>
+So he travels to West Texas to see if he can help.<s>
+Steve owns many pump-jacks and is having a very tough time keeping them working.<s>
+During the summer in West Texas the temperature can be over 100, which causes these machines to break often.<s>
+Robert runs into Steve at a restaurant on a very hot day.<s>
+After they talked about the weather for a few seconds, Steve says "my machines keep breaking because of this heat!"<s>
+Robert says "Steve, I think you and I are both in luck because I fix pump-jacks."<s>
+Immediately, they both travel out to Steve's land and Robert gets to work!<s>
+
+1) <multiple> Why does Robert come to West Texas?
+Oil
+Restaurants
+* Pump-Jacks
+Telephones
+
+2) <single> What is a pump-jack?
+Warms up Oil
+Pushes water
+Pulls water out of the earth
+* A pump-jack is a machine that pulls Oil out of the Earth.
+
+3) <multiple> What is Steve's problem?
+* Keeping his pump-jacks working
+its too hot
+finding Robert
+finding broken pump-jacks
+
+4) <single> According to the Story, What is plentiful in West Texas?
+Luck
+* Oil
+Machines
+Restaurants
+

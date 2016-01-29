@@ -1,0 +1,43 @@
+Tim and Janey woke up earlier than normal.<s>
+Their stomach were growling.<s>
+They were ready for breakfast.<s>
+They had gone to bed at their normal time, but they could not help being up now.<s>
+So they woke up their father and went downstairs for breakfast.<s>
+It was so early in the morning the sun was not even out yet.<s>
+But their dad knew once the kids were up, there was no going back to sleep, so he got started.<s>
+He gave them each a banana to start.<s>
+He let them pick either a biscuit or toast.<s>
+They chose toast.<s>
+So he made wheat bread toast and put grape jelly on it.<s>
+The quickly ate it and the orange juice they were given.<s>
+They then each had a bowl of Rice Krispies before getting showered and dressed.<s>
+They kissed their mom as she went to work and began enjoying the day off from school by playing in their rooms.<s>
+Dad thought he'd done a good job feeding the kids.<s>
+But in two hours, they both were asking for turkey sandwiches for lunch.<s>
+With Tim and Janey so hungry so soon, their dad knew he was in for a long day.<s>
+And a busy one in the kitchen.<s>
+
+1) <single> Who left the house?
+* Mom
+Dad
+Tim
+Janey
+
+2) <multiple> What did the kids eat for breakfast?
+* Banana, toast, cereal
+Banana, biscuit, cereal
+Banana
+Biscuit, toast, cereal
+
+3) <multiple> Why did Tim and Janey get up so early?
+They had to make breakfast
+Their dad woke them up
+They went to bed at a later than normal time.
+* They were hungry
+
+4) <single> Who made breakfast?
+* Dad
+Tim
+Janey
+Mom
+

@@ -1,0 +1,38 @@
+There was a princess named Janet who was very pretty.<s>
+She wanted to marry a prince named Harold, but Harold had three sisters that didn't want them to get married.<s>
+Harold's three sisters were, Tammy, Jenny, and Clarice.<s>
+Tammy and Jenny liked Janet, but Clarice didn't.<s>
+Clarice was very mean to Janet, and tried to get Harold to hate the princess.<s>
+One night, Clarice even threw a shoe at Janet.<s>
+Janet ducked, and the shoe hit Harold instead.<s>
+From that day on, Janet knew she would get even with Clarice.<s>
+She was going to cut off her hair one night.<s>
+While she was asleep she went into her room and did it with a scissors.<s>
+When Clarice woke up she looked in the mirror and screamed.<s>
+Then after that she didn't ever give the princess trouble, since she wanted her hair to be long.<s>
+Then Janet was free to marry Harold and lived happily ever after in the castle.<s>
+
+1) <multiple> What did Janet use to cut Clarice's hair?
+A mirror
+A shoe
+* Scissors
+A castle
+
+2) <multiple> Who did Clarice hit with the shoe?
+Jenny
+Tammy
+* Harold
+Janet
+
+3) <single> What was the name of the princess?
+Clarice
+Jenny
+Tammy
+* Janet
+
+4) <single> Who threw a shoe at Janet?
+Jenny
+Tammy
+* Clarice
+Harold
+

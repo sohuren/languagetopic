@@ -1,0 +1,48 @@
+Bob was flying a toy plane in his yard.<s>
+He was having a great time!<s>
+Bob had a dog and a cat that were also playing in the yard.<s>
+He was also singing "Twinkle, Twinkle Little Star."<s>
+Bob flew his toy plane too high.<s>
+It landed on the roof of his house.<s>
+Bob asked his dad to get it.<s>
+Bob's dad said he had to borrow a ladder from next door.<s>
+Bob's dad took a walk next door.<s>
+On the way, Bob's dad waited for a duck to cross the road.<s>
+Finally, Bob's dad went next door and asked his neighbor, Frank, for a ladder.<s>
+Frank gave the ladder to Bob's dad.<s>
+Frank also gave Bob's dad a toy car, a toy train, a toy boat, and a coloring book that Bob could play with in case he couldn't get the plane.<s>
+Bob's dad walked back to the house.<s>
+Bob's dad climbed the ladder and took the plane from the roof.<s>
+Bob laughed and flew the plane again.<s>
+Afterward, they wanted to go to the beach.<s>
+Bob wanted to bring his bicycle.<s>
+Bob's dad wanted to bring a towel and beach ball.<s>
+They made a big sand castle.<s>
+They saw a seagull walking on the sand.<s>
+It was getting late, so they went home and turned on the TV for a little bit.<s>
+They then went to bed, looking forward to another day of fun tomorrow!<s>
+
+1) <multiple> Which item was not taken to the beach?
+Towel
+Beach ball
+* Shovel
+Bicycle
+
+2) <multiple> Which item did Frank not give Bob's dad?
+Ladder
+Coloring book
+Toy car
+* Bicycle
+
+3) <single> What animal did Bob's dad have to wait for when he walked next door?
+Seagull
+Cat
+Dog
+* Duck
+
+4) <single> What toy was Bob playing with that got stuck on the roof?
+* Plane
+Boat
+Train
+Car
+

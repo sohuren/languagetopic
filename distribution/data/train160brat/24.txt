@@ -1,0 +1,42 @@
+Chocolate was a box turtle.<s>
+Lauren found her one day on the side of the road, hiding in her old, worn shell, frightened by the cars going by.<s>
+Lauren picked Chocolate up to help her cross the street, because Lauren knew that turtles are very slow and cars are very fast.<s>
+After Lauren got Chocolate to the other side of the road, Chocolate peeked her head out of her shell and looked at the little girl.<s>
+Lauren saw that not only was Chocolate's shell worn, one of her eyes was shut.<s>
+Lauren thought Chocolate needed more help from her, so Lauren took the turtle home.<s>
+Lauren hid Chocolate in her bathtub, because she was worried that her mother would be mad.<s>
+Lauren went to look up what turtles like to eat and left Chocolate alone in the bathtub.<s>
+Lauren was still looking up  turtle facts when she heard her mother call out, "Lauren, get in here now!"<s>
+Lauren knew she was in trouble.<s>
+But when Lauren came into the bathroom, her mother was smiling.<s>
+Lauren's mom told her that she had a turtle when she was a little girl.<s>
+Lauren and her mom took Chocolate to an animal doctor who treated sick turtles.<s>
+The doctor gave them special drops to put in Chocolate's eyes.<s>
+Lauren put the drops in Chocolate's eyes, like the doctor told her and soon the turtle's eyes were all better.<s>
+Chocolate's shell was still old and worn looking, like an old shoe, but now her eyes were beautiful, like the golden jewels on Grandma's earrings.<s>
+Lauren was glad that she helped Chocolate.<s>
+
+1) <single> Who was Chocolate?
+a cat
+a dog
+a lizard
+* a turtle
+
+2) <multiple> What did Chocolate have at the beginning and the end of the story?
+* a worn shell
+beautiful golden eyes
+bright green eyes
+a shiny shell
+
+3) <single> Where did Lauren hide Chocolate?
+in a closet
+in a box
+in her backpack
+* in the bathtub
+
+4) <multiple> What did Lauren do to help Chocolate?
+fed her and put drops in her eyes
+helped her cross the road and gave her a bath
+* helped her cross the road and put drops in her eyes
+gave her a bath and fed her
+

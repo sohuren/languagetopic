@@ -1,0 +1,37 @@
+A small boy named John was at the park one day.<s>
+He was swinging on the swings and his Tim friend played on the slide.<s>
+John wanted to play on the slide now.<s>
+John asked Tim if he could play on the slide.<s>
+Tim said no.<s>
+John was very upset and started crying.<s>
+A girl named Susan saw him crying.<s>
+Susan told the teacher Ms. Tammy.<s>
+Ms. Tammy came over and told John that they could both take turns on the slide.<s>
+John and Tim were OK with this.<s>
+They both took turns on the slide.<s>
+They all lived happily ever after.<s>
+
+1) <multiple> Who saw John crying and told Ms. Tammy?
+Tim
+* Susan
+John
+Ms. Tammy
+
+2) <single> Who was on the slide in the beginning?
+John
+* Tim
+Susan
+Ms. Tammy
+
+3) <multiple> Who ended up taking turns on the slide?
+Tim and Ms. Tammy
+John and Susan
+* John and Tim
+Tim and Susan
+
+4) <single> Who was playing on the swing?
+Susan
+Tim
+* John
+Ms. Tammy
+

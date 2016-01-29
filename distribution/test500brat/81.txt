@@ -1,0 +1,37 @@
+Susie the spider was a small little spider.<s>
+Her brother Steve was bigger than her.<s>
+Her mother Sally was even bigger than Steve.<s>
+Her father Stewart was bigger than Steve too, but wasn't the biggest spider of the family.<s>
+When Susie got mad, she would kick her brother Steve.<s>
+Even if Steve was bigger than Susie he would yell and run away.<s>
+Steve was always getting mad at Susie, because she got all the attention.<s>
+Even when Steve would do all the washing, sweep the floor and clean the sink, still he didn't get any attention.<s>
+All Sally had to do was suck her thumb and look cute.<s>
+Sally was better at reading than Steve and he thought this was why he didn't get as much attention.<s>
+Susie was younger, but smarter than Steve.<s>
+Steve didn't think this was fair, because even if he wasn't as smart, he worked hard and was always a good spider.<s>
+
+1) <multiple> Which of the following did Steve not do to try and get attention?
+Clean the sink
+* Suck his thumb
+Sweep the floor
+Do the washing
+
+2) <multiple> Who was the biggest spider?
+Susie
+Steve
+Stewart
+* Sally
+
+3) <multiple> Who was the smallest spider?
+Sally
+* Susie
+Steve
+Stewart
+
+4) <single> What was Sally's father's name?
+Sally
+Susie
+* Stewart
+Steve
+

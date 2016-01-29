@@ -1,0 +1,40 @@
+There once was a boy named Kevin.<s>
+He met Jessica one afternoon at a park on a hot summer day.<s>
+They both started talking and became great friends.<s>
+They spent the whole day together and ate their lunches together next to the pond.<s>
+Kevin sure enjoyed the park more than he liked going to the beach or store.<s>
+There were many ducks, frogs, birds and chipmunks playing around the pond.<s>
+In fact, one of the chipmunks even came up and stole Kevin's car keys when he was eating!<s>
+Kevin knew that he needed to go have his keys, but the chipmunk ran with an evil smile on its face.<s>
+Eventually, the chipmunk ran into its hole that he called home.<s>
+Kevin tried everything he could to have the chipmunk come out with his keys, but he couldn't find out how to make the little guy give up.<s>
+Finally, Jessica came over and placed a potato chip at the opening to the hole.<s>
+In seconds, the chipmunk came out with the keys and dropped them in front of Kevin right before grabbing the chip and running back into the hole.<s>
+The chipmunk then went in to have his snack and left Kevin and Jessica alone.<s>
+Kevin thought that maybe next time he could go to the park in the early spring or winter so that the chipmunks would be busy sleeping during the cold weather months.<s>
+Kevin then said goodbye to Jessica and went home.<s>
+
+1) <single> What type of animal stole Kevin's car keys?
+frog
+bird
+* chipmunk
+duck
+
+2) <single> Where were Kevin and Jessica?
+Store
+Farm
+Beach
+* Park
+
+3) <multiple> What did the chipmunk do after giving the keys back?
+Watched TV
+Got a drink and went to bed
+Ran to steal someone else's car keys
+* Ate his snack
+
+4) <multiple> What did the chipmunk do after stealing the keys?
+Laughed
+Ate lunch
+* Ran away
+Went to the store
+

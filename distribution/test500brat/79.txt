@@ -1,0 +1,46 @@
+Lisa wants a new pet.<s>
+Sometimes it is very hard trying to choose a new pet.<s>
+There are so many different animals, each cuter than the last.<s>
+There are cats, dogs, and goldfishes.<s>
+In the end, Lisa chose a bunny.<s>
+Lisa's bunny is very cute.<s>
+The bunny has snowy white fur and large black eyes.<s>
+His ears are large, floppy, and grey.<s>
+She named the bunny Chomper since Chomper loves to eat everything.<s>
+Chomper eats carrots, celery, and even licks Lisa's fingers!<s>
+Nothing to worry, Chompers has a very small mouth and he is never fussy.<s>
+Except...every time Lisa leans down to kiss Chomper - he runs away!<s>
+Why?<s>
+Chomper thinks Lisa is trying to steal his treats!<s>
+He hates sharing his treats.<s>
+Chomper always wants second helpings of food.<s>
+Lisa is afraid Chomper would get so big he could fall off her lap.<s>
+But not to worry Lisa, Chomper hops around the house a lot.<s>
+Chomper knows how to stay fit like Lisa.<s>
+It's clear as day!<s>
+Lisa and Chomper make great friends.<s>
+
+1) <single> What is the bunny's name?
+Lisa.
+Snowy
+Floppy.
+* Chomper.
+
+2) <multiple> Why does Chomper look like?
+Chomper is grey.
+Chomper is white.
+Chomper is white with white ears.
+* Chomper has white fur, black eyes, and large floppy grey ears.
+
+3) <multiple> What does Chomper do when Lisa tries to kiss him? Why?
+Chomper is too big.
+Chomper hates Lisa.
+* Chomper runs away from Lisa because he thinks Lisa is trying to steal his treats.
+Chomper wants Lisa's treats.
+
+4) <single> Which pet did Lisa choose?
+A cat.
+A goldfish.
+A dog.
+* A bunny.
+

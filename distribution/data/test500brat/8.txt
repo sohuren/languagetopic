@@ -1,0 +1,47 @@
+Jen put on her favorite dress.<s>
+She liked it because it had cats on it.<s>
+She was very excited about her birthday cake.<s>
+Maybe the cake would have a turtle on it.<s>
+Jen was going to have turkey.<s>
+She had no gravy, so she had chicken for dinner instead.<s>
+After eating the chicken, she remembered she was late for the dance!<s>
+She ran up the stairs.<s>
+She put on a coat and ran out the door.<s>
+She walked past some ice cream.<s>
+She did not have time to stop and eat any of the ice cream.<s>
+She walked past some sprinkles.<s>
+She did not have time to eat the sprinkles.<s>
+Jen walked past the yogurt.<s>
+She did not have time to get the yogurt.<s>
+Jen got to where she had to go.<s>
+Soon after, she turned around and started the long walk back home.<s>
+She got home at last.<s>
+She saw her huge cake.<s>
+It had chocolate on it.<s>
+Jen was very happy.<s>
+She was ready to enjoy the cake.<s>
+
+1) <single> What was Jen late for?
+dinner
+* the dance
+cake
+ice cream
+
+2) <multiple> Why didn't Jen have turkey?
+She was very excited about her birthday cake.
+* She had no gravy.
+She saw some ice cream.
+She remembered she was late.
+
+3) <multiple> What was on Jen's dress?
+turtle
+ice cream
+cake
+* cats
+
+4) <multiple> What was on the cake?
+yogurt
+sprinkles
+* chocolate
+ice cream
+

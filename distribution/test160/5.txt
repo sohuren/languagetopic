@@ -1,0 +1,17 @@
+Chad walked to the pet store.<s>
+He saw puppies.<s>
+There was a black and white puppy.<s>
+Chad liked the puppy.<s>
+Chad walked the puppy home on a leash.<s>
+He took the puppy in the yard to play.<s>
+He found a ball to play fetch with the puppy.<s>
+Chad threw the ball and the puppy chased it across the yard.<s>
+After they were done playing, Chad fed and watered the puppy.<s>
+He found two bowls in the kitchen.<s>
+He filled one with water.<s>
+He filled the other bowl with dog food.<s>
+The puppy ran to the bowls to eat and drink.<s>
+When the puppy was finished eating it became tired.<s>
+Chad made the puppy a bed out of an old pillow.<s>
+The puppy curled up on the pillow and went to sleep.<s>
+

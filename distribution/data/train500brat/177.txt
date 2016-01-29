@@ -1,0 +1,39 @@
+A women went shopping for a dress to wear to her party.<s>
+She asked her parents to come along but her dad was busy.<s>
+Her mom joined her and brought a pear to eat later on as a snack.<s>
+They went to the first store and the woman tried on a dress.<s>
+It cut off right at the knee.<s>
+She liked the dress so much she bought it.<s>
+When they went back to their car they saw a bug had splashed on her window.<s>
+They thought nothing of it and wanted to go eat breakfast since it was nine in the morning.<s>
+Instead the restaurant was cooking peas.<s>
+The mom asked the cashier why they were cooking peas.<s>
+The cashier said because it was opposite day.<s>
+The woman and her mom wanted to eat the peas and bought steaks as well.<s>
+They were liking the peas and steak so much.<s>
+After eating, they got a vanilla milkshake and went to more stores to shop for fun.<s>
+
+1) <multiple> Who went with the woman dress shopping?
+* mom
+a cashier
+a bug
+dad
+
+2) <single> What was special about the day?
+* it was opposite day
+it was Father's day
+it was the mom's birthday
+it was a Monday
+
+3) <single> What was the woman shopping for?
+a cashier
+a mom
+* a dress
+a restaurant
+
+4) <multiple> Why was the restaurant cooking peas?
+they ran out of food
+the bugs told them to
+* it was opposite day
+it was lunch time
+

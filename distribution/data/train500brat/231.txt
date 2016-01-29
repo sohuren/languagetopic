@@ -1,0 +1,41 @@
+There once was a girl named Erin who had a really close friend named Kevin.<s>
+They really liked being with each other, only it was difficult as Erin lived in England and Kevin lived in the United States.<s>
+Because they both liked traveling and Erin wanted to see Kevin, she planned a trip to see him in the United States one summer.<s>
+They had planned to travel around where Kevin lived and then go to see New York City at one point in order to see the sights and have a really nice steak dinner together.<s>
+Once Erin arrived and met Kevin at the airport, she ran up to him and jumped into his arms, giving him a great big hug.<s>
+They drove home where Kevin helped Erin organize her things before they changed and watched a movie together.<s>
+The next day, they went out to have breakfast at the diner.<s>
+They thought about getting eggs, French toast, or cereal... but couldn't make up their minds.<s>
+Finally, Kevin asked the worker to bring out pancakes for the two of them to share.<s>
+They had a really fun time together, visiting the beach, watching movies, and even visiting New York City like they had planned.<s>
+In the morning, they went to see the Empire State building.<s>
+In the afternoon, they saw the Statue of Liberty and Central Park.<s>
+At night, they went to have their dinner and went back to their hotel.<s>
+As Erin's trip was ending, Erin became really sad about leaving Kevin.<s>
+They talked and came up with a plan for the months ahead which made Erin feel a lot better.<s>
+Erin then went home and waited for Kyle to come to see her.<s>
+
+1) <multiple> What did Kevin and Erin do in New York City FIRST?
+* Visited the Empire State Building
+Went to their hotel
+Went to Central Park
+Saw the Statue of Liberty
+
+2) <multiple> What did Kevin and Erin eat for breakfast when they went to the diner?
+cereal
+* pancakes
+eggs
+oatmeal
+
+3) <single> What kind of dinner did Kevin have with Erin in New York?
+chocolate
+* steak
+eggs
+pancakes
+
+4) <single> Where did Erin live?
+United States
+* England
+Australia
+New York
+

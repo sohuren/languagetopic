@@ -1,0 +1,35 @@
+My mother and I were in the kitchen fixing dinner.<s>
+I was setting the table as she was cooking when we heard my father.<s>
+We went into the living room to see what he needed.<s>
+He could not find the keys to his truck.<s>
+We all started looking all over the place and could not seem to find them.<s>
+My father needed to go to work so he took the keys for my mom's van and left for work.<s>
+We kept looking for them and when we were about to give up my little brother came walking out of the garage with them in his hands.<s>
+He was in the garage playing with his bike.<s>
+My mother called my father at work to tell him the great news.<s>
+He was happy and we then ate our dinner.<s>
+
+1) <single> where did his father have to be?
+school
+in his truck
+in the garage
+* work
+
+2) <multiple> what did he end up driving?
+truck
+bike
+* van
+car
+
+3) <multiple> where were the keys?
+the van
+kitchen
+* garage
+outside
+
+4) <multiple> what were they looking for?
+a bike
+a ball
+* keys
+his truck
+

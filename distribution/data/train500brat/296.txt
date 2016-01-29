@@ -1,0 +1,48 @@
+James was getting ready for the weekend.<s>
+He needed to go to the store.<s>
+He needed to get food for his friend's birthday party.<s>
+James made a list of things to get.<s>
+He wrote down strawberries, apples, cupcakes, juice, and bananas.<s>
+James was going to make a fruit salad.<s>
+James went to the store.<s>
+He bought the apples, cupcakes, and bananas that were on the shopping list.<s>
+He forgot to buy the juice.<s>
+James also bought a toy mouse for a present for his friend.<s>
+James was very excited for the party this weekend.<s>
+The day of the party finally arrived.<s>
+James made the fruit salad with the apples, strawberries, and bananas he bought.<s>
+He set out the cupcakes and fruit salad on the table.<s>
+He placed the toy mouse in shiny paper and set it on the table too.<s>
+He checked his watch.<s>
+It was almost time for the party.<s>
+The birthday guests would be there soon.<s>
+Once the guests came they ate cupcakes and fruit salad.<s>
+Everyone liked the food.<s>
+James gave his friend the present.<s>
+His friend really liked the toy mouse.<s>
+James was very happy because his friend had a great birthday.<s>
+
+1) <multiple> What did James set on the table?
+He set a cake on the table.
+He set a dog on the table.
+* He set out the cupcakes, fruit salad and toy mouse on the table.
+He set a bowl on the table.
+
+2) <single> Did James's friend like his present?
+His friend really disliked the toy mouse.
+* His friend really liked the toy mouse.
+His friend did not like the toy mouse.
+His friend really liked the toy dog.
+
+3) <single> Why did James need to go to the store?
+* He needed to get food for his friend's birthday party.
+To buy party hats
+To buy a watch
+To buy paper
+
+4) <multiple> What did James buy at the store?
+James bought shiny paper.
+James bought juice.
+James bought birthday candles.
+* He bought the apples, cupcakes, bananas, and a toy mouse.
+

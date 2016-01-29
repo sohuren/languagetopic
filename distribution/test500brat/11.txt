@@ -1,0 +1,40 @@
+Jenny loves singing.<s>
+But her baby sister is crying so loud that Jenny can't hear herself, so she was angry!<s>
+Her Mom said she could try to play with her sister, but that only made her baby sister cry louder.<s>
+Jenny tried to ask the baby to stop crying, but that didn't work.<s>
+Jenny was getting tired, but she had an idea.<s>
+She would give her baby sister one of her toy horses.<s>
+The baby loved horses!<s>
+The baby played with the horse, but then she started crying again.<s>
+This made Jenny sad.<s>
+She wanted to sing!<s>
+Then she had a great idea.<s>
+She would give the baby a pacifier!<s>
+This worked.<s>
+The baby stopped crying and Jenny started singing.<s>
+Everyone was so happy!<s>
+
+1) <multiple> How did Jenny feel when the baby kept crying after Jenny gave her the horse?
+she didn't care
+she felt angry
+she felt tired
+* she felt sad
+
+2) <single> What did Jenny want to do?
+* sing
+play with her mom
+play with her baby sister
+play with her horses
+
+3) <single> What did Jenny's mom tell her to do?
+give her sister a pacifier
+* Play with her sister
+give her sister a toy horse
+sing to her sister
+
+4) <multiple> What was Jenny's great idea?
+* She gave the baby a pacifier
+She played with the baby
+she would ask her mom
+She gave the baby her toy horse
+

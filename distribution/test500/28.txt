@@ -1,0 +1,21 @@
+The children's father wanted to know what every one wanted on their pizza.<s>
+Andy wanted a strawberry on his pizza.<s>
+Father thought that was funny.<s>
+Father asked if anyone wanted chicken on the pizza.<s>
+Sue did not want chicken.<s>
+Andy wanted chicken.<s>
+Dan did not want chicken, but their father wanted to get chicken on the pizza.<s>
+Dan asked if they could have mushrooms on the pizza.<s>
+Father did not like mushrooms.<s>
+Andy and Sue wanted to have mushrooms, so their father had them put mushrooms on the pizza.<s>
+Sue wanted to have green onions on the pizza.<s>
+Father also wanted green onions.<s>
+Dan and Andy did not like green onions, so they did not get green onions on the pizza.<s>
+Father wanted to order thin crust pizza.<s>
+Dan thought that thin crust pizza had the taste of an old shoe.<s>
+Sue thought Dan was wrong.<s>
+Sue wanted thin crust pizza also.<s>
+Andy wanted thick crust pizza.<s>
+He did not want thin crust, so their father ordered the pizza with thick crust.<s>
+The pizza was very good and they ate it all.<s>
+

@@ -1,0 +1,39 @@
+Roger was a grasshopper.<s>
+He loved to hop.<s>
+He hopped everywhere by himself.<s>
+One day when he was hopping around he bumped into a frog sitting on a log.<s>
+The frog told him his name was Gilbert.<s>
+Gilbert told Roger that it had been a long time since he bumped into anybody.<s>
+Roger told him that since both grasshoppers and frogs like to jump they would make great friends.<s>
+The next day they were hopping through a field and they saw something very strange.<s>
+In a pond they saw a spider floating on a lily pad.<s>
+The spider was very sad because he did not have any friends.<s>
+Roger and Gilbert asked him why he didn't have any friends.<s>
+The spider told them that everybody would scream and run away when they saw him.<s>
+Roger and Gilbert told him that he didn't look scary to them and that he could come along with them if he wanted.<s>
+So Sam the spider said yes, and the three of them began a life time friendship full of adventures.<s>
+
+1) <multiple> What did Roger like to do?
+Bump.
+* Hop.
+Swim.
+Float.
+
+2) <single> What was the spider sitting on in the pond?
+branch
+* Lily pad
+land
+log
+
+3) <multiple> What character is not in the story?
+spider
+* lady bug
+grasshopper
+frog
+
+4) <single> What was the spider's name?
+Roger
+Sarah
+Gilbert
+* Sam
+

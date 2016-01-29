@@ -1,0 +1,43 @@
+In a quiet house there was a dog named Bentley.<s>
+Bentley was a little brown puppy and he was always getting into trouble.<s>
+One day Bentley got outside and walked down the street.<s>
+He found a trash can and started to dig through it.<s>
+A cat came also to see what Bentley was doing.<s>
+"Excuse me, but what are you looking for?"<s>
+asked the cat.<s>
+"Well, nothing important," Bentley told the cat.<s>
+"I wanted to see if there was anything cool in there."<s>
+The cat told Bentley that his name was Felix and asked if he could dig through the trash too.<s>
+"Sure thing" Bentley told the cat.<s>
+The two of them started to dig through the trash again.<s>
+After a little bit the pair got bored and started to walk down the street going away from Bentley's house.<s>
+They walked to a river and went to the edge of the water.<s>
+They saw they were dirty because they had been digging in the trash so they went into the water to wash themselves.<s>
+When they were clean they went back to Bentley's house.<s>
+Inside the house they got water on everything because they were still wet.<s>
+Bentley's human's came home and were very upset that their house was now very wet.<s>
+
+1) <single> Why were Bentley's human's upset?
+They had been stuck in traffic
+* The house was wet
+The door was open
+The animals ripped the sofa
+
+2) <single> What was the name of the cat Bentley met?
+Bentley
+Human
+* Felix
+Puppy
+
+3) <single> What was Bentley digging in?
+River
+* Trash
+Dirt
+Street
+
+4) <multiple> Where did the two animals go after digging in the trash?
+The city
+* River
+Space
+Home
+

@@ -1,0 +1,42 @@
+Abby and Emma are outside one day to do something special for someone.<s>
+They are picking flowers for their mother's birthday.<s>
+Right before they are finished picking their flowers to surprise their mother, the girls see that the clouds in the sky have turned grey and that the sun is no longer shining.<s>
+It looks like it's going to rain soon.<s>
+Abby looks down at her small hand of purple flowers and frowns.<s>
+"What's wrong, Abby?"<s>
+Emma asks, turning to look at her sister studying her flowers.<s>
+"Well," Abby says, "We got the flowers, but it looks like rain."<s>
+Emma looks up at the cloudy sky and nods.<s>
+"If it rains, we can't make mommy a mud pie," Abby adds with sadness.<s>
+Emma looks down at her own white flowers, counting them, and thinks.<s>
+After making sure she had four flowers, she looks at Abby with an idea.<s>
+"What if we get the mud and take it in the house?<s>
+That way if it rains, we can still make a cake," Emma says.<s>
+"Good idea!"<s>
+Abby smiles, happy again.<s>
+Flowers in hand, the girls grab a yellow pail, placing their flowers on the porch, as they walk towards the mud to get what they need for their mother's birthday cake.<s>
+
+1) <multiple> What are Abby and Emma doing outside at the beginning?
+* picking flowers
+walking
+watching the sky
+playing
+
+2) <multiple> How many flowers does Emma have?
+3
+2
+* 4
+5
+
+3) <single> What is the pail that the girls use to get the mud?
+white
+blue
+pink
+* yellow
+
+4) <single> Who's birthday is it in the story?
+Emma
+their father
+Abby
+* their mother
+

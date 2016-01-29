@@ -1,0 +1,46 @@
+Penelope kissed her hamster named Cracker.<s>
+She waved goodbye to her brother, Jacob.<s>
+Penelope ran out the door.<s>
+Penelope's neighbor, Mrs. Flower, said she would make banana pancakes for Penelope for breakfast.<s>
+Penelope could also play with Mrs. Flower's new puppy, Cookie.<s>
+Penelope saw a bowl with green beans, beets, and carrots from the store on the kitchen table.<s>
+Yuck, thought Penelope.<s>
+Penelope liked the new puppy.<s>
+Cookie had a funny smile.<s>
+Mrs. Flower gave Penelope a box of toys and told her to take Cookie to the backyard.<s>
+Penelope was busy looking at the green tomatoes.<s>
+She turned around and saw Cookie and Mr. Flower's cat, Thomas.<s>
+Thomas and Cookie were playing with the toys.<s>
+Thomas kicked a ball to Cookie and Cookie kicked the ball back.<s>
+Cookie got a toy fish out the box.<s>
+Thomas and Cookie played catch with the toy fish.<s>
+Penelope was laughing because she never saw a dog and cat play together.<s>
+Mrs. Flower came to the backyard.<s>
+She asked Penelope if she wanted yogurt, apple sauce or chocolate pudding with her breakfast.<s>
+Penelope said she wanted yogurt.<s>
+Penelope went inside and ate her breakfast with Mrs. Flower and Mr. Flower.<s>
+
+1) <single> What is the name of Mrs. Flower's  new puppy?
+* Cookie
+Jacob
+Cracker
+Thomas
+
+2) <multiple> What did Penelope do before going to Mrs. Flower's house for breakfast?
+She saw green beans, beets, and carrots on her kitchen table.
+She saw a dog and cat play together.
+She had some yogurt for breakfast.
+* She kissed her hamster Cracker and waved goodbye to her brother, Jacob.
+
+3) <multiple> What did Thomas and Cookie do in the backyard?
+* Thomas and Cookie kicked a ball and played catch with a toy fish.
+Thomas and Cookie ate chocolate pudding and apple sauce.
+Thomas and Cookie dug up carrots in the garden.
+Thomas and Cookie ate green tomatoes from Mrs. Flower's garden.
+
+4) <multiple> What did Penelope have with her banana pancakes at breakfast?
+carrots
+apple sauce
+* yogurt
+chocolate pudding
+

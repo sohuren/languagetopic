@@ -1,0 +1,42 @@
+The best afternoon I ever had with my grandfather was when we went down to the river and fished.<s>
+It was a hot July day, and I was bored.<s>
+My grandfather was sitting in the backyard, reading.<s>
+"Hey, you look like you need some fun," he said.<s>
+"Want to go fishing?"<s>
+I said sure, and he went to the garage.<s>
+He came out with two poles, some hooks, and some fishing line.<s>
+Everything was in pieces, but he showed me how to put it all together.<s>
+I asked if we needed worms, and he said no.<s>
+Then, we set off to the river.<s>
+It was only about ten blocks to the river, but walking along past the library and the store, he told me about how he used to go fishing with his friend Steve.<s>
+They used to catch catfish, then take them home so that their mothers could cook them for dinner.<s>
+When we got to the park at the river, my grandfather went right to the bank, then turned and walked up along the side of the river until we were off in the shade under the trees right at the edge of the park.<s>
+There, he taught me how to throw my line in the water.<s>
+Then we sat down to wait.<s>
+While we were fishing, my grandfather told me lots of stories about what he and Steve did as kids.<s>
+We didn't have any worms, so we never caught any fish, but sitting there as he told me stories made it a great afternoon.<s>
+
+1) <multiple> What did they walk past?
+Park
+River
+Garage
+* Library and store
+
+2) <single> Who cooked the catfish?
+The grandfather
+Steve
+* The mothers
+Me
+
+3) <multiple> What did the grandfather get from the garage?
+River
+Worms
+Stories
+* Poles, fishing line, hooks
+
+4) <single> What was the grandfather doing in the back yard?
+Sitting under a tree
+Being bored
+* Reading
+Fishing
+

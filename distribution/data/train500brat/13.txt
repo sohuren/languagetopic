@@ -1,0 +1,54 @@
+Katie went to the store.<s>
+She needed to buy some flowers.<s>
+She also needed to buy a snack and a bow.<s>
+The store is down the street.<s>
+Katie's mother drove her to the store.<s>
+Her mother is named June.<s>
+Katie looked around for the flowers.<s>
+She found some pink ones.<s>
+Katie then looked for the snacks.<s>
+She wanted cookies not chips.<s>
+She found some chocolate cookies.<s>
+Katie then looked for a bow.<s>
+She wanted to get one for her cat.<s>
+Her cat is named James.<s>
+James likes wearing bows.<s>
+Katie also has a dog, but he does not like bows.<s>
+His name is Sammy.<s>
+Katie gave the bow to James the cat.<s>
+He liked it.<s>
+Katie ate her snack.<s>
+She likes chocolate cookies.<s>
+Katie gave the flowers to her mother.<s>
+Her mother was very happy.<s>
+She likes flowers.<s>
+Katie did not get anything for Sammy.<s>
+She gave Sammy a hug instead.<s>
+Sammy likes hugs.<s>
+James does not like hugs.<s>
+Katie had a great day.<s>
+
+1) <single> Who likes wearing bows?
+Sammy
+* James
+Katie
+Her mother
+
+2) <multiple> What snack did Katie buy?
+Chips
+* Chocolate cookies
+Flowers
+Bows
+
+3) <multiple> What is the name of Katie's dog?
+June
+Katie
+* Sammy
+James
+
+4) <single> Who drove Katie to the store?
+* Her mother
+Sammy
+James
+Katie
+

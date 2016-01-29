@@ -1,0 +1,42 @@
+A day at the beach.<s>
+When Sam woke in the morning, he was super excited!<s>
+Today was the day!<s>
+It was Sunday, the day that Sam's mom and dad had promised to take Sam to the beach.<s>
+Sam's grandma had given a pail and shovel to Sam to use in the sand.<s>
+At breakfast Sam was so excited he was wiggling in his seat!<s>
+Mom told Sam that they would leave when the big hand on the clock was pointing to the 10, and the little had was pointing to the 12.<s>
+Mom asked Sam if he would like to help make sandwiches for the trip, and Sam said that he wanted to help.<s>
+Dad said, "let's make a game of it, we need to make a sandwich for each of us.<s>
+There are three of us, so we need three sandwiches.<s>
+Let's count as we make the sandwiches!"<s>
+Sam counted as mom made the sandwiches, one for dad, one for mom and one for Sam.<s>
+Then mom started to make another sandwich!<s>
+"Mom!"<s>
+said Sam, "we have three sandwiches and that makes one sandwich for each of us."<s>
+Sam's mom laughed, "You're right Sam!"<s>
+Sam's mom said she was being silly.<s>
+
+1) <single> How many people were going to the beach?
+To many people to count!
+Five people.
+Sam was the only one going to the beach.
+* Three, Sam his mom and his dad.
+
+2) <multiple> Why was Sam excited?
+Because his grandma gave him a pale.
+Because he likes sandwiches.
+Because he could count.
+* Because they were going to the beach.
+
+3) <single> What did sam's grandma give him?
+* Sam's grandma game him a pale.
+Sam's grandma gave him breakfast.
+Sam's grandma gave him a sandwich.
+Sam's grandma gave him a day at the beach.
+
+4) <multiple> What were they making?
+They were making a game.
+* They were making sandwiches.
+They were making a pale.
+The were making the beach.
+

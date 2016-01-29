@@ -1,0 +1,48 @@
+Tomorrow was Little Bunny's birthday.<s>
+He was very excited.<s>
+He wanted to invite all of his friends.<s>
+"We only have enough cake for five friends."<s>
+His mother said.<s>
+Little Bunny thought and thought.<s>
+He wanted to invite Rabbit, Bear, Duck and Goose.<s>
+Little Bunny could invite one more friend.<s>
+He thought about Turtle.<s>
+Turtle was lots of fun and always told funny jokes.<s>
+He thought about Fox.<s>
+Fox was super nice and always made Little Bunny feel good.<s>
+He also thought about how not inviting one of his friends would make them feel bad.<s>
+Little Bunny didn't want to make anyone feel bad.<s>
+After a little bit he had an idea.<s>
+He told his mother his idea.<s>
+"I like both Turtle and Fox, and I want them both to come.<s>
+One would feel really left out if they didn't get invited.<s>
+I can give my cake to one of my friends, and that way they can both come and have a piece."<s>
+His mother thought it was very sweet of Little Bunny to give up his piece of birthday cake so that none of his friends would feel left out.<s>
+"I'll tell you what."<s>
+Said his mother.<s>
+"I'll make a batch of cupcakes, and all of your friends can have some."<s>
+
+1) <multiple> How many friends did Little Bunny want to invite?
+8
+5
+* 6
+4
+
+2) <multiple> Who would feel left out if they couldn't come to the party?
+Bear and Duck
+* Fox and Turtle
+Goose and Rabbit
+Duck and Goose
+
+3) <single> Who was having a birthday?
+Turtle
+Duck
+* Little Bunny
+Bear
+
+4) <single> Who was fun and told funny jokes?
+Rabbit
+Bear
+Goose
+* Turtle
+

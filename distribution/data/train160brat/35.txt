@@ -1,0 +1,49 @@
+Once upon a time, there was a boy named Freddy.<s>
+And Freddy loved his mom very much, and his mom loved him very much too.<s>
+One day, Freddy went outside to ride his bike.<s>
+On the way out, his mother told him, "Remember to wear your helmet," and Freddy grabbed his helmet and met his friends outside.<s>
+When he was putting on his helmet, his friends told him, "Helmets are for girls!<s>
+You're not cool if you wear a helmet!"<s>
+Freddy thought about what his mom told him, but he wanted to be cool like his friends, and he took off his helmet.<s>
+Freddy and his friends went on a long adventure, and they rode all the way to the top of the largest hill in their neighborhood.<s>
+Looking down, Freddy was scared.<s>
+He had never ridden down this hill before.<s>
+His friends said, "What are you, scared?"<s>
+Freddy did not want to come off as scared.<s>
+He hopped on his bicycle, and down he went.<s>
+Freddy started speeding up, going very, very fast.<s>
+He pressed his brakes, but oh no, his brakes weren't working.<s>
+Freddy, speeding down the hill, did not know what to do.<s>
+He got to the end of the hill and slammed right into a tree.<s>
+He awoke the next day in the hospital.<s>
+At the hospital, his mother was there.<s>
+Freddy opened his eyes and told his mom the whole story.<s>
+He told her how we would never do that again, and how he would always wear his helmet.<s>
+His mom gave him a big kiss on the forehead, and Freddy knew his mother was right in the beginning.<s>
+She didn't have to say it.<s>
+In the end, Freddy learned that it's important to not care what other people think, and those that think you're not cool because you wear a helmet are the ones that aren't cool in the first place.<s>
+
+1) <single> Who does Freddy love?
+His friends
+His bicycle
+* His mom
+His dad
+
+2) <single> What's the name of the main character in the story?
+Billy
+* Freddy
+Blake
+Joey
+
+3) <multiple> In which two places is this story located?
+* Neighborhood and Hospital
+Neighborhood and Shopping Mall
+Hospital and the Zoo
+Restaurant and Shopping Mall
+
+4) <multiple> What two things do the main character's friends say to him?
+"Freddy is a girl!" and "You're a little baby!"
+* "Helmets are for girls!  You're not cool if you wear a helmet!" and "What are you, scared?"
+"Did your mommy buy you that helmet?"  and "Helmets are for girls!  You're not cool if you wear a helmet!"
+"Quit being such a cry baby" and "What are you, scared?"
+

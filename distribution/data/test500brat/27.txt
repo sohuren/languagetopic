@@ -1,0 +1,48 @@
+Nana had a bunch of money.<s>
+She had saved money her whole life.<s>
+But Nana was afraid of people stealing her money.<s>
+She planned to hide it.<s>
+First she moved it around in her house and hid it behind a wall.<s>
+Then she put her money in the attic.<s>
+But she still didn't feel safe about her money.<s>
+She was sure someone would find it.<s>
+Finally she took it outside and started digging in the ground.<s>
+She buried it in the ground so no one would find it.<s>
+"It is going be safe here," said Nana.<s>
+She was very pleased that she had hidden her money so well.<s>
+The next day after breakfast, she went outside to make sure her money was still there.<s>
+She stopped at the spot she thought she had buried it and began digging.<s>
+After some time she hadn't found it.<s>
+She climbed out of the hole and looked around.<s>
+She had used a tree as a way to mark the spot.<s>
+But she couldn't tell which tree.<s>
+The wind was blowing and the trees all looked the same!<s>
+She had used a brown spot on the ground to mark the spot.<s>
+But she couldn't tell which brown spot it was!<s>
+She knew she wasn't lost.<s>
+Nana had hidden her money so well that no one could find it, and that included her!<s>
+
+1) <multiple> How many different places does Nana hide the money BEFORE she hides it for the final time?
+Four
+Five
+Three
+* Two
+
+2) <single> Where does Nana finally hide her money?
+A tree
+* A hole in the ground she dug
+Her wall
+Her attic
+
+3) <multiple> Why couldn't she find her money at the end?
+The wind blew her money away
+Because she hadn't eaten breakfast.
+She got lost.
+* Because she couldn't tell which things she used to mark the spot where she hid the money.
+
+4) <single> Where was the first place Nana hid her money?
+A tree
+The attic
+* The wall
+A hole in the ground.
+

@@ -1,0 +1,37 @@
+It was warmer than normal outside at the zoo.<s>
+The clown was hot in his costume.<s>
+He still smiled and he still made people laugh.<s>
+He worked hard.<s>
+He threw a plane because someone's son asked him to.<s>
+He even put jelly on his face because a little girl said it would make him look pretty.<s>
+At noon he juggled plates and at one in the afternoon he sat down to have some lunch.<s>
+The cook made a salad to his liking and the clown ate it happily.<s>
+He felt famous because people visiting the zoo pointed at him and smiled at him as he ate his salad.<s>
+The day might be hot, but the clown felt it was good in the end because of how much people liked him.<s>
+Soon he was back to work juggling and telling jokes.<s>
+He even sprayed someone with water when they smelled his fake flower.<s>
+
+1) <multiple> How does the clown work hard?
+He stayed at the zoo
+* He threw a plane and put jelly on his face
+He laughed
+He stood outside
+
+2) <multiple> Why was the clown hot?
+Because he had too much paint on his face
+Because he worked in the zoo
+Because he juggled plates
+* Because it was warmer than normal and he was in costume
+
+3) <single> Where does the story take place?
+* In a zoo
+At a circus
+At a plate shop
+In a jelly store
+
+4) <single> What does the clown do at noon?
+He puts jelly on his face
+He throws a plane
+* He juggles plates
+He puts on his costume
+

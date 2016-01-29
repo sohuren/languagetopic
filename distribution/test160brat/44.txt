@@ -1,0 +1,47 @@
+One morning, Justin woke up very excited.<s>
+He was excited because it was his birthday.<s>
+He went downstairs to eat breakfast.<s>
+When he got downstairs his mom said, "Happy Birthday."<s>
+"Thank you!"<s>
+Justin said.<s>
+"Am I going to have lots of presents?"<s>
+he asked his mom.<s>
+"Yes, Justin.<s>
+When your friends come over for your birthday party you'll get lots!"<s>
+"Hooray!"<s>
+Justin said, eating his breakfast.<s>
+Later that day, Justin's friends came over for his birthday party, and they brought over lots of presents.<s>
+They ate cake and ice cream.<s>
+They played games like tag and played with a football.<s>
+After they were done playing Justin got to open his presents.<s>
+He saw lots of presents.<s>
+Red ones, blue ones, tall ones, round ones.<s>
+"Thank you!"<s>
+Justin said, as he started to open his presents.<s>
+He got a basketball, a robot toy, a new bike and some super hero toys!<s>
+After all of Justin's friends left, Justin fell asleep very fast because of the exciting day he had and he was happy he got all of those nice things.<s>
+
+1) <multiple> Who did Justin talk to when he went downstairs?
+Sister
+Neighbor
+* Mom
+Dad
+
+2) <single> Why was Justin excited to wake up?
+Cartoons
+First day of school
+* Birthday
+Christmas
+
+3) <multiple> What was one of the games Justin played with his Friends?
+Soccer
+Hide and seek
+* Tag
+Tennis
+
+4) <single> What was one of the presents Justin got?
+Football
+* Basketball
+Books
+Clothes
+

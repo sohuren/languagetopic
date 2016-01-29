@@ -1,0 +1,42 @@
+Corky walked to the store to buy some milk, like he does every Tuesday.<s>
+On his way, he passed the red house where John lives, the green house where June lives, the white house where Barack lives, the blue hat store, and the orange house where Jessie lives.<s>
+He finally reached the store at 5 o'clock.<s>
+Corky thought about buying some other things too.<s>
+He looked at the potato chips, but didn't like the flavors they had left.<s>
+All of the normal flavored ones were gone.<s>
+He never liked hard candy, so he ignored those.<s>
+He saw the apples, but didn't need one because he had apples at home.<s>
+So he picked out some cookies instead.<s>
+Corky thought he'd eat them on his way home.<s>
+He waited in line until it was his turn, and then paid Abe the cashier.<s>
+Abe gave him his change and wished him a good day.<s>
+On his way home, Corky ate his cookies.<s>
+He had hoped to buy peanut butter cookies, but the store never has those.<s>
+Instead, he bought sugar cookies.<s>
+He liked them very much too, so he wasn't at all upset.<s>
+When he got home, he poured a glass of milk and finished his cookies.<s>
+
+1) <multiple> Where was Corky going when he passed June's house?
+To the orange house
+To Jessie's house
+* To the store
+To the hat store
+
+2) <single> Who lives in the green house?
+John
+Abe
+Corky
+* June
+
+3) <multiple> What flavor of cookies did Corky buy?
+Apple
+Peanut butter
+Chocolate chip
+* Sugar
+
+4) <multiple> Who reached the store at 5 o'clock?
+* Corky
+Abe
+Barack
+Jessie
+

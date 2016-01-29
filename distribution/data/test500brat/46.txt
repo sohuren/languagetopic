@@ -1,0 +1,44 @@
+Sally the cat went outside to play.<s>
+First she went on the trail to the river.<s>
+Sally sat and watched the fish.<s>
+She wanted to catch a fish.<s>
+The fish swam away too fast.<s>
+Next she went to the field.<s>
+Sally laid down in the grass and took a nap.<s>
+There's nothing like a cat nap on a warm day.<s>
+When Sally woke up she saw a mouse.<s>
+Sally ran after the mouse and tried to catch it.<s>
+The mouse ran into a hole and got away.<s>
+"That's okay" Sally said.<s>
+"I'll get him next time."<s>
+Sally went back to the trail and began to walk home.<s>
+When she got back to the river she took a drink of water.<s>
+"This water tastes good" said Sally.<s>
+When she got back to her house, Sally went inside and ate a cat treat.<s>
+She spent the rest of day playing with her favorite person.<s>
+"This was a good day" said Sally.<s>
+
+1) <multiple> What did Sally do when she got home?
+Sally took a nap.
+* Sally went inside and ate a cat treat. She spent the rest of day playing with her favorite person. She spent the rest of day playing with her favorite person.
+Sally watched the fish.
+Sally chased a mouse.
+
+2) <single> What did Sally do in the field?
+* Sally laid down in the grass and took a nap.
+Sally watched the fish.
+Sally ate a cat treat.
+Sally chased a mouse.
+
+3) <multiple> What did Sally do when she woke up from her nap?
+Sally ate a cat treat.
+Sally spent the rest of the day playing with her favorite person.
+* When Sally woke up she saw a mouse. Sally ran after the mouse and tried to catch it.
+Sally watched the fish.
+
+4) <single> What did Sally do when she got to the river?
+Sally played with her favorite person.
+Sally chased a mouse.
+* Sally sat and watched the fish.
+Sally ate a cat treat.
+

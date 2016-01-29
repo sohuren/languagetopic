@@ -1,0 +1,40 @@
+Once upon a time, there lived a Daddy bird.<s>
+This was a very normal bird.<s>
+It did not sing pretty songs.<s>
+It did not have colorful feathers but it did have thing that made it stand out from the other birds.<s>
+It had a very long tail feather.<s>
+And with this long tail feather, the bird could do wonderful tricks.<s>
+He could fly in circles and fly at super-fast speed.<s>
+Daddy bird lived on a quiet street, at a yellow house.<s>
+Its nest was on top of a basketball pole that the kids who lived in the yellow house had outgrown.<s>
+The bird was a daddy bird and had two baby birds in its nest.<s>
+One of the baby birds had a long tail feather like the daddy bird.<s>
+The other baby bird did not.<s>
+Instead, it had wings with many colors like the mommy bird.<s>
+This bird family lived at the yellow house all summer long.<s>
+The mommy and daddy birds came back for many summers and had many more baby birds but only one, the very first baby bird, had a long tail feather and could do tricks like daddy bird.<s>
+
+1) <multiple> How many of Daddy bird's babies had a long tail feather?
+* Only one
+None of them
+Many of them
+All of them
+
+2) <single> What was special about Daddy bird?
+* He had a long tail feather
+He could sing pretty songs
+He had long legs
+He had many colors
+
+3) <multiple> What was one of Daddy bird's tricks?
+He could play basketball
+* He could fly in circles
+He could sing happy birthday
+He could fly very high
+
+4) <single> What color house did Daddy bird live at?
+* A yellow house
+A red house
+A green house
+A blue house
+

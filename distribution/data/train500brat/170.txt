@@ -1,0 +1,41 @@
+Kramer the kitten loved to hunt for mice.<s>
+He was black with white boots.<s>
+Kramer was still a baby, so he liked to play all night long and sleep during the day.<s>
+His favorite toy is a little fake squeaky mouse.<s>
+One day, Kramer was waking up from a long nap.<s>
+He saw a little mouse out of the corner of his eye.<s>
+He jumped up and began to chase him around the room.<s>
+He ran and ran until the mouse went into a little hole in the wall.<s>
+Mary the mouse was so scared.<s>
+She sat in the hole in the wall and cried little mouse tears.<s>
+Kramer heard the mouse crying and said "Don't worry little mouse I want to play with you!<s>
+Do you want to play too?<s>
+Let's play hide and seek!"<s>
+The mouse poked her head out and said "Sure!"<s>
+I'm it first!"<s>
+And Kramer took off around the corner with Mary chasing behind him.<s>
+
+1) <multiple> What happens after the mouse hides in the wall?
+* Kramer tells her he wants to play hide & seek and they become friends and play. Mary is it.
+Kramer cries.
+Mary runs away.
+Kramer plays with his squeaky mouse.
+
+2) <single> What is the mouse's name?
+Boots
+Kramer
+* Mary
+Mouse
+
+3) <single> What is the kitten's name?
+Boots
+* Kramer
+Mouse
+Mary
+
+4) <multiple> What does Kramer like to do?
+He likes mice.
+He likes his black fur.
+* He likes to play all night and sleep all day and he likes his squeaky mouse.
+He likes his white boots.
+

@@ -1,0 +1,42 @@
+Mike likes the man.<s>
+Mike is a gray, winter glove the man found in the snow.<s>
+The man likes to bring lost gloves home.<s>
+He puts them in a box.<s>
+The gloves are warm and safe in the box.<s>
+They also get to meet new friends when the man finds them and puts them in the box.<s>
+Mike has made many new friends since the man found him.<s>
+He has become good friends with Roger, Katie, and Jane.<s>
+Two of them, Roger and Katie, were found in the snow, like Mike.<s>
+Jane was not.<s>
+She was found in a pile of leaves.<s>
+Roger is a bright orange glove, Jane is a pink mitten, and Katie is a pink glove with purple fingers.<s>
+Jane also has a friend named Rich.<s>
+He is a large, black glove who the man found in a building.<s>
+Mike has met him, but they are not good friends yet.<s>
+They all like to play tag and talk about how much they like their new lives.<s>
+Mike is really happy the man found him and he made so many new friends.<s>
+
+1) <multiple> Who is not a good friend of Mike?
+The pink glove with purple fingers.
+The orange glove.
+* The black glove.
+The pink mitten.
+
+2) <multiple> Who was found in a pile of leaves?
+* Jane.
+Mike.
+Katie.
+Rich.
+
+3) <single> Who has purple fingers?
+* Katie.
+Mike.
+Rich.
+Jane.
+
+4) <multiple> Who was not found in snow?
+Mike.
+* Rich.
+Katie.
+Roger.
+

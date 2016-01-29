@@ -1,0 +1,42 @@
+One day, Jane and Mike went to the zoo with their mother.<s>
+As soon as they arrived, Jane said she wanted to go see the bears and the lions.<s>
+Mike didn't want to see them at all, he wanted to see the monkeys.<s>
+Their mother told them that they can see all of the animals, but they have to start with the sneaky snakes.<s>
+After going around to some of the animals, Mike was happy to finally see the monkeys.<s>
+As soon as they started to watch the monkeys, they started dancing by the window in front of Mike, Jane, and their mother.<s>
+"Look!<s>
+Mike," their mother said, "those monkeys are dancing for you!"<s>
+and Mike watched them happily dance and dance!<s>
+When they stopped dancing, their mother told Jane it was time to see some scary lions and bears.<s>
+Jane wasn't scared at all, she knew they weren't going to get her.<s>
+Jane bravely went to the section with the lions and watched them roaring at her and Mike.<s>
+Mike got scared and hid behind his mom.<s>
+Jane was happy watching the lions.<s>
+Next was the bears, but they were all asleep by the time they got to see them.<s>
+At the end of the day, Mike said he loved the monkeys the best, Jane said she loved the lions.<s>
+Both, Jane and Mike, said they loved the zoo.<s>
+
+1) <multiple> What were the monkeys and the lions doing when Jane and Mike watched them?
+The monkeys were singing and the lions were roaring.
+* The monkeys were dancing and the lions were roaring.
+The monkeys were roaring and the lions were sleeping.
+The monkeys were dancing and the lions were sleeping.
+
+2) <single> What animal did they see first?
+Monkeys
+Lions
+Bears
+* Snakes
+
+3) <multiple> What animals were Mike and Jane excited to see?
+* Lions, bears, and monkeys.
+Bears, monkeys, and snakes.
+Monkeys, bears, and elephants.
+Snakes, lions, and monkeys.
+
+4) <single> What were the monkeys doing when Mike watched them?
+They were eating ice cream.
+They were sleeping.
+* They were dancing.
+They were roaring at him.
+

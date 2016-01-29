@@ -1,0 +1,44 @@
+There was a big race in town.<s>
+Stephanie and Sarah were friends.<s>
+Stephanie was faster than Sarah.<s>
+On the day of the race, they wished each other good luck.<s>
+Sarah tripped on a rock during the race.<s>
+She cried but another one of her friends, Matt, helped her stand up.<s>
+Stephanie cheered for her to finish after she crossed the line.<s>
+On the next day Sarah came into school with a bruise on her knee.<s>
+Jane thought she looked silly.<s>
+They were in the same class.<s>
+Jane did not make fun of Sarah.<s>
+She gave her a bandage instead.<s>
+It had a cat on it to match Sarah's shirt.<s>
+Sarah was still unhappy.<s>
+She would not eat her lunch or play at recess.<s>
+When Stephanie tried to talk to her she frowned.<s>
+Then Stephanie gave Sarah a bunny toy that she liked.<s>
+Sarah smiled.<s>
+She gave Stephanie a hug.<s>
+
+1) <multiple> Based on the story, who likely won the race?
+Jane
+Matt
+Sarah
+* Stephanie
+
+2) <multiple> Why was Sarah unhappy?
+Stephanie was her friend
+* She did not win the race
+Matt helped her stand up
+Jane gave her a bandage
+
+3) <single> What did Stephanie give Sarah?
+A rock
+* A bunny toy
+A hug
+A bandage
+
+4) <single> What was on Sarah's shirt?
+shoelace
+* cat
+rock
+bunny
+

@@ -1,0 +1,45 @@
+A man named Albert had the choice to build a tree house, a garage, a desk, or a cabinet.<s>
+Albert chose to build something big to share with his kid, so he wanted to make a tree house.<s>
+Albert had to choose what kind of stuff to make the tree house out of.<s>
+Wood is popular, but splinters would hurt his son.<s>
+Metal is very strong, but it would also be very hard to use.<s>
+Plastic is not expensive, but it also bends a lot.<s>
+The last choice was to give up, but Albert really wanted to do this for his son.<s>
+It would make him very happy.<s>
+Albert ended up choosing wood, as it was the most popular choice.<s>
+Albert went to the store to buy nails, tools, and wood, but forgot to buy glue.<s>
+He had to go back there and he finally had everything he needed.<s>
+He got started and it was very hard.<s>
+One hour went by, then two, then three, then four.<s>
+Finally, on the fifth hour, Albert finally finished the tree house.<s>
+His son ran out and jumped into his dad's arms.<s>
+They both looked at it, and Albert's son gave his dad a kiss for all the hard work he had done.<s>
+Albert looked at the tree house he had built and was very happy.<s>
+He had done it all by himself, and he was happy to see his son being so happy as well.<s>
+They would have a long summer of playing together in the tree house that Albert built.<s>
+It was one of the best tree houses ever!<s>
+
+1) <single> How long did it take Albert to build the tree house?
+* five hours
+three hours
+two hours
+four hours
+
+2) <multiple> What did Albert make the tree house out of?
+Albert chose not to make the tree house
+Metal
+* WOod
+Plastic
+
+3) <multiple> What did Albert choose to build?
+A desk
+* A tree house
+A garage
+A cabinet
+
+4) <single> What did Albert forget to buy at the store?
+Nails
+Tools
+Wood
+* Glue
+

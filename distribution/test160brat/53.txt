@@ -1,0 +1,48 @@
+Jamal made his mommy a special card for her birthday.<s>
+When he gave it to her, she smiled and said that it was beautiful.<s>
+His dad also gave her a card, but she did not smile the same way.<s>
+Mommy didn't look mad, but Jamal knew that she was disappointed.<s>
+The next day, Jamal's dad drove him to school.<s>
+Jamal said "Daddy, did Mommy not like your birthday card?"<s>
+Jamal's dad said, "Well, son, sometimes I don't know what your mother likes.<s>
+I could have asked her or thought of something better."<s>
+Before Jamal got out of the car, he asked his dad, "Can we go to get ice cream after you pick me up from school?"<s>
+"Sure, that sounds good to me," said Jamal's dad.<s>
+After school, Jamal and his dad went to the ice cream shop.<s>
+Jamal said, "Now we can get Mommy the present!"<s>
+Jamal's dad said, "What present?<s>
+Did you have a secret plan?"<s>
+Jamal giggled and ran to the plant store nearby.<s>
+Jamal remembered that when Mommy took him to his grandma's house, she told Grandma that she always wanted to have a lily plant.<s>
+They found a lily plant in the store.<s>
+The woman who worked at the store asked, "Do you want to put this in a pot?"<s>
+Jamal's dad told Jamal, "Let's get the yellow pot, because that's Mommy's favorite color."<s>
+When they got home, Jamal's mommy came out of the kitchen.<s>
+She saw the lily in the bright yellow pot on the table.<s>
+Jamal saw her smile, only this time it was the same smile he saw when he gave her the card.<s>
+Jamal smiled too because he knew that Daddy made her very happy.<s>
+
+1) <single> What did Mommy think of Jamal's birthday card?
+* She thought it was beautiful.
+She thought it was funny.
+She thought it was ugly.
+She thought it was too small.
+
+2) <multiple> Why did Jamal ask his daddy to get ice cream after school?
+Mommy likes chocolate ice cream.
+The ice cream store had Jamal's favorite flavor.
+It was Jamal's birthday.
+* The ice cream store was next to the plant store.
+
+3) <single> What did Jamal's Mommy always want to have?
+A Big Kitchen
+A Pot
+* A Lily Plant
+Ice Cream
+
+4) <multiple> Why would Mommy smile at Daddy for putting the plant in the pot that he chose?
+It had a picture on it that she liked.
+It was dirty.
+He put it in the wrong way.
+* It was Mommy's favorite color
+

@@ -1,0 +1,43 @@
+It was a beautiful Friday morning in Los Angeles.<s>
+The sun was shining and the birds were singing their song.<s>
+Angela woke up and got dressed.<s>
+She had plans to go to the beach and look out on the ocean today.<s>
+Angela had some chores to do first.<s>
+She needed to clean and organize.<s>
+Angela started by cleaning the bathroom.<s>
+She then cleaned the living room, dining room, kitchen and her bedroom.<s>
+After cleaning the bedroom, she organized her books on her desk.<s>
+She then organized her spices in the kitchen.<s>
+Angela started to make lunch.<s>
+Angela had a choice between pizza, sandwiches and salad.<s>
+She wanted to have pizza today.<s>
+She chose to make a salad for lunch tomorrow and Sunday.<s>
+Angela went to the store to buy lettuce.<s>
+She went home after buying lettuce and ate pizza.<s>
+After that, she took a walk and enjoyed the clear blue sky and breeze.<s>
+She ended up walking to the beach.<s>
+
+1) <single> Where were the books that Angela organized?
+bathroom
+kitchen
+living room
+* desk
+
+2) <multiple> what day was Angela making salad for lunch?
+today
+* Saturday
+Sunday
+Friday
+
+3) <single> Where did Angela clean first?
+* bathroom
+kitchen
+living room
+dining room
+
+4) <multiple> Where did Angela walk to?
+sky
+ocean
+bedroom
+* the beach
+

@@ -1,0 +1,40 @@
+Jim was looking up at the sky when he saw it.<s>
+He saw a bright light.<s>
+It got brighter and brighter.<s>
+But after a few seconds, it started getting less bright.<s>
+It took him a second to know for sure, but he knew he had seen a shooting star!<s>
+This wasn't the first time that Jim had seen something strange in the sky.<s>
+It was last year, when he was driving home from work at night.<s>
+He saw another light in the sky that night, but it wasn't anything like this one.<s>
+The one he saw last year didn't get brighter.<s>
+The one he saw last year didn't get less bright.<s>
+The one he saw last year was round, and Jim was sure that it was a space ship.<s>
+When Jim saw the shooting star tonight, he was even more sure of what he saw last year.<s>
+Some people said that the space ship was really a shooting star.<s>
+But now that he had seen a real shooting star, he knew for sure that this one was different.<s>
+Jim wondered what planet the space ship had come from.<s>
+
+1) <single> Where was Jim looking when he saw the shooting star?
+* At the sky.
+At his car.
+At his dog.
+At a planet.
+
+2) <multiple> What did Jim see last year?
+A shooting star.
+* A space ship.
+A planet.
+A raccoon.
+
+3) <multiple> What got brighter?
+The sun.
+* The shooting star.
+The space ship.
+The light in his house.
+
+4) <single> Where was Jim when he saw the space ship?
+Looking in his back yard.
+* Going home from work.
+Eating lunch.
+On the space ship.
+

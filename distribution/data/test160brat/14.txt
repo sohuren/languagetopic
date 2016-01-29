@@ -1,0 +1,35 @@
+This is a story about a bear and a wolf.<s>
+The bear met the wolf one day in the woods.<s>
+The bear said to the wolf, would you like to go to the river with me?<s>
+The wolf said yes, he would like to go to the river.<s>
+When the bear and the wolf got to the river they found that a beaver had built a bridge to the other side of the river.<s>
+The bear and the wolf crossed the bridge that was built by the beaver and found that they were now in a part of the woods they had never seen before.<s>
+A little worried that they may get lost in this part of the woods they had never seen before the bear and the wolf turned around.<s>
+They went back over the bridge and were happy to be back in a part of the woods they knew so well.<s>
+The beaver thanked both the bear and the wolf for trying out his new bridge and then started to build yet another bridge close to the first bridge.<s>
+He was a very busy beaver.<s>
+
+1) <single> Which animal built a bridge?
+* the beaver
+the bear
+the dog
+the wolf
+
+2) <multiple> what did the bear and wolf cross, and why did they turn back?
+a bridge, and they got hungry.
+a lake, and they did not want to get lost.
+a field and they did not want to get lost.
+* a bridge, and they did not want to get lost.
+
+3) <multiple> What did the beaver build and why did he thank the bear and wolf?
+a bridge, and for helping him to build the bridge.
+a house, and for trying out the bridge.
+* a bridge, and for trying out the bridge.
+a bridge, and for bring him food
+
+4) <single> This is a story of which two animals taking a walk in the woods?
+a bear and a beaver
+a dog and a wolf
+a bear and a dog
+* a bear and a wolf
+

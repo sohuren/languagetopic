@@ -1,0 +1,45 @@
+On Sunday, our family went for a picnic.<s>
+Mom, dad, Alice, Sissy (our dog), and I got in the van and drove to the park.<s>
+Alice and I played fetch with Sissy.<s>
+Dad fired up the grill and made some hamburgers.<s>
+Mom made some salad.<s>
+Mom asked me to spread the picnic cloth.<s>
+Sissy wanted to help me too.<s>
+Once the burgers were ready, we sat down to eat.<s>
+They were delicious, I ate two!<s>
+Alice only ate one hamburger.<s>
+I didn't like the salad because I don't like carrots.<s>
+Mom says they're good for me.<s>
+Sissy doesn't like carrots either.<s>
+After lunch, I played with dad and Alice played with mom and Sissy.<s>
+Dad and I were flying a kite.<s>
+Alice and mom played with flowers.<s>
+Then we packed up the van and went home.<s>
+I fell asleep on the way home.<s>
+Sunday was a lot of fun.<s>
+I want to do it again!<s>
+
+1) <multiple> What did I eat two of?
+Carrots
+* Hamburgers
+Hotdogs
+Salad
+
+2) <single> What did the family do on Sunday
+* Went to a picnic
+Made hotdogs
+Went for a swim
+Went to church
+
+3) <single> What is the dog's name?
+Picnic
+Alice
+Jon
+* Sissy
+
+4) <multiple> What was mom doing at the beginning?
+Playing with Sissy
+* Making a salad
+Setting out the picnic cloth
+Playing with Alice
+

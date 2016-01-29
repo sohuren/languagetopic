@@ -1,0 +1,40 @@
+Jamie was on the playground.<s>
+As he was running towards his friends, he tripped on a classmate's toy truck and fell.<s>
+He skinned his knee.<s>
+He got up and saw that the watch that his brother had given him had broken when he fell.<s>
+Jamie was very sad about his watch breaking, which was the second bad thing to happen to him today.<s>
+One of his friends saw that he had fallen.<s>
+Lindsay heard Jamie saying that his watch was broken.<s>
+He was mad at the boy, Kevin, who had left his truck on the playground for Jamie to fall over.<s>
+Lindsay tried to tell him that it was not his Kevin's fault that Jamie had fallen.<s>
+She said, "Let's take your watch to the teacher.<s>
+I think Miss Henderson can fix it."<s>
+Miss Henderson fixed Jamie's watch, and told him to be more careful when he was running outside.<s>
+After his watch was fixed and he felt better, Lindsay clapped.<s>
+"I told you it would be okay," she said.<s>
+She and Jamie went out to play with their other friends.<s>
+
+1) <single> What else happened to Jamie along with breaking his watch?
+He was late for class.
+* He skinned his knee.
+He and Kevin got into a fight.
+He couldn't play with his friends.
+
+2) <single> Where did Jamie get his watch from?
+His mother.
+His uncle.
+His grandfather.
+* His brother.
+
+3) <single> What was the name of the child who had the toy truck?
+Lindsay
+Jimmy
+Megan
+* Kevin
+
+4) <single> What did Jamie trip over?
+A jump rope.
+A baseball bat.
+* A toy truck.
+A set of sidewalk chalk.
+

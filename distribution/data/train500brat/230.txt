@@ -1,0 +1,40 @@
+When reindeer are done with the holiday season, people often wonder what they do during their time off.<s>
+Well, reindeer are pretty good at taking a vacation during down time.<s>
+Reindeer of any age are always in a hurry for their own holidays!<s>
+Rudolph is the most famous reindeer, and he has been known to ride foam noodles in the pool.<s>
+He loves to get wet and splash around!<s>
+Comet has a more quiet time during his vacation.<s>
+You'll often see him looking in the fridge for his favorite cooking ingredient, cheese.<s>
+He is a great cook and likes to make cheese pizza.<s>
+Cupid is pretty good at reindeer games, and he is always on the winning team during vacation time.<s>
+He is always signing up for games all summer long.<s>
+Donner loves to fly and ride the wind, even in his off time.<s>
+He is always practicing.<s>
+That's why he is the best at flying.<s>
+So, that's what some of the reindeer do in their time off.<s>
+If you happen to see any reindeer doing funny things, they are on vacation!<s>
+
+1) <multiple> Why is Cupid always looking in the fridge?
+It's one of the reindeer games.
+He is looking for noodles.
+* He is looking for cheese so he can make pizza.
+He is looking for water to splash around.
+
+2) <single> Which reindeer wins all the games?
+Rudolph
+Donner
+* Cupid
+Comet
+
+3) <single> Who likes to get wet in the pool?
+Cupid
+* Rudolph
+Comet
+Donner
+
+4) <multiple> Why is Donner the best at flying?
+He wins all the reindeer games.
+* Because he practices riding the wind in his off time.
+He splashes around in the pool.
+He eats cheese.
+

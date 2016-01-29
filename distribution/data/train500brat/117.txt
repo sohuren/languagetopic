@@ -1,0 +1,66 @@
+Ricky and Carmen were friends.<s>
+Ricky was an inchworm.<s>
+He had a skinny body and was bright green.<s>
+Carmen was a ladybug.<s>
+She had a round body and was red with black spots.<s>
+They liked to play together in the grass.<s>
+One day Ricky and Carmen were playing in the grass.<s>
+Carmen saw something new.<s>
+She asked Ricky, "What is that yellow thing?"<s>
+Ricky did not know.<s>
+They went over to the yellow thing.<s>
+It was not grass.<s>
+It was not alive.<s>
+It was big and flat and looked like it might be fun for jumping.<s>
+Carmen said, "Let's jump on it."<s>
+Ricky said, "Okay, but I hope we don't get in trouble."<s>
+They jumped on the big yellow thing.<s>
+It was fun!<s>
+They were happy jumping together!<s>
+All of a sudden, the big yellow thing moved.<s>
+It went up in the air.<s>
+Ricky and Carmen held on.<s>
+It went up and up.<s>
+It went into the sky.<s>
+Ricky and Carmen were scared.<s>
+They wanted to get down.<s>
+They shouted, "Help, help!"<s>
+A bird heard them and flew over.<s>
+His name was George.<s>
+George said, "What's wrong?<s>
+Don't you like it up here on your kite?"<s>
+"No, we don't!"<s>
+said Ricky.<s>
+"What's a kite?"<s>
+said Carmen.<s>
+George told them they were on a kite.<s>
+He showed them the string.<s>
+He said, "You can follow that string all the way to the ground."<s>
+It looked like a long way down.<s>
+But they thanked George for his help and slowly crawled down the string to the ground.<s>
+They were safe.<s>
+
+1) <multiple> How did Ricky and Carmen get into the sky?
+* A kite took them up into the sky.
+They crawled up a string.
+They jumped on a bird.
+They flew into the sky.
+
+2) <single> What color was Ricky?
+black and yellow
+* green
+black and red
+yellow
+
+3) <single> What kind of animal was Carmen?
+a bird
+a kite
+an inchworm
+* a ladybug
+
+4) <multiple> How did Ricky and Carmen feel on the kite?
+Only happy.
+First scared, then happy.
+Only scared.
+* First happy, then scared.
+

@@ -1,0 +1,47 @@
+One morning, I woke up and went downstairs for breakfast.<s>
+I fixed my normal breakfast: hot pickles, marshmallows, and ketchup.<s>
+First I heat up the pickles on the stove, then I put the marshmallows in the toaster as I pour out my small plate of ketchup.<s>
+Delicious!<s>
+I eat it every morning, often with a tall glass of lemonade.<s>
+I sat down at the table to eat, and looked out the window at the birds in my yard.<s>
+Sometimes I see skunks outside, and once I saw a small pot-bellied pig.<s>
+But today there were only a few flamingos.<s>
+I opened up the book I was reading, "All About Birds."<s>
+I had finished the chapter on pigeons, and was moving on to robins.<s>
+While putting ketchup on my marshmallows, I felt something tickling my neck.<s>
+I looked down, and there was a daddy long-legs, climbing up!<s>
+I had never seen one so close to my face.<s>
+"Er, what's up?"<s>
+I asked.<s>
+"Not much," he said.<s>
+"I smelled the hot pickles, and wanted to have a taste."<s>
+"Sure, little guy," I said.<s>
+I put a small piece of pickle on my finger and held it out.<s>
+While I was doing that, that sneaky daddy-long-legs ran down my arm.<s>
+He grabbed the rest of my pickle, and ran out the door!<s>
+And that was the last time I gave a pickle to a spider at breakfast.<s>
+
+1) <multiple> What type of birds did I see in my yard?
+Pigeons
+* Flamingos
+Pig birds
+Robins
+
+2) <multiple> What did the sneaky spider do?
+Poured me some lemonade.
+Put my marshmallow in the toaster.
+* Stole my pickle.
+Dumped out my ketchup.
+
+3) <multiple> What was tickling my neck?
+A flamingo
+A pig
+* A daddy-long-legs.
+A skunk
+
+4) <single> What do I heat up on the stove for breakfast?
+ketchup
+* pickles
+marshmallows
+lemonade
+

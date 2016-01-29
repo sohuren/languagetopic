@@ -1,0 +1,44 @@
+Mark is 30 years old, and lives in a big house.<s>
+He is a doctor.<s>
+Mark enjoys his job because he helps sick people get better.<s>
+He works with another doctor, named Zeke, and with four nurses.<s>
+Mark had to study hard to become a doctor.<s>
+He had to go to a special school for seven years.<s>
+Learning to be a doctor is difficult.<s>
+Only very smart and hardworking people can become doctors.<s>
+Mark was not sad when he was studying.<s>
+He enjoyed learning all about why people get sick and how to make them feel better.<s>
+Now, Mark is a very good doctor.<s>
+Sometimes other doctors ask him questions, because he knows more about some things that they do.<s>
+Jim and Alice are two other doctors who became friends with Mark.<s>
+Jim is 40 years old, and Alice is 25 years old.<s>
+Sometimes they all have dinner together, and at other times they listen to music at Mark's house.<s>
+In his free time, Mark likes to play basketball.<s>
+Mark works hard, and sometimes he wants to have fun.<s>
+But really, his job is fun to him.<s>
+When he wakes up in the morning, he always is excited thinking about how he can help people as a doctor.<s>
+
+1) <single> Why do other doctors ask Mark questions?
+* He knows more about some things than they do.
+He is 30 years old, so the other doctors think he is old and wise.
+Mark works with another doctor, so he has the skills of two people.
+They ask him questions about basketball, because he plays it.
+
+2) <single> How many nurses does Mark work with?
+seven
+two
+* four
+30
+
+3) <multiple> How many years older than Mark is Jim?
+* 10
+7
+4
+25
+
+4) <multiple> What is the name of the doctor that is five years younger than Mark?
+Zeke
+Jim
+Mark
+* Alice
+

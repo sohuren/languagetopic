@@ -1,0 +1,38 @@
+Kelly woke up one morning and went outside to her back yard.<s>
+She was in a hurry because it was Mother's Day and she had to collect flowers before her mom woke up to give to her as a present.<s>
+She was going to give her mom the biggest, most beautiful bunch of flowers her mother had ever seen.<s>
+She knew where the best flowers were in her yard.<s>
+She got a lot of different sized flowers.<s>
+The red ones were big, the orange ones were small, and the green ones were in the middle.<s>
+After Kelly collected all of the flowers, she went inside and tied them together with string.<s>
+After that, she had to hide the flowers in a secret spot.<s>
+She hoped her baby sister Morgan, who was still in diapers, wouldn't find the flowers and eat them.<s>
+Kelly was worried, so she hid them in a new spot that was up higher.<s>
+Finally, her mother woke up at 8:30 AM, and Kelly was excited!<s>
+Kelly gave her mother the flowers.<s>
+Her mother's favorite was the red one.<s>
+
+1) <multiple> Why did Kelly hide the flowers a second time?
+Because the first spot was too easy
+Her baby sister Morgan might have told mother the first spot
+So mother couldn't find them
+* So her baby sister Morgan wouldn't eat them
+
+2) <single> Why was Kelly collecting flowers?
+To give to her baby sister
+Just for fun
+* It was mother's day
+Her mother was sick
+
+3) <multiple> Which flower was mother's favorite?
+All of them
+The middle one
+The smallest one
+* The big one
+
+4) <single> What time did Kelly's mother wake up?
+After Kelly picked the flowers
+* 8:30 AM
+8:30 PM
+When Kelly woke up
+

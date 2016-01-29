@@ -1,0 +1,40 @@
+Peter was a very sad puppy.<s>
+He had been inside of the pet store for a very long time.<s>
+In fact, he had been there for three months!<s>
+Peter had seen many other puppies find a person; he began to wonder why he could not get one.<s>
+He thought that maybe his fur was not pretty enough or maybe his bark was not loud enough.<s>
+He tried and tried to please every person who came to the store, but they all picked smaller puppies.<s>
+However, one day all of this changed.<s>
+Sammie came into the store looking for a golden puppy.<s>
+She wanted a puppy she could snuggle with.<s>
+It so happened that Peter was very sad and tired that day.<s>
+Sammie came to hold him.<s>
+Peter wanted to show off his bark, but he was too tired.<s>
+He fell right to sleep.<s>
+Sammie loved him at once and loved holding him in her arms.<s>
+Sammie took Peter home that day, and they made lots of fun memories.<s>
+
+1) <multiple> What did Peter want to do when Sammie came?
+He wanted to show off his fur
+He wanted to be beautiful
+He wanted to snuggle with her
+* He wanted to show off his bark
+
+2) <single> Where was Peter?
+Sad and tired
+* At the pet store
+Home
+At the park practicing his bark
+
+3) <multiple> What did Peter actually do when Sammie came?
+Peter showed off his fur
+Peter showed off his bark
+* Peter fell asleep
+Peter wondered if he would be a good enough puppy
+
+4) <multiple> What kind of puppy did Sammie want?
+A golden puppy that was small
+A golden puppy with shiny fur
+A puppy with a loud bark she could snuggle with
+* A golden puppy she could snuggle with
+

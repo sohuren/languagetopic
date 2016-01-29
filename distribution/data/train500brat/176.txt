@@ -1,0 +1,34 @@
+On a Monday, a mother was in the kitchen cooking ham for the family.<s>
+She was in quite the hurry because she had to pick the kids up from school.<s>
+Without knowing, she stuck a spoon in the ham and put the ham in the oven.<s>
+She wasn't paying attention because of being in a hurry and also because the dog was playing with a ball.<s>
+The ball flew past her head as she had finished putting the ham in the oven.<s>
+She yelled at the dog and made him play with the ball outside.<s>
+She saw clouds in the sky as she let the dog out.<s>
+Seeing that the clouds were so pretty that she wanted to take a picture of them.<s>
+She got her camera and took a few pictures as the dog played happily in the yard.<s>
+
+1) <multiple> Why did the mother take the dog outside?
+the dog was taking pictures
+* the dog was playing with a ball that flew past her head
+the dog ate a spoon
+the dog was eating the ham
+
+2) <multiple> What did the mother do when she saw the clouds?
+ate ham
+played with the dog
+went to school
+* saw how pretty they were and took pictures
+
+3) <single> What did the mother do when she saw the clouds in the sky?
+* take pictures of them
+throw a ball
+cook them
+pick the kids up from school
+
+4) <single> What was the mother cooking in the kitchen?
+a ball
+* a ham
+a dog
+a cloud
+

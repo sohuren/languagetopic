@@ -1,0 +1,36 @@
+This is the story of a young girl and her dog.<s>
+The young girl and her dog set out a trip into the woods one day.<s>
+Upon entering the woods the girl and her dog found that the woods were dark and cold.<s>
+The girl was a little scared and was thinking of turning back, but yet they went on.<s>
+The girl's dog was acting very interested in what was in the bushes up ahead.<s>
+To both the girl and the dog's surprise, there was a small brown bear resting in the bushes.<s>
+The bear was not surprised and did not seem at all interested in the girl and her dog.<s>
+The bear looked up at the girl and it was almost as if he was smiling at her.<s>
+He then rested his head on his bear paws and went back to sleep.<s>
+The girl and the dog kept walking and finally made it out of the woods.<s>
+To this day the girl does not know why the bear was so friendly and to this day she has never told anyone about the meeting with the bear in the woods.<s>
+
+1) <single> This is a story of a girl and what kind of animal?
+Cat
+* Dog
+Frog
+Mouse
+
+2) <single> The girl and her dog went walking into what?
+A field
+* The woods
+A park
+A garden
+
+3) <multiple> What kind of animal did the girl and dog meet, and what did the animal do?
+a cat and the cat clawed
+* a bear and the bear smiled
+a horse and the horse jumped
+a bear and the bear chased them
+
+4) <multiple> What was it like in the woods, and what did the girl feel like?
+breezy and the girl was excited
+Dark and cold, and the girl was happy
+Wet and warm and the girl was scared
+* Dark and cold, and she was Scared
+

@@ -1,0 +1,49 @@
+Fanny the fly was hungry.<s>
+She went to the store.<s>
+She saw her friend Colin the cat at the store.<s>
+Colin waved to Fanny.<s>
+Fanny waved back.<s>
+At the store, Fanny bought ice cream, fruit, and pasta.<s>
+Then she went home.<s>
+She looked in her fridge.<s>
+In her fridge she saw meatballs, rice, tomato sauce, and garlic.<s>
+She chose to make a pasta dinner and invite all of her friends over.<s>
+She invited Colin the cat and Danny the dog.<s>
+She also invited Freddy the frog and Allen the alligator.<s>
+Everyone arrived to a beautiful meal made by Fanny.<s>
+They all ate happily.<s>
+After dinner, Fanny brought out dessert.<s>
+She brought out pie, fruit, cupcakes, and ice cream.<s>
+Everybody ate a cupcake.<s>
+Danny ate ice cream too.<s>
+Allen had some pie and fruit as well as the cupcake.<s>
+Colin had some pie too.<s>
+Fanny told everyone to come back for dinner again.<s>
+They all said goodbye and left.<s>
+Fanny was happy and full.<s>
+She went to bed smiling to herself.<s>
+
+1) <multiple> Which friend came to dinner and saw Fanny earlier?
+Danny the dog
+Freddy the frog
+* Colin the cat
+Allen the alligator
+
+2) <multiple> What did Danny the dog have for dessert?
+Fruit and pie.
+Ice cream and pie.
+Fruit and cupcake.
+* Cupcake and ice cream.
+
+3) <single> What did Fanny buy at the store?
+Meatballs, rice, and fruit.
+Fruit, garlic, and meatballs.
+Ice cream, tomato sauce, and garlic.
+* Ice cream, fruit, and pasta.
+
+4) <single> Who did Fanny see at the store?
+Allen and alligator.
+Danny the dog.
+Freddy the frog.
+* Colin the cat.
+

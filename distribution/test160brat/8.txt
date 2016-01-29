@@ -1,0 +1,36 @@
+There once was a little old lady who had no friends.<s>
+She rode her bike to and from the store and didn't say hello to anyone along the way.<s>
+One day she saw a little girl crying in the street.<s>
+No one else was around to take care of the girl so the little old lady stopped her bike and asked the girl, "What is wrong, Dear?"<s>
+The little girl said, "I hurt my knee when I fell down!"<s>
+"Oh dear!"<s>
+cried the little old lady and bent down and looked at the girl's knee.<s>
+"It looks to me like you have a scrape," she said.<s>
+The little girl cried and the little old lady said, "Don't worry, all boo-boos hurt a little but it's the medicine that makes it go away."<s>
+The little old lady bent down and blew on the girl's knee and whispered, "Go away, go away, no boo-boos here today!"<s>
+The little girl smiled and that little old lady found her first friend.<s>
+
+1) <single> How did the girl hurt her knee?
+she was in the street
+she had no friends
+* she fell down
+the old lady's bike hit her
+
+2) <multiple> Why did the little girl smile?
+* the little old lady gave her "medicine" to make her knee feel better
+she fell down in the street
+she was friendly
+the little old lady's bike was funny looking
+
+3) <multiple> Why didn't the little old lady say hello to anyone when she going to the store?
+she was too busy going to the store
+* she didn't have any friends
+no one said hello to her first
+she was little and old
+
+4) <single> What did the old lady whisper to the girl's knee?
+* go away, go away, no boo-boos here today
+all boo-boos hurt a little
+what is wrong dear
+oh dear
+

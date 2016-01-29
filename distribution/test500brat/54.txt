@@ -1,0 +1,46 @@
+Once there was a white horse named Bob, who lived in a house with his best friend.<s>
+His friend was a cat named Shelly who loved to play baseball.<s>
+The two of them would go to the park and play baseball with Lucy a lamb who lived next door.<s>
+It was Friday morning and Bob and Shelly were in the park waiting for Lucy.<s>
+She was late and when she finally showed up she had forgotten the ball.<s>
+"What can we use for a ball?"<s>
+Bob asked.<s>
+They looked around.<s>
+There were rocks but they were too hard.<s>
+There could get mud out of the pond but that would be too soft and splat when they hit it with the wooden bat.<s>
+Finally Bob, being the tallest, saw that in a pile of plants that there were melons growing.<s>
+"Let's use a melon," Bob said.<s>
+"That's stupid," said Shelly, the practical one.<s>
+"No hear him out," said Lucy.<s>
+"It might work.<s>
+"It'll work," said Bob, and he picked a melon and handed it to Shelly.<s>
+"You pitch."<s>
+"This is going to end badly, I'm afraid," Shelly said, throwing the melon at Bob who stood over home plate.<s>
+"I know what I'm doing," Bob said, swinging the bat as hard as he could.<s>
+When the bat hit the melon it splatted into a million pieces, raining sticky pieces down on Bob and Shelly and Lucy and a wedding party that had been setting up nearby.<s>
+"Oops," said Bob.<s>
+
+1) <single> Why did they go to the park?
+To watch a wedding.
+To throw rocks.
+* To play baseball.
+To play in the pond.
+
+2) <multiple> What happened when Shelly threw the melon?
+The melon hit Bob.
+* Bob hit the melon with the bat. The melon blew up.
+Bob hit a home run with the melon.
+Bob swung and missed.
+
+3) <single> What was Bob?
+* Bob was a horse.
+Bob was a baseball.
+Bob was a cat.
+Bob was a lamb.
+
+4) <multiple> Why did Bob hit a melon with a baseball bat?
+Bob liked hitting melons more than baseballs.
+* He and his friends wanted to play baseball. They wanted to play baseball. Lucy forgot the ball. They looked around and couldn't find anything better.
+Shelly and Lucy dared him to do it.
+They wanted to mess up the wedding.
+

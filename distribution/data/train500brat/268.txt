@@ -1,0 +1,41 @@
+I once was walking in the woods with my friends.<s>
+The day was very nice, there were a lot of trees.<s>
+The walk was part of a week long trip I took with Boy Scouts.<s>
+This day was day number three of our trip.<s>
+There was four of us walking.<s>
+We were walking down a path when all of the sudden we came across a bear.<s>
+This scared us.<s>
+Bears can be dangerous.<s>
+A few seconds later we saw another bear, there was not only one.<s>
+This bear was a baby bear.<s>
+A leader told us that a bear with a baby can be much more dangerous.<s>
+We had to remember what to do when you come across a bear.<s>
+The leader told us not to walk towards the bear.<s>
+You also can not make any quick motions.<s>
+The leader said we needed to start talking to make noise and to start to walk away from the bears.<s>
+After a little bit of time we were away from the bears and we were safe.<s>
+
+1) <multiple> How many bears were there?
+three
+* Two
+four
+one
+
+2) <single> How many people were walking in the woods?
+three
+* four
+one
+two
+
+3) <multiple> What made these bears more dangerous?
+* The bear was with the baby.
+There was no bears in the story
+The bears were hiding in the trees
+There were four bears
+
+4) <single> What is not true about the people walking?
+They were on a week long trip.
+* They were girl scouts.
+They were walking in the woods.
+They were boy scouts
+

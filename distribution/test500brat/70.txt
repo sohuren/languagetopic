@@ -1,0 +1,43 @@
+Tiger was a pig.<s>
+Tiger's aunt Tabby always took care of Tiger.<s>
+All Tiger had to do was make an oink and Tabby would come running to check on Tiger.<s>
+Sometimes Tiger got into fights with his brother Tom and Tabby always took Tiger's side.<s>
+One time Tiger accidentally lit a bush on fire when he was playing with a looking glass and the bush burned to the ground.<s>
+Tabby was very mad and Tiger blamed it on Tom.<s>
+Tabby believed Tiger, because she thought Tom was a trouble maker.<s>
+One time Tabby took a trip to the ocean and she took Tiger, but not Tom.<s>
+Tom was very upset, but acted like he didn't want to go.<s>
+Tom said he would rather go to the forest, the moon or the mountains, but never would he go to the ocean.<s>
+This wasn't true, but Tom didn't want to let Tiger and Tabby know that they hurt him.<s>
+When Tabby and Tom went to the ocean, their uncle Leon came to visit and to take care of Tom.<s>
+Tom had never met Leon before.<s>
+Leon loved Tom and made him feel very special.<s>
+When Tabby and Tom came home Leon left and Tom went to live with him.<s>
+They went to the ocean together; the mountains, the forest and Leon even took Tom to the moon.<s>
+Tom was happy, because he got to see things that Tiger never got to see.<s>
+They lived happily ever after.<s>
+
+1) <single> Who did Tom go to live with?
+Tabby
+Moon
+Tiger
+* Leon
+
+2) <multiple> Who was Tabby's favorite nephew?
+Forest
+Tom
+* Tiger
+Leon
+
+3) <multiple> Where did Tiger go without Tom?
+Moon
+Mountains
+Forest
+* Ocean
+
+4) <single> What was Tiger's brother's name?
+Leon
+Moon
+* Tom
+Tabby
+

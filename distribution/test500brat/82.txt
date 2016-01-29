@@ -1,0 +1,42 @@
+There once was a clown named Happy who traveled with the circus.<s>
+He was one of the most famous clowns of all time, because he was once the star of a movie.<s>
+Happy did a lot of things in his act that were very silly.<s>
+He was best known for belting out songs in the wrong key, which would make neighborhood cats meow and howl.<s>
+Happy would do other funny things in his act, like wrestle a big plastic alligator with tape over its mouth.<s>
+He would also throw buckets of water at the people watching the circus, wetting all the people in the front seats.<s>
+One day, a driver in the circus needed to brush his teeth because he had been eating popcorn all day.<s>
+He was out of toothpaste, so he went to ask Happy if he could borrow some.<s>
+Happy was eating a brownie, and his mouth was very full.<s>
+When he tried to talk, he sounded sillier than ever.<s>
+The driver laughed and asked Happy to point to the toothpaste.<s>
+Happy pointed over to the sink, and the driver picked up the toothpaste and left.<s>
+The driver didn't know that it was trick toothpaste that was pumpkin flavor.<s>
+The driver hated pumpkin flavor!<s>
+It tasted so bad.<s>
+So he took the toothpaste and put it back on Happy's sink.<s>
+He never borrowed Happy's toothpaste ever again.<s>
+
+1) <multiple> Why did the driver put the toothpaste back?
+It had a scary alligator on it.
+He didn't have a toothbrush.
+It was taped shut.
+* It tasted like pumpkin and he didn't like the flavor.
+
+2) <single> What was Happy eating?
+A pumpkin
+* A brownie
+A sandwich
+Popcorn
+
+3) <single> What did the driver borrow from Happy?
+A plastic alligator
+A pumpkin
+Tape
+* Toothpaste
+
+4) <multiple> What silly things did Happy do in his act?
+* Sing in the wrong key and wrestle plastic alligators.
+Juggle pumpkins and throw popcorn.
+Put tape over the mouth of the driver so he couldn't brush his teeth.
+Brush the teeth of alligators and cats.
+

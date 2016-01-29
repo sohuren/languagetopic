@@ -1,0 +1,45 @@
+Amy went to the beach one day last summer.<s>
+She went with her family.<s>
+Her parents let her and her brother, Brian, each bring one friend.<s>
+Amy invited Candace.<s>
+Brian asked David.<s>
+Their neighbor Eddie also went.<s>
+The six of them got into Amy's dad's car and began the long trip to the beach.<s>
+In the car, they sang and played games together.<s>
+They soon got the beach.<s>
+Everyone put on sun block and had lunch.<s>
+They ate on a large, blue blanket.<s>
+Amy's mother had brought the blanket.<s>
+After eating, everyone found fun things to do.<s>
+Amy and Candace made sand castles with Amy's father.<s>
+Brian, Eddie, and David swam in the sea and played catch.<s>
+Amy's mother sat in a chair and read a book.<s>
+When the sun began to set, they packed everything up and began to drive home.<s>
+Both Brian and Candace slept.<s>
+David played a game with Amy and Eddie before Eddie fell asleep and started to drool.<s>
+After they got home, everyone had dinner at Amy's and talked about how much fun they had at the beach.<s>
+
+1) <multiple> Who did not fall asleep?
+Brian.
+Candace.
+Eddie.
+* David.
+
+2) <multiple> Who are the two friends Amy and her brother bring to the beach?
+* Candace and David.
+Candace and Eddie.
+Eddie and Brian.
+Candace and Brian.
+
+3) <single> Who brought the blanket they sat on?
+Candace.
+Brian.
+Amy's father.
+* Amy's mother.
+
+4) <multiple> Whose family went to the beach?
+* Amy's family.
+Candace's family.
+David's family.
+Eddie's Family.
+

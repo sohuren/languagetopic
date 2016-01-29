@@ -1,0 +1,14 @@
+John was very hungry.<s>
+So he chose to make a sandwich.<s>
+John invited Susan, Tim, and Jack over to help him.<s>
+They all pulled out bread, lettuce, tomato, meat, pickle, and cheese.<s>
+Cheese is Johns favorite food.<s>
+One at a time, they each put one ingredient on the sandwich.<s>
+John put the bread down.<s>
+Tim put the tomato down.<s>
+Susan put the meat down.<s>
+Jack put the lettuce down.<s>
+John also put the cheese down.<s>
+Susan put the pickle down.<s>
+After they finished, John ate his sandwich and it was delicious.<s>
+

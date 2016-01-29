@@ -1,0 +1,41 @@
+Once upon a time a driver was taking some meat to the store.<s>
+But he hit a turtle.<s>
+Then he hit another turtle.<s>
+The driver was sad.<s>
+So he put the turtles in the trash.<s>
+Then he felt better.<s>
+The driver told his mommy that he needed to look in the mirror, so she said he could.<s>
+The driver wanted to go back to work.<s>
+On the way to work he saw a man with a firework.<s>
+He watched the man light the firework.<s>
+It was fun, but the driver needed to get back to work.<s>
+This time he took a chair to the store.<s>
+It was a fun job.<s>
+The driver was very busy all day long.<s>
+He wanted to go home and have fun, but he was busy working.<s>
+The driver was a good worker and worked all day so he didn't go home and have fun.<s>
+
+1) <single> Why didn't the driver go home and have fun?
+he had to eat some meat
+he didn't want to
+* He was busy working
+he hit a turtle
+
+2) <multiple> What did the driver do to stop him from being sad?
+He took meat to the store
+He put meat in the trash
+he took turtles to the store
+* He put the turtles in the trash
+
+3) <single> What did the driver take to the store the second time
+fireworks
+* a chair
+turtles
+meat
+
+4) <multiple> How many turtles did the driver hit?
+* two turtles
+eight turtles
+zero turtles
+five turtles
+

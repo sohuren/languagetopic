@@ -1,0 +1,51 @@
+Emily was a princess that lived in a castle made out of rainbows and chocolate.<s>
+Her mom and dad were very kind to her.<s>
+Her favorite thing to do was to play on the swings on the chocolate tree in their front yard with her friend Daisy.<s>
+Emily always got first turn on the swings, and Daisy always pushed her, until it was Daisy's turn, and Emily would push Daisy.<s>
+One day, Daisy said that she wasn't going to push Emily on the swings if Daisy didn't get to swing first.<s>
+This made Emily very mad.<s>
+Her turn was always first, and Emily thought that it wasn't fair that Daisy wasn't going to push her if she didn't get to swing first.<s>
+So she ran into the castle to tell her mom and dad the Queen and King.<s>
+The Queen and King listened to Emily's story, and they told Emily that it was Daisy's turn.<s>
+"What?"<s>
+said Emily.<s>
+She was so mad!<s>
+Emily always got the first turn!<s>
+"It's only fair to Daisy, Emily."<s>
+said her mom.<s>
+"Now go out there and push your friend on the swing."<s>
+Emily went outside and pushed Daisy on the swing.<s>
+After Emily pushed Daisy, Daisy pushed Emily, and Emily came inside still upset.<s>
+"Why did you make me push her on the swing first?"<s>
+said Emily.<s>
+"Because that's how you keep friends, sweetie."<s>
+said her mom the Queen.<s>
+"If I were Daisy and I never got to get a turn first, I don't think I'd want to be friends."<s>
+"Okay, I think I understand that."<s>
+said Emily.<s>
+From then on, Emily and Daisy took turns being first on the swing, and they were friends for the rest of their lives.<s>
+
+1) <single> What was Emily?
+A rainbow.
+A swing.
+* A princess.
+A tree.
+
+2) <single> Where did Emily live?
+In a chocolate tree.
+In a rainbow.
+In a house.
+* In a castle made of rainbows and chocolate.
+
+3) <multiple> Why was Emily mad?
+Because Daisy yelled at Emily.
+* Because Daisy wanted to be first on the swings.
+Because Daisy wouldn't play.
+Because Daisy lied.
+
+4) <multiple> Why did the King and Queen make Emily push Daisy first?
+Because Daisy liked chocolate and rainbows.
+* Because sharing helps you keep friends.
+Because Emily was mean.
+Because Daisy was the real princess.
+

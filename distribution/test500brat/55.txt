@@ -1,0 +1,49 @@
+There were many people at the store that day.<s>
+This was because it was Saturday.<s>
+It was even more full of people around noon when Mary and her mother went out to go shopping.<s>
+In the store, Mary wanted her mother to buy her candy but Mary's mother was in a hurry.<s>
+She did not have time for that.<s>
+That is because she wanted to get home before it started to rain.<s>
+Mary crossed her arms when her mother said no.<s>
+Mary was sad that her mother would not get her any candy.<s>
+But at home, her mother had a surprise for her.<s>
+She told Mary to close her eyes.<s>
+She thought it might be a toy.<s>
+When she opened them again, she saw that her mother had baked her something.<s>
+Her mother opened the oven.<s>
+Inside was a cake.<s>
+She jumped up in excitement.<s>
+She didn't need to think how she felt.<s>
+She was very happy.<s>
+She did not want the candy now.<s>
+She immediately took a big slice.<s>
+She wasn't sure it she would eat it now.<s>
+Then she ate it before she could make up her mind!<s>
+Her smile then left her mouth.<s>
+She quickly she became sad.<s>
+Her mother had told her it was bedtime.<s>
+
+1) <single> Why were there so many people in the store?
+Because people were shopping.
+* Because it was Saturday.
+Because it was noon.
+Because it was going to rain later.
+
+2) <multiple> Was Mary happy with the cake?
+No, she was sad.
+* Yes.
+No, she was angry.
+No, she was upset.
+
+3) <single> What did Mary's mother surprise her with?
+* A cake she had baked.
+A book.
+Candy.
+A toy.
+
+4) <multiple> What did Mary do with the cake?
+Nothing. She had to go to bed.
+She looked at it.
+* She ate it.
+She couldn't make up her mind.
+

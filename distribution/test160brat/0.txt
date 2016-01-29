@@ -1,0 +1,44 @@
+Todd is a small boy in the town of Rocksville.<s>
+Todd thinks his town is the best place in the world, and out of all the places in Rocksville, Todd loves to play in Lake Keet the most.<s>
+Lake Keet is a small lake with fish, plants, and even little shells.<s>
+Todd's favorite part was the big rock in the middle of the lake.<s>
+Todd lives pretty close to the lake, so he gets to go there a lot, but could never to get to the rock in the middle.<s>
+Todd's dad never lets him swim too far because Todd can't swim very well.<s>
+During summer, Todd told his dad that he wanted to get to the rock before break ended.<s>
+Todd's dad told him he had to try his hardest.<s>
+If he did, then Todd's dad would watch him swim every day.<s>
+If Todd wanted to try and get to the rock, his dad would follow him there to make sure he was safe.<s>
+Todd's dad wrote this down in his notebook so he wouldn't forget.<s>
+After a week, Todd made his first try to get to the rock, and his dad followed him like he said he would.<s>
+Todd didn't make it to the rock before he got tired and had to turn around.<s>
+He practiced even harder for the next two weeks and wanted to try again.<s>
+So, a month after summer started, Todd tried to reach the rock again.<s>
+This time, Todd gave it his all and got all the way to the rock.<s>
+He was very happy, and his dad was very proud of his son's hard work.<s>
+To celebrate, Todd's dad carved Todd's name and the date into a tree.<s>
+This way, they would always remember Todd's hard work.<s>
+
+1) <multiple> How long was it before Todd made it to the rock?
+* One month
+One week
+Two weeks
+Two months
+
+2) <multiple> What did Todd have to do so his dad would watch him every day?
+* Try his hardest
+Follow his dad to the rock
+Get to the big rock
+Not swim too far
+
+3) <single> What was Todd's favorite part of Lake Keet?
+The plants
+* The big rock
+The fish
+The small shells
+
+4) <single> How did Todd's dad celebrate Todd's hard work?
+He wrote down Todd's name and the date in his notebook
+* He carved Todd's name into a tree
+He practiced even harder
+He swam to the rock again
+

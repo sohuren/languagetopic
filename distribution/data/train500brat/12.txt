@@ -1,0 +1,42 @@
+Once upon a time, there was an old man named John.<s>
+John loved to eat peaches.<s>
+In fact, John's whole family, including his mother Stephanie, his father Bob, and his brother James loved to eat peaches.<s>
+John would eat peaches in the morning for breakfast, in the afternoon for lunch, and in the evening for dinner.<s>
+John and his best friend, Rick, shared their love for peaches.<s>
+One day John and Rick started a peach farm so that they would never run out of their favorite fruit.<s>
+They planted hundreds of peach trees and waited for them to bear fruit.<s>
+After 6 years of waiting, 1 lonely peach finally grew on one of the trees John and Rick planted.<s>
+They picked the peach and brought it home.<s>
+They waited until the weekend to eat it in case more peaches grew, but none did.<s>
+John and Rick were sad and confused about their farm.<s>
+They planted hundreds of trees and were sure that there would be thousands of peaches for them to eat in no time.<s>
+Another peach never grew on their farm for 17 years.<s>
+One day, a mighty crack of thunder led to a strong storm.<s>
+Lightning hit the ground over and over, and John and Rick were scared their trees might be killed.<s>
+The next morning, every tree on the farm had more than 10 peaches on it.<s>
+John and Rick started shouting for joy.<s>
+
+1) <multiple> How many trees did John and Rick plant?
+Thousands
+* Hundreds
+6
+17
+
+2) <multiple> How many years did it take for the first peach to grow?
+10
+17
+1
+* 6
+
+3) <single> Who was John's best friend?
+* Rick
+Bob
+James
+Stephanie
+
+4) <single> What did John and Rick both love?
+Thunder
+* Peaches
+Trees
+Lunch
+

@@ -1,0 +1,34 @@
+Janet walked past the barn, the big tree, and through the back yard to reach the chicken pen.<s>
+Janet gathered the eggs from the chicken pen, so that her father could make scrambled eggs for breakfast.<s>
+He would need at least 5 eggs for the meal, two for Janet and three for himself.<s>
+Janet could only find four eggs in the chicken pen.<s>
+She looked under every chicken, and in every nest, but could not find another egg.<s>
+She placed the four eggs in her basket, and began to walk toward the house, when she heard a quacking sound.<s>
+She went toward the sound and found a nest near the pond, with large brown eggs inside.<s>
+"Quack" said a nearby duck, as Janet took an egg from the nest.<s>
+Now she had enough for breakfast.<s>
+
+1) <single> What dish was Janet's father making for breakfast?
+Eggs on toast
+Boiled eggs
+* Scrambled eggs
+Fried Eggs
+
+2) <single> How many eggs did Janet's father need to cook breakfast?
+Two
+Three
+* Five
+Six
+
+3) <multiple> Where did Janet find the eggs she needed?
+* The chicken pen and a nest near the pond
+In a big tree and in the back yard
+The barn and pig pen
+The bushes and the front porch
+
+4) <multiple> What kind of animal laid the fifth egg?
+Basket
+* Duck
+Nest
+Chicken
+

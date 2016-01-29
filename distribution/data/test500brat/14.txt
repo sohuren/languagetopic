@@ -1,0 +1,49 @@
+Tammy was a purple tiger.<s>
+She was friends with Bobby the blue bird.<s>
+They were hungry so they went to the store together.<s>
+At the store they saw some friends.<s>
+They saw Pat the pink panther.<s>
+They also saw Roger the red rabbit.<s>
+Pat bought potatoes and eggs.<s>
+Roger bought carrots and celery.<s>
+Tammy bought some salad.<s>
+Tammy also bought a pizza.<s>
+Bobby bought seeds.<s>
+They all wanted to eat dinner.<s>
+They went back to Tammy's house to have supper.<s>
+Tammy ate salad and seeds.<s>
+Roger ate carrots and celery.<s>
+Bobby ate potatoes.<s>
+Pat ate eggs and carrots.<s>
+Tammy was still hungry, so she ate some pizza too.<s>
+They were all very full.<s>
+They took a nap.<s>
+After they woke up they played some games.<s>
+Everyone had fun at Tammy's house.<s>
+It got late and everyone went home.<s>
+Tammy was pleased with how it turned out.<s>
+
+1) <multiple> Which friends did Tammy see at the store?
+* Pat and Roger
+Roger and Bobby
+Roger and Pat
+Bobby and Pat
+
+2) <single> What color was Bobby?
+Pink
+Red
+Purple
+* Blue
+
+3) <single> What did Pat buy at the store?
+* Potatoes and eggs
+Pizza
+Salad
+Celery and carrots
+
+4) <multiple> What did Tammy eat for supper?
+Potatoes and eggs
+* Salad seeds and pizza
+Pizza and celery
+Carrots and potatoes
+

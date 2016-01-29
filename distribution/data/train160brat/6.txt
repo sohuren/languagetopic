@@ -1,0 +1,59 @@
+Sam woke up early.<s>
+He wanted to play.<s>
+Mom said he could not play.<s>
+It was time for breakfast.<s>
+Sam loves breakfast.<s>
+Sam loves breakfast because Sam loves cereal.<s>
+There is a lot of cereal in the kitchen.<s>
+There are Cheerios, Fruit Loops, Friendly O's, and Sharkies.<s>
+Sam loves Cheerios, Fruit Loops, Friendly O's, and Sharkies.<s>
+His favorite cereal is Friendly-O's.<s>
+Sam loves Friendly-O's because they look like smiley faces.<s>
+After Sam finishes breakfast Sam plays with Ralph.<s>
+Ralph is a dog.<s>
+Sam loves Ralph.<s>
+Ralph likes to play.<s>
+Ralph likes to run.<s>
+Ralph likes to jump.<s>
+Sam loves Ralph because Ralph has floppy ears.<s>
+Sam loves Ralph because he licks him on the face.<s>
+After Sam plays with Ralph he takes a bath.<s>
+Sam takes a bath because he has to get ready for school.<s>
+Sam is happy to go to school.<s>
+Sam can play with his friends at school.<s>
+When he is at school he can see Bill, John, and Katy.<s>
+Bill is Sam's best friend.<s>
+John is the class cat.<s>
+Katy is the class bird.<s>
+Bill lives two houses down from Sam.<s>
+Sam likes John the cat.<s>
+He has a fluffy tail.<s>
+Bill likes John the cat too.<s>
+When Bill and Sam get to school they pet John.<s>
+Sam is ready to play at school.<s>
+School is fun.<s>
+
+1) <multiple> Why did mom say Sam could not play?
+It was time for a bath.
+It was time to go to school.
+Sam had to pet the cat.
+* It was time for breakfast.
+
+2) <single> Who is Sam's best friend?
+Katy
+John
+* Bill
+Ralph
+
+3) <multiple> Why does Sam love Ralph?
+* Because Ralph licks him on the face and has floppy ears.
+Because Ralph likes to lick him on the face and play.
+Because Ralph likes to run and play.
+Because Ralph likes to jump and run.
+
+4) <single> What is Sam's favorite cereal?
+Fruit Loops
+* Friendly O's
+Cheerios
+Sharkies
+

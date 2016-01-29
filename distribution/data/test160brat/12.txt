@@ -1,0 +1,37 @@
+Three little kids lived in a great big house with a great big cat and many places for a great big cat to hide.<s>
+Their great big cat was named Cowboy.<s>
+And Cowboy was not a very nice cat.<s>
+Cowboy liked to bite and chew and scratch a great many things.<s>
+When Cowboy was happy, which was not very often, Cowboy liked to bite in to a blanket or soft toy and carry it around in his mouth.<s>
+When Cowboy was hungry he liked to bite bright red tomatoes and suck out all the juice and seeds.<s>
+And when Cowboy was feeling mean he liked to hide.<s>
+Cowboy would hide, curled up tight in a ball under a blanket or behind a corner and wait for one of the little kids to pass by.<s>
+When they did pass by Cowboy would jump at their feet and try to bite and scratch them.<s>
+He did not know that what he was doing was not very nice.<s>
+Cowboy was only a cat.<s>
+A great big cat that did not know any better.<s>
+
+1) <single> What was the cat's name?
+Tony
+* Cowboy
+Cat
+Chowder
+
+2) <single> What did Cowboy like to eat when he was hungry?
+Cowboy liked to eat cat food.
+Cowboy liked to eat toys.
+Cowboy liked to eat blankets.
+* Cowboy liked to eat tomatoes.
+
+3) <multiple> When Cowboy felt mean he liked to...
+run and hide.
+chew on toys.
+bite the blankets.
+* hide and jump.
+
+4) <multiple> Cowboy was a...
+a tiny little cat.
+a normal size cat.
+* great big cat.
+a great big dog.
+

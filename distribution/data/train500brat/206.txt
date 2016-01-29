@@ -1,0 +1,46 @@
+Once there was a boy named Fritz who loved to draw.<s>
+He drew everything.<s>
+In the morning, he drew a picture of his cereal with milk.<s>
+His papa said, "Don't draw your cereal.<s>
+Eat it!"<s>
+After school, Fritz drew a picture of his bicycle.<s>
+His uncle said, "Don't draw your bicycle.<s>
+Ride it!"<s>
+At nighttime, after he finished washing his face, he drew a picture of the toothpaste on the sink.<s>
+His mama said, "Don't draw the toothpaste.<s>
+Brush your teeth!"<s>
+One day Fritz got a splinter in his foot.<s>
+It hurt.<s>
+He wanted to take the splinter out.<s>
+But first, he drew a picture of his foot with the splinter in it.<s>
+He said, "Now I can remember what my foot looks like with a splinter in it."<s>
+Then he took the splinter out all by himself.<s>
+He told his friend Stephen that he took the splinter out all by himself.<s>
+Stephen did not believe him.<s>
+Fritz showed him the picture.<s>
+Then Stephen believed him.<s>
+
+1) <single> What did Fritz draw first?
+the toothpaste
+his mama
+* cereal and milk
+his bicycle
+
+2) <multiple> What made Stephen believe Fritz?
+* the picture of the splinter in his foot
+the picture of the cereal with milk
+the picture of the toothpaste
+the picture of the bicycle
+
+3) <multiple> What did Fritz's mama and papa want him to do?
+* Eat his cereal and brush his teeth.
+Ride his bicycle and wash his face.
+Ride his bicycle and brush his teeth.
+Wash his face and eat his cereal.
+
+4) <single> Who took the splinter out of Fritz's foot?
+Fritz's mama
+* Fritz
+Fritz's papa
+Stephen
+

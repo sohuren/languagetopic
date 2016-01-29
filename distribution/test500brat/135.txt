@@ -1,0 +1,44 @@
+There were four men who all played basketball.<s>
+They did not play baseball, football, or soccer.<s>
+Their names were Seth, Tanner, Henry, and Ryan.<s>
+One of them had the best shot in the west.<s>
+He was so good that he almost never missed a shot.<s>
+Everyone in the world wanted to be as good as him.<s>
+Tanner was the one who almost never missed a shot.<s>
+He played basketball every day.<s>
+He could shoot it, dribble it, and run very fast.<s>
+He could not dunk it.<s>
+He got so good at basketball, teams like the Hoopsters, the Shooters, the Dribblers, and the Dunkers tried to pick him.<s>
+He had a very hard time choosing his team.<s>
+He had to pick a team fast.<s>
+They needed players so Tanner had to choose a team.<s>
+He chose the Hoopsters.<s>
+They were his best friends.<s>
+Tanner played many games with them and was even their star player.<s>
+He really enjoyed basketball and had a lot of fun playing the game.<s>
+He had so much fun that he played it for a long time.<s>
+
+1) <multiple> Who was the best shot?
+Ryan
+Henry
+* Tanner
+Seth
+
+2) <single> What could Tanner NOT do?
+Run Fast
+* Dunk it
+Shoot
+Dribble
+
+3) <multiple> Which team did Tanner pick?
+The Shooters
+* The Hoopsters
+The Dribblers
+The Dunkers
+
+4) <single> What sport did the four men play?
+* Basketball
+Soccer
+Baseball
+Football
+

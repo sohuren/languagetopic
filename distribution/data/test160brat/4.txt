@@ -1,0 +1,41 @@
+My parents, Kelly and Kelley, said that it was that time of year to take a family vacation.<s>
+We've been to big ride parks that have hotels with large pools.<s>
+This year my parents wanted to do something different.<s>
+They wanted to take us all to Elk River Castle.<s>
+After lots of planning we hit the road for our trip.<s>
+My Brother Kelsey and I enjoyed the long car ride there.<s>
+Once we arrive, the castle looked much bigger than we had imagined.<s>
+There was so much to see and so much to do.<s>
+There was a swimming pool, movie theater and an elevator to take us from floor to floor.<s>
+What a magical place!<s>
+I was so excited because we had the whole place to our family!<s>
+We spent our vacation playing around the huge castle and finding small mysterious places.<s>
+There was even a tiny room in the back of one of the closets.<s>
+My brother, Kelsey, and I played hide and go seek for hours, watched movies and swam until the sun went down.<s>
+It was sad when our vacation finally came to an end but we made some amazing memories.<s>
+We'll never forget our trip to Elk River Castle!<s>
+
+1) <single> What was my brother's name?
+Kelly
+* Kelsey
+Caden
+Colby
+
+2) <single> Where did we go?
+Hood River Castle
+* Elk River Castle
+White Fish Castle
+White Salmon Castle
+
+3) <multiple> What did the castle have?
+A ball room
+* A movie theater
+A gym
+A hot tub
+
+4) <multiple> What did we do at the castle?
+Played ball
+Fished
+* Swam in the swimming pool
+Ran in the woods
+

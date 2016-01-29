@@ -1,0 +1,51 @@
+I'd had the piggy bank for a long time.<s>
+So long, in fact, that I don't really remember getting it.<s>
+My aunt once told me a whole story about it, in which it was passed down through the family for many, many years, only to come to me.<s>
+I was pretty little at the time, so I believed her with no question.<s>
+It made me think that the bank was important.<s>
+It became some sort of sign of family and togetherness.<s>
+I would imagine my mom and my grandmother and even my great grandmother before that, putting coins in the little white pig and waiting for them to fill it up, to be spent on some sort of treasure.<s>
+And then, when I was fifteen, I broke it.<s>
+I didn't mean to.<s>
+I was cleaning my room in a hurry, so I could finish quickly and go to a friend's house.<s>
+I swung the vacuum hose around too quickly, knocking the pig's shelf, and down it went.<s>
+About a thousand pieces, and way fewer coins than I would have believed, flew everywhere.<s>
+I started to cry.<s>
+My mother came in at the sound of the crash.<s>
+"I'm so, so sorry!"<s>
+I cried.<s>
+"I broke the bank!<s>
+I broke the family bank!"<s>
+"What, Sarah?"<s>
+my mother asked, kneeling next to me on the floor.<s>
+"The what?"<s>
+"The bank!<s>
+Aunt Tracy said it was in the family for years!"<s>
+"What, this?<s>
+We got it for you at a garage sale when you were two.<s>
+It was fifty cents."<s>
+
+1) <single> How old was Sarah when she broke the piggy bank?
+5
+17
+* 15
+12
+
+2) <multiple> Who told Sarah a story about the bank?
+grandmother
+her mother
+* Aunt Tracy
+her great grandmother
+
+3) <multiple> Where did the bank come from?
+her grandmother
+Aunt Tracy
+* a garage sale
+the mall
+
+4) <single> Where was the bank when it was broken?
+Sarah's mom's house
+Tracy's house
+* Sarah's room
+the mall
+

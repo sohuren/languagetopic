@@ -1,0 +1,46 @@
+A boy woke up super excited for this special day.<s>
+He could not contain his excitement knowing that the soccer final was today!<s>
+He had been working all year long to get to this day.<s>
+He quickly hopped off his bed and went to eat his breakfast.<s>
+His mom had made pancakes, waffles, and eggs, but the boy felt like eating cereal.<s>
+His mom had laid out his soccer clothes and after he was done with his breakfast, he couldn't wait to put them on.<s>
+He quickly changed into the clothes, and ran to the car where his mom was waiting for him to get in.<s>
+The ride seemed to take a long time as he was super excited to play.<s>
+The team was there and they started a small practice before the big game!<s>
+The game started and the boy was very nervous since the other team looked really good.<s>
+His team was as good too and they were tied at the end!<s>
+Everyone either got a trophy or a medal for playing in the game, and the boy got a trophy.<s>
+It was one of the best times the boy had ever had.<s>
+The day was starting to get dark and he could feel sprinkles on his hands.<s>
+His parents asked the boy if he wanted to eat ice cream and pizza after the game.<s>
+The boy said he was tired and went home with his parents and he could not stop talking about how super fun the game was.<s>
+He talked and talked and talked and his parents were very proud of him.<s>
+He talked so much that he fell asleep in the car!<s>
+His dad carried him into the house and put him in his bed.<s>
+The boy had such a great day that he dreamed of soccer all night long.<s>
+The trophy he had been given would let him remember about the fun day he had.<s>
+
+1) <single> What did the boy eat for breakfast?
+Waffles
+Eggs
+Pancakes
+* Cereal
+
+2) <multiple> Who won the game and what did the boy win?
+The team the boy was on won and they all got free pizza and ice cream
+* It was a tie game so the boy won a trophy
+The team the boy was on won and they each got a trophy
+The team the boy was not on won and they each won a medal
+
+3) <multiple> What did the boy do after the game?
+* He told his parents all about it and fell asleep
+It rained so everyone got muddy and the boy fell in a puddle
+The team ate pizza after the game
+He went to eat ice cream where his ice cream fell on the floor
+
+4) <single> Who won the game?
+* No one, it was tied.
+It rained so the game was not played
+The team the boy was not on
+The team the boy was on
+

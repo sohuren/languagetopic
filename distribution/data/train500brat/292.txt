@@ -1,0 +1,46 @@
+Once there was a young girl named Angel.<s>
+Angel was very nervous because she was about to give a speech for school.<s>
+The student that gave the best speech would win free tickets to see the fireworks.<s>
+Angel had spent a lot of time practicing her speech because she really wanted to win.<s>
+She practiced in front of her cousin, Noah.<s>
+She practiced in front of her stuffed tiger, Kitten.<s>
+She practiced saying her speech as she stood on one leg and looked at the ceiling.<s>
+She even practiced burping her speech!<s>
+Despite all that practice, Angel was still very nervous.<s>
+So many other kids were giving speeches that day and they all were going to try their best!<s>
+As Angel was walking in to the school she saw a penny on the ground.<s>
+Her mother had always told her that pennies were lucky so she picked it up.<s>
+With the penny in her hand she felt less nervous.<s>
+It was her new lucky coin.<s>
+When Angel's turn came she gave her speech.<s>
+She remembered all of the words to her speech and she remembered to smile at the right times.<s>
+Her hard work and her lucky coin worked.<s>
+She won the free fireworks tickets!<s>
+Angel's teacher, Mr. Coffee, was so proud of her that he turned her lucky coin into a necklace.<s>
+Angel wore it everywhere she went from then on.<s>
+The fireworks were pretty cool too.<s>
+
+1) <single> What is the young girl's name?
+Kitten
+Mr. Coffee
+Noah
+* Angel
+
+2) <multiple> What did Angel pick up off the ground?
+fireworks
+* a penny
+a tiger
+her cousin
+
+3) <single> What is the tiger's name?
+Angel
+Mr. Coffee
+Noah
+* Kitten
+
+4) <multiple> Who won tickets to the fireworks?
+Kitten
+* Angel
+Noah
+Mr. Coffee
+

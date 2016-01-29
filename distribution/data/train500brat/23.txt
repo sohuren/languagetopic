@@ -1,0 +1,46 @@
+It was Saturday afternoon and Andrew was bored.<s>
+He had been watching TV all day.<s>
+He told his dad, "There's nothing to do!"<s>
+Andrew's dad said, "I think the newspaper is here.<s>
+Maybe we can find an idea in the newspaper."<s>
+Andrew looked outside the window and saw the newspaper by the door.<s>
+On the front was a picture of an elephant.<s>
+He picked up the newspaper and brought it to his dad.<s>
+Andrew and his dad read the story.<s>
+The circus was in town!<s>
+Andrew had never been to the circus.<s>
+He asked his dad, "Can we go?"<s>
+"Yes, we can,' Andrew's dad said, 'but first you need to feed your goldfish."<s>
+Andrew fed his goldfish some goldfish food.<s>
+He promised to bring it some peanuts from the circus for later.<s>
+Andrew and his dad went to the circus.<s>
+The people and animals at the circus did lots of tricks.<s>
+The elephant even went down a slide!<s>
+Andrew and his dad ate lots of peanuts.<s>
+There weren't any peanuts left to bring home to the goldfish.<s>
+Andrew and his dad had a lot of fun at the circus.<s>
+
+1) <single> What did Andrew need to do before he could go to the circus?
+eat some peanuts
+watch TV
+do some tricks
+* feed his goldfish
+
+2) <single> Which character in the story went down the slide?
+* the elephant
+Andrew
+the goldfish
+Andrew's dad
+
+3) <multiple> Who ate peanuts in the story?
+the elephant
+Andrew
+Andrew and his goldfish
+* Andrew and his dad
+
+4) <multiple> Why did Andrew read the newspaper with his dad?
+* Andrew was bored and looking for ideas for the afternoon
+Andrew's dad likes reading
+Andrew liked the picture of the elephant
+Andrew likes reading
+

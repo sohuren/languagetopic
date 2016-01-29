@@ -1,0 +1,37 @@
+Steve was excited about the trip he was taking tonight.<s>
+The family was going out to his favorite place to eat.<s>
+Steve loved spaghetti and meatballs, and the restaurant made the very best!<s>
+When Steve and his parents got to the restaurant, his mother had to tell him to stop running so fast.<s>
+Steve couldn't help himself, he wanted to be inside and at a table so badly.<s>
+The restaurant had pictures of all the people that used to work there in the past, it had been around for a long time with a history of such great food.<s>
+It was not the first time his mother had to tell him to slow down.<s>
+When they were taken to their table and went through the curtain to the dining area, Steve had another nice surprise waiting for him.<s>
+It would not be a table for three, his favorite aunt and uncle were waiting at the table for them!<s>
+Steve sat down quickly to get some of the bread sticks before they were all gone.<s>
+Steve did not even need a menu, he knew what he wanted.<s>
+Bring on the spaghetti and meatballs, nice and hot!<s>
+
+1) <multiple> Who were all the people going to eat?
+Steve and his parents
+Steve's parents
+Steve
+* Steve, his parents, his aunt and his uncle
+
+2) <single> What did Steve want to eat for dinner?
+The curtain
+* Spaghetti and meatballs
+He wasn't sure
+Bread sticks
+
+3) <multiple> Why did Steve's mom tell him to slow down?
+She couldn't keep up in the race
+* He was running to get inside the restaurant quicker
+He was talking too fast
+He was playing too rough with his uncle
+
+4) <single> Where was Steve going?
+* To a restaurant
+To his parents house
+To the table store
+To his aunt and uncles house
+

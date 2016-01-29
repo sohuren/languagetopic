@@ -1,0 +1,39 @@
+A cat was watching a bird in a tree.<s>
+The blue bird watched the cat as it tried to use its claws and climb up the tree.<s>
+The cat reached the right branch and slowly walked towards the bird.<s>
+The bird flew away and the cat was left stuck on the branch.<s>
+The cat jumped down from the tall branch and didn't get hurt.<s>
+He then chased after a chipmunk along the ground.<s>
+The chipmunk was not faster than the cat, but the chipmunk ran up a tree.<s>
+The cat tried to run up the tree, but fell back down.<s>
+Not wanting to go back up a tree, the cat watched the chipmunk from the ground.<s>
+It went into a hole in the tree and the cat gave up.<s>
+The cat went under a house's deck to keep cool.<s>
+It watched for more birds or chipmunks that it could chase after.<s>
+He saw one chipmunk in the distance, then two three and four.<s>
+He was ready to chase them.<s>
+
+1) <multiple> What did the cat chase last?
+* A chipmunk
+A tree
+A cat
+A bird
+
+2) <single> What happened after the cat jumped off the branch?
+* It chased a chipmunk
+It got hurt
+It chased a bird
+It went under the deck
+
+3) <single> Where did the cat go after it gave up?
+* Under a deck
+Up a tree
+In a house
+On the ground
+
+4) <multiple> How many trees did the cat climb or try to climb?
+Four
+* Two
+One
+Three
+

@@ -1,0 +1,23 @@
+The dog walked around the city.<s>
+He was looking around.<s>
+He was trying to find food.<s>
+He smelled the trashcan to see what might be inside.<s>
+He did not smell anything that he liked.<s>
+He kept looking.<s>
+He could not find anything.<s>
+Someone came by and some him.<s>
+The person saw that the dog was very skinny so he felt bad.<s>
+This man that saw him went into a store.<s>
+He bought him some things for the dog.<s>
+Those things included some dog food, water and a blanket.<s>
+He did not buy him any toys or a bed because he did not have much money.<s>
+He went over to the dog and put all these things next to him.<s>
+The dog went over to the items.<s>
+First he smelled them.<s>
+Then he started eating the food.<s>
+After he ate, he drank some water.<s>
+When he was finished, he licked the man on his face.<s>
+After that, the dog laid down on the blanket and took a long nap.<s>
+He had a happy look on his face.<s>
+The kind man walked away.<s>
+

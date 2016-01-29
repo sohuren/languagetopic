@@ -1,0 +1,52 @@
+Joe lives in a big city with his mother and father.<s>
+His father is called Tony, and his mother's name is Clarissa.<s>
+He likes to go to all the stores and look at the things inside.<s>
+Sometimes if Joe sees something he likes, his parents buy it for him.<s>
+Last week, they were in a store and Joe saw a ball that he wanted.<s>
+Joe's father bought it for him, and Joe was very happy.<s>
+Joe's grandmother doesn't live in the city.<s>
+She lives on a farm.<s>
+Her name is Hazel.<s>
+Sometimes Joe's parents take him to visit his grandmother.<s>
+There are not many stores around where she lives.<s>
+But Joe is always excited to see her, because there are many things there that are not found in cities.<s>
+The first time he saw a cow, Joe was scared, because he had never seen a cow in the city.<s>
+There are always a lot of animals near Joe's grandmother's house.<s>
+Sometimes there are chickens and pigs and ducks.<s>
+Joe's favorite animal is Max.<s>
+Max is Hazel's dog.<s>
+He is a friendly dog.<s>
+He doesn't bark at the other animals.<s>
+Sometimes Joe and Max play with a ball.<s>
+Max likes to play with Joe.<s>
+Sometimes Max doesn't like strangers, but Max has seen Joe a few times, so now they are friends.<s>
+Hazel is a very good cook.<s>
+She always makes Joe's favorite breakfast: eggs, pancakes, and bacon.<s>
+Sometimes Joe's mother makes the same meals for him, but Hazel's food is always better.<s>
+Joe is sometimes sad when he leaves Hazel's house.<s>
+But he knows that he is going to return, so he is not sad for long.<s>
+
+1) <single> Why does Joe like to visit his grandmother?
+* There are things there that are not found in cities.
+Clarissa is a very good cook.
+His parents might buy him something that he likes.
+Max and Joe enjoy scaring the cows.
+
+2) <multiple> What is the name of Joe's grandmother's dog?
+Tony
+Joe
+* Max
+Hazel
+
+3) <multiple> What is Joe's grandmother's name?
+* Hazel
+Clarissa
+Max
+Tony
+
+4) <single> What are near Joe's grandmother's house?
+cities
+balls
+* animals
+stores
+

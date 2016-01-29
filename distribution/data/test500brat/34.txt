@@ -1,0 +1,40 @@
+Josie started planning her new garden in the winter.<s>
+She chose flowers and vegetables that could grow in her area.<s>
+She looked through the seed magazines.<s>
+She ordered the tastiest kind of each vegetable and the prettiest kind of each flower.<s>
+She talked to a friend about her plans.<s>
+It seemed like the snow would never melt.<s>
+But Josie didn't have to wait for spring to get started.<s>
+Six weeks before the last frost, Josie planted seeds indoors.<s>
+The tiny seedlings pushed up through the soil and began to grow.<s>
+Finally spring arrived.<s>
+Each day, Josie moved the seedlings outside for a few hours so they could get used to the cooler temperatures.<s>
+Josie worked in her garden, digging the soil.<s>
+She added a special growing mix from the garden store to make the soil better.<s>
+When everything was ready, she removed the seedlings from their trays and planted them in her garden.<s>
+The warm sun and rich soil helped her vegetables and flowers grow.<s>
+
+1) <multiple> How did Josie get the soil in her garden ready for planting?
+She waited for the last frost.
+She planted her seedlings indoors.
+She started planning her garden in the winter.
+* She dug her garden and added a special growing mix to the soil.
+
+2) <single> Where did Josie order her seeds?
+* Seed magazines
+She had them left over from last year
+A friend
+The garden store
+
+3) <multiple> What did Josie do to get her seedlings ready to plant in the garden?
+The warm sun and rich soil helped her vegetables and flowers grow.
+Melted the snow and planted them outside before the last frost.
+Planted them outside, straight into the soil.
+* Started her seeds indoors and got them used to the cooler temperatures outside.
+
+4) <single> When did Josie start her seedlings?
+Seven weeks before the last frost.
+Four weeks before the last frost.
+* Six weeks before the last frost.
+Five weeks before the last frost.
+

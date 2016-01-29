@@ -1,0 +1,52 @@
+Sam was driving.<s>
+It was late, it was dark, it was raining, and he was out of cookies.<s>
+His squirrel was asleep in the passenger seat, as was his hamster, in the back seat.<s>
+He had gone down to the beach for the day, but it had started raining, so he had started driving back.<s>
+But he had gotten lost.<s>
+Now, he thought he was on the right way back.<s>
+His headlights were not very strong.<s>
+He could only see a few feet in front of him, except when the lightning hit.<s>
+When the thunder came after, his squirrel, Joey, and his hamster, Broey, turned over in their sleep.<s>
+Suddenly, lightning and thunder hit at the same time.<s>
+There was a bright light and a crunching sound.<s>
+A tree fell in front of the car!<s>
+Sam hit the brakes.<s>
+The car slowed down and stopped, and he got out.<s>
+Sam walked up to the tree.<s>
+He tried pushing it.<s>
+It was too heavy.<s>
+What would he do?<s>
+He heard the car door open and shut behind him.<s>
+It was Joey!<s>
+And Broey!<s>
+Together, the three of them pushed.<s>
+Joey and Broey were small, but strong.<s>
+And together, they moved the tree.<s>
+They got back in the car.<s>
+Sam was wet, and turned on the heater.<s>
+He was tired, but he knew he would get home now - thanks to his animal friends.<s>
+
+1) <single> Why did Sam leave the beach?
+Because a tree fell
+Because it got dark
+* Because it had started raining
+Because his pets wanted to leave
+
+2) <single> Why couldn't Sam see far ahead?
+Because it was dark
+Because he forgot his glasses
+Because he was tired
+* His headlights were not very good
+
+3) <multiple> What did Sam see and hear when the tree fell?
+He saw the tree fall and heard a smack
+He saw lighting and heard his hamster yell
+Thunder, a bright light and a bump
+* Thunder, a bright light and a crunching sound
+
+4) <multiple> Was Sam lost?
+Sam was most of the way home
+Sam was completely lost
+Sam was going the wrong way
+* Sam was lost but thought he was on the right way back now
+

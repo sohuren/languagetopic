@@ -1,0 +1,39 @@
+A rabbit was hopping around, following all the smells he could smell.<s>
+He had a great nose, smelling carrots, bushes, flowers, and other animals.<s>
+He smelled melons and he smelled a dish of ice cream.<s>
+Rabbits don't like ice cream, so he moved to the flowers faster.<s>
+And he didn't really like to snack on melons either.<s>
+He saw friends, the duckling and the mother duck, but he was moving too fast to get to the flowers.<s>
+He could smell the flowers from a long way away.<s>
+He kept hopping to reach them, faster and faster.<s>
+One hop, two hops, three hops.<s>
+On his third hop he always bounced a little higher.<s>
+He finally smelled the flowers close, so he hopped a little bit faster.<s>
+The flowers were in sight.<s>
+He went up to them and smelled longer and harder than ever before.<s>
+A wonderful smell at last.<s>
+
+1) <multiple> How many hops until the rabbit bounced higher?
+Every hop was higher than the last
+Four
+* Three
+Two
+
+2) <single> What do rabbits not like?
+Melons.
+Flowers.
+* Ice cream.
+Carrots.
+
+3) <multiple> What did the rabbit smell?
+flowers only
+animals, carrots, cake
+the rabbit couldn't smell anything
+* Flowers, bushes, carrots, ice cream, melons and animals
+
+4) <single> Did the rabbit have friends?
+His friends had ice cream.
+He didn't have friends.
+* A mother duck and her duckling.
+The flowers.
+

@@ -1,0 +1,24 @@
+Sarah is a girl.<s>
+Sarah has one brother.<s>
+Sarah's brother's name is Timothy.<s>
+Sarah has one sister.<s>
+Sarah's sister's name is Annabelle.<s>
+Their last name is MacGregor.<s>
+One day Sarah went to the park with her brother Timothy.<s>
+They swung on the swings for a short time.<s>
+Then Annabelle came out and swung with them.<s>
+They all sang some nice songs together.<s>
+They all became very  happy.<s>
+Then Timothy's friend came.<s>
+Timothy liked his friend very much.<s>
+Timothy went off the swing and went away with his friend.<s>
+Then Annabelle and Sarah felt very very sad.<s>
+Happily then Annabelle and Sarah's friend came.<s>
+Their friend's name was Kate Smith.<s>
+She was the same age as Sarah.<s>
+They wanted to go to the slide together.<s>
+So they went to the slide and played for a long time.<s>
+Then Annabelle became happy.<s>
+And Sarah also became happy.<s>
+Then they went home together and had some food.<s>
+

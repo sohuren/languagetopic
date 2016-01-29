@@ -1,0 +1,43 @@
+As they went to the doors they saw they had the letters A, B, C, and D on them.<s>
+What did it mean?<s>
+Alpha, the leader, told everyone to stop and look at the doors, so as to see which door they would go through.<s>
+The walls were brown and dirty.<s>
+The lights were yellow.<s>
+Door A was blue.<s>
+This was Beta's choice.<s>
+Door B was red.<s>
+Door C was the same color as door A. Door D a color no one had seen before.<s>
+Gamma felt that Alpha needed to make a choice soon before the monsters caught their scent.<s>
+Delta was the first to voice a choice.<s>
+He wanted to go in the red door.<s>
+Alpha told him that the old books said to go in the blue door.<s>
+This is why it was so hard for Alpha right now.<s>
+Two doors were blue.<s>
+Being a good leader, Alpha asked everyone what they wanted to do.<s>
+The final choice was door D.<s>
+They went in and enjoyed all of time in a world with odd colors.<s>
+
+1) <multiple> What color was door C?
+* blue
+red
+yellow
+brown
+
+2) <single> Who was the leader?
+Beta
+Gamma
+* Alpha
+Delta
+
+3) <multiple> What color was the door that Delta wanted to go in?
+blue
+yellow
+* red
+brown
+
+4) <single> What color was door A?
+* blue
+red
+yellow
+brown
+

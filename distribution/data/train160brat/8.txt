@@ -1,0 +1,34 @@
+Timmy liked to play games and play sports but more than anything he liked to collect things.<s>
+He collected bottle caps.<s>
+He collected sea shells.<s>
+He collected baseball cards.<s>
+He has collected baseball cards the longest.<s>
+He likes to collect the thing that he has collected the longest the most.<s>
+He once thought about collecting stamps but never did.<s>
+His most expensive collection was not his favorite collection.<s>
+Timmy spent the most money on his bottle cap collection.<s>
+
+1) <multiple> Which item did Timmy like to collect the most?
+* Baseball cards
+Bottle caps
+Sea shells
+Stamps
+
+2) <single> Which is Timmy's most expensive collection?
+Sea Shells
+Baseball Cards
+Stamps
+* Bottle Cap
+
+3) <single> Which item did Timmy not collect?
+Baseball cards
+Bottle caps
+Sea shells
+* Stamps
+
+4) <single> Timmy liked to do which of these things the most?
+Play games
+Play sports
+* Collect things
+Collect stamps
+

@@ -1,0 +1,42 @@
+Johnny is a nine year old boy.<s>
+On one hot summer day, Johnny is outside his house playing with his dog.<s>
+He is very hot and wants to have some ice cream.<s>
+He looks in his freezer and sees that he does not have ice cream.<s>
+Johnny then hears the song of the ice cream truck.<s>
+Johnny runs outside but does not see the ice cream truck.<s>
+He looks down the street but the ice cream truck is nowhere to be found.<s>
+The music of the truck starts to get softer and then louder.<s>
+Johnny waits outside for an hour.<s>
+Johnny then thinks that he needs money when the ice cream truck comes.<s>
+He runs inside and finds five dollars in his room.<s>
+He then hears the ice cream truck song get very loud.<s>
+He runs back outside and sees the truck pass his house.<s>
+Johnny runs after the truck and catches up with it.<s>
+Johnny buys 4 ice cream pops and some candy.<s>
+He gives his five dollars to the ice cream man and gets one dollar back.<s>
+He walks home and happily eats all of his candy and ice cream.<s>
+
+1) <multiple> How much money does Johnny spend one ice cream and candy?
+* four dollars
+nine dollars
+one dollar
+five dollars
+
+2) <single> What pet does Johnny play with outside?
+bird
+* Dog
+fish
+cat
+
+3) <single> How old is Johnny?
+* nine
+eight
+four
+seven
+
+4) <multiple> What does Johnny want to eat when he is playing outside?
+* ice cream
+pizza
+soda
+candy
+

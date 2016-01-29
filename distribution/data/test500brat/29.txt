@@ -1,0 +1,84 @@
+It was Tuesday.<s>
+Tuesday was Square's favorite day.<s>
+Wednesday was nice because it was always Spaghetti Night.<s>
+Saturday was great because of the morning cartoons.<s>
+But Tuesday?<s>
+Tuesday was the day it always went to visit its friend Diamond.<s>
+It was a beautiful day!<s>
+The spring wind was blowing, and the sun was shining.<s>
+Square and Diamond went to play by the river.<s>
+They were having a great time.<s>
+They swam.<s>
+They fished.<s>
+They played hide and seek.<s>
+Suddenly, the wind picked up.<s>
+"Hey, Square!<s>
+Would you like to see a trick?"<s>
+"Sure Diamond!<s>
+What is it?"<s>
+Diamond took a string out of its pocket.<s>
+Diamond tied it to her, and then she tied it to a tree.<s>
+"Watch this!"<s>
+Diamond jumped into the wind.<s>
+Suddenly, she was flying!<s>
+She floated.<s>
+She swooped.<s>
+She played with the clouds and the birds.<s>
+She flew faster.<s>
+She flew slower.<s>
+At first, Square was amazed.<s>
+But slowly, Square started to frown.<s>
+Diamond landed in front of her friend.<s>
+"What's wrong?"<s>
+"That was amazing!<s>
+It looks like a lot of fun.<s>
+But I am not shaped like a kite.<s>
+I can't do those amazing things like you."<s>
+Diamond smiled.<s>
+"Yes you can, Square!<s>
+Stand on your tip-toes!"<s>
+So Square did.<s>
+"Now, go look at yourself in the river."<s>
+Square walked to the river and looked down.<s>
+But he did not see a square.<s>
+He saw a diamond!<s>
+Diamond handed Square the string.<s>
+"Now jump!"<s>
+she said.<s>
+Square jumped.<s>
+He jumped as high as he could.<s>
+Just as he started to fall, the wind blew and picked him up.<s>
+He was flying, like Diamond!<s>
+He floated.<s>
+He swooped.<s>
+He played with the clouds and the birds.<s>
+He flew faster.<s>
+He flew slower.<s>
+He soon landed.<s>
+The sun was setting, so they said goodbye and made plans to meet again next Tuesday.<s>
+It was a beautiful day.<s>
+
+1) <multiple> What did Square see in the river?
+* He saw a diamond.
+He saw a square.
+He saw a kite.
+He saw a fish.
+
+2) <multiple> Why was Square sad?
+He was not a diamond, so he could not swim.
+He didn't have a string, so he could not fish.
+He was scared of flying.
+* He was not shaped like a kite, so he could not fly.
+
+3) <multiple> What did Square and Diamond do?
+They had a picnic.
+* They swam and fished.
+They jumped and danced.
+They flew and laughed.
+
+4) <single> What is Square's favorite day?
+Friday
+Wednesday
+Saturday
+* Tuesday
+

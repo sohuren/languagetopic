@@ -1,0 +1,45 @@
+Today is the big day, today is Saturday and it is my birthday party.<s>
+I turned 7 on Thursday, but I wanted my party on the weekend.<s>
+All week my daddy and mommy helped me plan and now it is finally time for fun.<s>
+We got a clown and I got to invite all of my friends!<s>
+The clown's name was Bob and he was really funny.<s>
+Bob made us all laugh a lot.<s>
+After the clown left we all played fun games.<s>
+We played with a toy filled with candy and all got to eat it.<s>
+There were Twix Bars, Milky Ways, M&Ms and Tootsie Rolls.<s>
+My favorite candy is Twix so I was very happy to see them inside.<s>
+After that, my mom came out with my cake.<s>
+It was chocolate with chocolate icing!<s>
+Everyone loved it and we even got to eat ice cream too.<s>
+We were going to eat hamburgers and hot dogs but my dog ate them all before we could.<s>
+I wish we could have gone swimming in my pool, but it was too cold.<s>
+My dad said it was okay but my mom did not want us to get sick.<s>
+It was way better than any party I ever dreamed about.<s>
+After cake all my friends had to leave except for Timmy.<s>
+Timmy's mom said he could sleep over so we made a fort inside and told ghost stories.<s>
+My birthday party was the best day of my life.<s>
+
+1) <multiple> What did everyone eat at the party?
+Hamburgers and cake
+Hot dogs and hamburgers
+* Candy, ice cream, and cake
+Candy and hotdogs
+
+2) <single> What was the clowns name?
+* Bob
+Dad
+Bill
+Timmy
+
+3) <single> What day did the boy turn 7?
+Saturday
+* Thursday
+Last week.
+The weekend.
+
+4) <multiple> Who slept over and what did they do?
+Bob.  They went swimming and ate candy.
+Timmy.  They went swimming and made a fort.
+* Timmmy.  They made a fort and told ghost stories.
+No one.
+

@@ -1,0 +1,41 @@
+Once upon a time, there was a squirrel named Joey.<s>
+Joey loved to go outside and play with his cousin Jimmy.<s>
+Joey and Jimmy played silly games together, and were always laughing.<s>
+One day, Joey and Jimmy went swimming together at their Aunt Julie's pond.<s>
+Joey woke up early in the morning to eat some food before they left.<s>
+He couldn't find anything to eat except for pie!<s>
+Usually, Joey would eat cereal, fruit (a pear), or oatmeal for breakfast.<s>
+After he ate, he and Jimmy went to the pond.<s>
+On their way there they saw their friend Jack Rabbit.<s>
+They dove into the water and swam for several hours.<s>
+The sun was out, but the breeze was cold.<s>
+Joey and Jimmy got out of the water and started walking home.<s>
+Their fur was wet, and the breeze chilled them.<s>
+When they got home, they dried off, and Jimmy put on his favorite purple shirt.<s>
+Joey put on a blue shirt with red and green dots.<s>
+The two squirrels ate some food that Joey's mom, Jasmine, made and went off to bed.<s>
+
+1) <multiple> What did Joey eat for breakfast?
+* Pie
+Oatmeal
+Cereal
+Pear
+
+2) <multiple> What color was Jimmy's favorite shirt?
+Green
+Red
+* Purple
+Blue
+
+3) <multiple> What was Joey's cousin's name?
+Julie
+* Jimmy
+Jasmine
+Jack
+
+4) <single> What was the squirrel's name?
+Jimmy
+Julie
+* Joey
+Jack
+

@@ -1,0 +1,46 @@
+Hannah Harvey was a ten year old that had many friends in school.<s>
+She lived in New York and enjoyed doing gymnastics and playing soccer.<s>
+One day, Hannah came home from school and her parents greeted her.<s>
+She knew that something was different by the expressions on their faces.<s>
+Even Jackson, Hannah's dog, was acting different.<s>
+Hannah asked why everyone was being so strange.<s>
+Hannah's father, who was known as Pop, explained to Hannah that his job was forcing him to move.<s>
+Hannah did not seem to think this was too big of a deal.<s>
+Then, Hannah's mother explained that they were moving to Kenya.<s>
+Kenya, she explained, was a place in Africa and life would be very different there.<s>
+As Hannah began to cry thinking about all of her friends at home, Hannah's mother calmed her with a gentle touch.<s>
+Jackson began howling as Hannah cried, but was also calmed by Hannah's mother.<s>
+Hannah spent the next two weeks visiting her friends and saying her goodbyes.<s>
+She did not know the next time she would be home.<s>
+She cried very hard when she said goodbye to her best friend, Susan.<s>
+Susan did not quite understand where Kenya was, but promised to visit Hannah.<s>
+The next day, Hannah boarded a plane with her family.<s>
+At first, they thought that Jackson could not come with them.<s>
+However, Hannah worked hard and helped make sure that he had all of his shots so that he could come.<s>
+After he had them all, the airport said it was OK for Jackson to come!<s>
+The Harvey family left and off they went across the ocean to begin their new life in Kenya.<s>
+
+1) <multiple> Why did the airport finally let Jackson come?
+Pop argued with the airport workers
+He was very sick and needed help
+* He got all of this shots
+There was lots of room on the plane for him
+
+2) <single> Where does Hannah Harvey live?
+* New York
+Jackson
+Kenya
+Africa
+
+3) <single> What is the name of Hannah's dog?
+Susan
+* Jackson
+Pop
+Harvey
+
+4) <multiple> Why were Hannah's parents acting different when she got home from school?
+Jackson was sick
+Susan was moving
+Pop lost his job
+* Her family was moving to Kenya
+

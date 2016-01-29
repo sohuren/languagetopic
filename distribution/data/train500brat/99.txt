@@ -1,0 +1,45 @@
+Marcel lived on a farm.<s>
+Every morning when he woke up, he got dressed, washed his face, and then helped his Pa with the chores before having breakfast.<s>
+After breakfast, he walked with his sisters to the school in the town.<s>
+One day on his way to school, Marcel remembered he left his books on the table.<s>
+"Oh no!"<s>
+he said.<s>
+"I forgot my books!"<s>
+His older sister Lucianne frowned.<s>
+"Oh, Marcel, how could you be so forgetful?<s>
+You'll have to go home and get them."<s>
+Marcel's younger sister Paula was excited.<s>
+"I can go get your books for you," she said.<s>
+"No," Marcel said.<s>
+"You're too young to go home by yourself.<s>
+It'll have to be me."<s>
+"Be careful," Lucianne warned him.<s>
+"And hurry, or you'll be late for school."<s>
+Marcel chose to leave the road so he could get home faster.<s>
+So he left the road and ran into the grassy pasture, passing by a group of lambs.<s>
+The shepherd waved at him as he ran past.<s>
+
+1) <single> Who did Marcel help with chores every morning?
+Paula
+the shepherd
+Lucianne
+* Pa
+
+2) <multiple> Where did Marcel leave his books?
+in the town
+in the pasture
+* at home
+at the school
+
+3) <multiple> Who went home to get the item Marcel forgot?
+the shepherd
+Lucianne
+* Marcel
+Paula
+
+4) <single> Why did Marcel leave the road?
+To do his chores
+To see the lambs
+* To get home faster
+To say hello to the shepherd
+

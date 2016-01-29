@@ -1,0 +1,37 @@
+Emily and her mother enjoy doing things together often.<s>
+Many days they like to go to the park or to the swimming pool but today they chose to go to the grocery store.<s>
+They went into the store and straight to look at the fruit.<s>
+Emily looked at the lemons, the bananas, the apples and the pears.<s>
+In the end, Emily chose the apples and put them in a bag.<s>
+She handed the bag to her mother to put into their shopping cart.<s>
+The pair went to the dairy section next and looked at the kinds of yogurt they store had.<s>
+There was blueberry, peach, strawberry and vanilla.<s>
+Emily asked her mother what kind of yogurt they would be getting and her mother said they wanted the blueberry yogurt.<s>
+When they got to the checkout, Emily helped her mother when they needed to pay.<s>
+Emily gave the cashier two dimes and four pennies.<s>
+They gathered up their bags, packed them into their car and drove home.<s>
+
+1) <multiple> What fruit did Emily choose
+pears
+lemons
+* apples
+bananas
+
+2) <multiple> What kind of yogurt did Emily choose?
+strawberry
+vanilla
+peach
+* blueberry
+
+3) <single> Where did Emily and her mother chose to go?
+the swimming pool
+the park
+to school
+* the grocery store
+
+4) <single> How many pennies did Emily give the cashier?
+one
+* four
+none
+two
+

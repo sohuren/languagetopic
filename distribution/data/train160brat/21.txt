@@ -1,0 +1,42 @@
+Laura wanted to go to the park and play because she wanted to see her friends.<s>
+When she got to the park Laura did not see anyone.<s>
+After looking, she saw her friend George by the basketball hoop.<s>
+George was playing all by himself.<s>
+George was happy when he saw Laura.<s>
+Laura and George played basketball they saw the ice cream man driving in his truck.<s>
+George asked Laura if she wanted him to buy her an ice cream cone.<s>
+Laura said she would like him to do that.<s>
+Laura sat on the bench as George walked to the ice cream truck.<s>
+Laura looked in the sky and saw a pretty bird flying in a large circle.<s>
+The bird flew away.<s>
+George came back with two ice cream cones.<s>
+One of the ice cream cones had rainbow sprinkles on it.<s>
+George gave the ice cream cone with sprinkles to Laura.<s>
+George and Laura sat on the bench and watched a group of boys play football as they ate their ice cream cones.<s>
+One of the boys broke his leg.<s>
+When George and Laura were finished with their ice cream, Laura ran home before the street lights came on.<s>
+
+1) <multiple> What sport was George playing by himself?
+football
+baseball
+* basketball
+soccer
+
+2) <multiple> What did the bird do in the sky?
+take a poop
+eat a worm
+* fly in a circle then fly away
+play with a cloud
+
+3) <multiple> What did Laura see as she ate the ice cream cone?
+* a boy break his leg
+a mother yelling
+a dog running
+a car crash
+
+4) <multiple> Who got the ice cream cones?
+The boys
+* George
+Laura
+A stranger
+

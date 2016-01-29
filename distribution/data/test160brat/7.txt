@@ -1,0 +1,36 @@
+The cute red ball rolled over to the blue ball and said hello.<s>
+The blue ball was scared and went to cry to the green ball.<s>
+The green ball laughed at the blue ball.<s>
+Then the green ball told the orange ball that blue ball was stupid.<s>
+Most felt this was not good to do and so they punished the green ball by taking away all his air.<s>
+From that day on everyone saw the air-less green ball and knew that they could not do or say any bad things.<s>
+This is how the trouble started.<s>
+The purple ball used the fear of everyone to become the leader that they all feared.<s>
+The purple ball was mean to everyone.<s>
+Until one day the red ball spoke up and got all the other colored balls together and they took the air from the purple ball and put it in the green ball.<s>
+Sadly, the green ball had been without air for too long and was dead.<s>
+
+1) <multiple> What color ball was the third brought up in the story?
+* green
+blue
+red
+purple
+
+2) <single> Which color ball became the leader?
+green
+blue
+red
+* purple
+
+3) <multiple> What color of ball scared the blue ball?
+purple
+* red
+orange
+green
+
+4) <single> At they end of the story, what was the state of the green ball.
+cute
+* dead
+fear
+taking
+

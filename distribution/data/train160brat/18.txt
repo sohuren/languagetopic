@@ -1,0 +1,46 @@
+The first grade class went on a bus to visit a farm.<s>
+The farm was a long ways from their school.<s>
+The farm was also far away from any other farms or houses.<s>
+The farmers who lived there were the Nixon family.<s>
+They grew corn.<s>
+Sometimes when the weather was right, they would plant wheat, too.<s>
+The fields were so large that the class could not see where they ended.<s>
+Mr. Nixon gave all of the children a long ride in the fields on his tractor.<s>
+The Nixon family also had a lot of farm animals.<s>
+In the red barn next to their home, they kept a few cows and horses.<s>
+Everyone fed hay to some of the cows.<s>
+The farmers got milk from their cows.<s>
+Some of the class got small bottles of fresh milk to take home with them.<s>
+All the kids got to ride on the big brown horses the Nixons had.<s>
+They went up into the nearby hills, where they could look down on the farm below.<s>
+Around the farmyard there were many goats and chickens, who wandered around as they wished.<s>
+The Nixon children liked to play with their goats, feed them peanut shells and pet them, like the first grade kids did with their dogs and cats.<s>
+The smallest tried to bump the children with their hard heads and tiny horns!<s>
+When it was almost dark, the school kids got back on the bus to go home.<s>
+They were a little sad to leave the fun life of the farm children.<s>
+But they brought back stories for all the rest of the school to hear.<s>
+
+1) <single> What did some of the class get to take home, other than stories?
+corn
+peanuts
+chickens
+* milk
+
+2) <multiple> What animals tried to bump the children with their heads?
+chickens
+* goats
+cows
+sheep
+
+3) <multiple> What did the Nixon family grow on their farm?
+* corn and wheat
+vegetables
+peanuts
+apples and oranges
+
+4) <single> What animals stayed in the Nixons' barn?
+* cows and horses
+sheep and hogs
+goats and chickens
+dogs and cats
+

@@ -1,0 +1,35 @@
+Hannah was so sad!<s>
+If she had one wish, it would be that she was well enough to go outside and play.<s>
+The storm last night had brought a lot of snow, she could see it through the window.<s>
+The snow caused everything to twinkle and shine, like it was colored with a marker made of glitter.<s>
+What a way to start Christmas break, with the flu making her stuck on the sofa under a blanket.<s>
+Hannah's brother was getting ready to go outside and enjoy the snow.<s>
+He put on his jacket and put her hat on his head.<s>
+He had to wiggle his gloves out of his pocket, but he was nice and warm.<s>
+From the sofa, Hannah watched her brother play in the snow with his friends and throw snowballs.<s>
+Her brother tossed a stone at the pond and it broke through the ice with a splash.<s>
+
+1) <single> What made everything twinkle?
+* The snow.
+A marker.
+A pond.
+A blanket.
+
+2) <multiple> Why was Hannah sad?
+Her brother put on her hat.
+She threw a stone.
+The snow made everything shine.
+* She couldn't play outside.
+
+3) <multiple> Where was Hannah when her brother threw the stone?
+By the pond.
+Playing in the snow.
+Putting on gloves.
+* On the sofa.
+
+4) <single> What did the stone break?
+A sofa.
+A hat.
+A window.
+* The ice on the pond.
+

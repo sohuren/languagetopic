@@ -1,0 +1,40 @@
+A naughty boy was sitting in math class on Tuesday.<s>
+There was a broken sink in the back of the room full of water.<s>
+There was also a kitty on the open window.<s>
+A loud plane was flying outside and scared the kitty inside.<s>
+The naughty boy walked up to the kitty and picked it up.<s>
+What do you think he did next?<s>
+He threw the kitty into the water in the sink!<s>
+The kitty didn't last long and ran away from the sink faster than lightning!<s>
+The other children laughed and laughed, but the teacher didn't think it was funny.<s>
+She didn't let the naughty boy play on the playground for a week!<s>
+But the boy didn't care.<s>
+The class thought he was funny, and so did he.<s>
+But he would have to get smarter because the sink was fixed soon.<s>
+The naughty boy thought the teacher was a witch who used a magic kiss to fix it.<s>
+He had no idea that her husband fixed it the next day.<s>
+
+1) <multiple> How did the teacher react to the naughty boy?
+she made him sit on the window
+* she didn't let him go on the playground for a week
+she put his head in the water
+she made him go outside
+
+2) <single> Where was the naughty boy sitting?
+outside
+on the playground
+* in math class
+on the window
+
+3) <single> What scared the kitty inside?
+the playground
+the naughty boy
+* a loud airplane
+the teacher
+
+4) <multiple> What day did the teacher's husband fix the sink?
+* Wednesday
+soon
+Saturday
+Tuesday
+

@@ -1,0 +1,38 @@
+In a far away land known as Board, there was a great man named Pawn.<s>
+This was a very odd land because the only thing to do was play chess.<s>
+Pawn did not very much care for chess as he was very bored with it.<s>
+Another problem Pawn had was that he didn't like some of the other people in this land.<s>
+They had names like Bishop, Queen, Rook, and Knight.<s>
+And most of all, there was King.<s>
+He was the greatest person in Board.<s>
+One day, during their normal battle, Pawn saw an opening to move to the far end of Board.<s>
+He almost got hurt by Knight but he got away.<s>
+Amazingly, when he got to the other end he became as powerful as Queen.<s>
+With this amazing power, Pawn chose to help keep King safe.<s>
+All was well until Pawn woke up and knew that it was only a dream.<s>
+He was still Pawn.<s>
+
+1) <single> Who almost hurt Pawn?
+Pawn
+Queen
+King
+* Knight
+
+2) <multiple> Who was the greatest person in Board?
+Pawn
+Knight
+Rook
+* King
+
+3) <single> Who did Pawn protect with his new power?
+Bishop
+Rook
+Queen
+* King
+
+4) <multiple> What was the only thing to do in Board?
+help King
+become Queen
+* play chess
+meet people
+

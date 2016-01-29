@@ -1,0 +1,52 @@
+Greta ran to the corner with her older brother Tony.<s>
+He had money for the ice cream truck in his pocket and she was very happy.<s>
+The ice cream truck had been parked at the curb waiting for children for a very long time.<s>
+The ice cream truck driver thought that no more children were coming to get ice cream so he started pulling away from the curb when they got to the corner.<s>
+They yelled.<s>
+They screamed, "Stop!<s>
+Stop!"<s>
+and jumped up and down on the side walk trying to get him to see them.<s>
+The driver of the truck saw them, waved at them and smiled, pulled back to the curb and opened his truck up so that they could see everything that he had for sale.<s>
+They were so excited.<s>
+They saw some new treats.<s>
+Tony wanted to try something new.<s>
+He got an ice cream sundae with chocolate ice cream and nuts.<s>
+He almost got a snow cone.<s>
+Greta looked at everything that the ice cream truck had.<s>
+She saw candy, ice cream cones, snow cones, and everything else.<s>
+It all looked so good.<s>
+But after looking at everything, she wanted to get an ice cream sandwich.<s>
+She got the ice cream sandwich.<s>
+She bit into it and smiled.<s>
+It tasted so good.<s>
+She felt so happy.<s>
+Her brother, Tony, was happy too.<s>
+He bit into his ice cream cone sundae and grinned.<s>
+They walked home with their ice cream and told their mom about how close they came to not getting their ice cream at all.<s>
+Their mom was happy that the truck had stopped for them.<s>
+She said that they were very lucky to have gotten to the curb before the ice cream truck left.<s>
+
+1) <multiple> What did the driver of the ice cream truck do when Greta and Tony got to the corner?
+* He started pulling away from the curb.
+He played the truck's jingle.
+He stayed parked at the curb.
+He almost got a snow cone.
+
+2) <multiple> What did the children do when they saw the ice cream truck driver pull away from the curb?
+They ran out into the street after the iced cream truck.
+* They screamed, "Stop! Stop!".
+They stood on the corner and cried.
+They ate ice cream.
+
+3) <multiple> What did Tony and Greta get from the iced cream truck?
+Tony got a snow cone. Greta got an ice cream sundae.
+Tony got a snow cone. Greta got an iced cream cone with chocolate iced cream and nuts.
+* Tony got an ice cream sundae with chocolate ice cream and nuts.
+Greta and Tony ice cream cones.
+
+4) <multiple> What did Greta and Tony do after they got their ice cream?
+They walked to a friend's house and talked to his mother about what happened.
+* They bit into it.
+They got in the truck.
+They walked home and went outside in their back yard to play.
+

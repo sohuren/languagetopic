@@ -1,0 +1,33 @@
+One day Poppy the puppy went outside to play.<s>
+He ran around the yard as fast as he could.<s>
+After running, Poppy began to play with his ball.<s>
+When Poppy was tired of that, Poppy play catch with Mary.<s>
+Poppy was very happy when Mary wanted to play with him.<s>
+Poppy would jump on Mary and start to lick her face.<s>
+Mary was happy when Poppy showed her all that love.<s>
+Later on Mary and Poppy went inside to eat and take a nap.<s>
+
+1) <single> What did Poppy do when he first went outside?
+He played with his ball.
+He played catch.
+He sat in the yard waiting to go back inside.
+* He ran around the yard as fast as he could.
+
+2) <multiple> What did Poppy do when he was outside?
+He sat down and took a nap.
+He played catch with a cat.
+* He played with Mary.
+He chased a cat.
+
+3) <single> What was the name of Mary's dog?
+Puppy
+Happy
+Jump
+* Poppy
+
+4) <multiple> What did Poppy do after he played catch with Mary?
+* He jumped on Mary and licked her.
+He went inside to eat.
+He played with the ball.
+He went inside for a nap.
+

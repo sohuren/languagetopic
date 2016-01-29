@@ -1,0 +1,43 @@
+The family across the street has a cat.<s>
+He is a cute black kitty named Dillon.<s>
+The cat is about two years old, and the family has had him for about a year.<s>
+He is an indoor cat who is not allowed to go outside.<s>
+The children like to play with Dillon because he still acts like a kitten.<s>
+Dillon jumps around, and chases flies, beetles and spiders.<s>
+When he plays with the children, he sometimes uses his paws to attack them, but he doesn't try to hurt them with his claws.<s>
+Dillon is a great cat but he has one problem: he likes to eat bread.<s>
+The family only feeds him cat food, never human food like steak or potatoes.<s>
+But the cat likes the smell of bread so much that he tries to find it everywhere he can.<s>
+Dillon jumps up on the kitchen table when a sandwich is there, and tries to carry it away.<s>
+He finds loaves of bread from the store on the floor and claws through the wrappers.<s>
+The cat climbs into the bread cupboard looking for hot dog and hamburger buns.<s>
+The family tries to make Dillon stop getting into the bread by spraying him with water when he goes after bread.<s>
+They yell at him when he walks on the table.<s>
+But Dillon does not listen.<s>
+The kitty keeps trying to find bread to eat.<s>
+The family thinks that the man who took care of Dillon when he was a very young kitten must have been a baker or cook, and that's why Dillon likes the smell and taste of bread so much!<s>
+
+1) <multiple> How does the family deal with Dillon's odd food liking?
+feed him cat food
+* spray and yell at him
+chase him
+play with him
+
+2) <single> What kind of food does Dillon like to eat that he shouldn't?
+cheese
+flies
+* bread
+cat food
+
+3) <multiple> What kinds of food does Dillon get into that he shouldn't?
+steak and potatoes
+fruits, and vegetables
+flies, spiders and beetles
+* bread, buns, and sandwiches
+
+4) <single> What color cat is Dillon?
+orange
+* black
+gray
+white
+

@@ -1,0 +1,42 @@
+The booger on the balloon sailed far and wide.<s>
+The wind pushed it.<s>
+The wind pulled it.<s>
+The booger on the balloon sailed into a house.<s>
+In the house was a table.<s>
+On the table was an orange.<s>
+Next to the orange was some chocolate.<s>
+Under the table was a crayon.<s>
+Under the crayon was a seed.<s>
+The booger on the balloon flew out of the house.<s>
+Outside, there was snow.<s>
+A dog went woof.<s>
+A cat went meow.<s>
+But the booger on the balloon did not hear them.<s>
+The booger on the balloon had no ears!<s>
+The wind blew the booger on the balloon far away, until one day...  ...POP!<s>
+The booger on the balloon fell on top of an alligator, never to be seen again.<s>
+
+1) <multiple> What was under the table
+an orange and some chocolate
+a booger and a balloon
+* a crayon and a seed
+snow and an alligator
+
+2) <single> What happened to the balloon?
+* It popped.
+It flew under a seed.
+It fell on top of an alligator
+It flew above a house.
+
+3) <single> What was the booger on?
+a window
+a table
+* a balloon
+the snow
+
+4) <multiple> What was on the table?
+an alligator
+a crayon and a seed
+snow and a booger
+* an orange and some chocolate
+

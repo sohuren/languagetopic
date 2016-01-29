@@ -1,0 +1,38 @@
+There once was a pumpkin.<s>
+The pumpkin was sad.<s>
+The pumpkin wanted to leave the garden and see the world.<s>
+But the pumpkin had to stay in the garden because its vine held it there.<s>
+One day a fox came by.<s>
+The pumpkin asked the fox to cut the vine so the pumpkin could leave the garden.<s>
+The fox said it would cut the vine so the pumpkin could leave the garden.<s>
+When the fox cut the vine the pumpkin could roll around.<s>
+The pumpkin rolled around until it got out of the garden.<s>
+First it met a cat.<s>
+It told the cat it was happy because now it could see the world.<s>
+The cat gave the pumpkin a piece of cake to eat.<s>
+The pumpkin could not eat the cake because it had no mouth but it was still very happy to have the cat as a new friend.<s>
+
+1) <multiple> How did the pumpkin escape the garden?
+the person who owned the garden let it go
+it used cake to get out
+* a fox cut the vine
+a cat freed it
+
+2) <single> Why couldn't the pumpkin eat the cake?
+the cake was up too high
+* It had no mouth
+the fox ate it first
+the cake didn't have a glass of milk to go with it
+
+3) <multiple> Why was the pumpkin sad?
+a cake fell on it
+* It wanted to see the world but it couldn't
+there was a sharp rock keeping it in the garden
+the fox was teasing it
+
+4) <single> Who did the pumpkin meet outside the garden?
+another pumpkin
+the person who planted the garden
+* a cat
+a fox
+

@@ -1,0 +1,42 @@
+Lucy was walking with her family in the woods, far away from the city.<s>
+Her father helped her see all kinds of animals.<s>
+It was like going to the zoo.<s>
+They saw deer, a moose, a fox, and a bear.<s>
+The bear ran away when her brother shouted.<s>
+Lucy thought that was lucky, because she was a little scared of it.<s>
+Her father showed her a whistle to blow in case she got lost.<s>
+Her brother kept stealing it.<s>
+While they were walking down by a stream, Lucy's Mom was making sandwiches for everyone.<s>
+Lucy's brother Jim kept blowing the whistle.<s>
+He told her that he was going to steal her sandwich if he got there first.<s>
+That made her mad!<s>
+She really wanted her turkey sandwich and not a peanut butter and jelly sandwich.<s>
+When their mom called, they both ran back as fast as they could.<s>
+Since Jim was older, he was faster and beat her to the picnic.<s>
+Lucy started crying.<s>
+She thought Jim stole everything!<s>
+
+1) <multiple> Who did the whistle belong to?
+Jim
+Her brother.
+Her Mother.
+* Lucy
+
+2) <single> Where did Lucy and her family go walking?
+* In the woods.
+In a park.
+In the city.
+In a zoo.
+
+3) <multiple> Why did Lucy cry?
+Her brother splashed her in the stream.
+* Her brother stole her sandwich.
+Her brother fell and hurt himself.
+Her brother left her in the woods.
+
+4) <single> What kind of animal ran away when her brother shouted?
+A fox.
+* A Bear.
+A deer.
+A rabbit.
+

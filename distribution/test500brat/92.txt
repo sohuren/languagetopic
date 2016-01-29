@@ -1,0 +1,37 @@
+Today Bob was hungry.<s>
+He had some pancakes in his fridge but did not feel like eating pancakes today.<s>
+He thought to himself, "I want to get some food from the store."<s>
+So he went to the store and bought a sandwich.<s>
+When he was at the store there was a picture of a brown cat on the wall.<s>
+Under that picture was a box full of candy.<s>
+Bob knew that he did not want to eat too much candy, but he wanted to get some candy anyway.<s>
+He went to the box of candy and put some in his shopping bag so he could buy it.<s>
+Bob went to the front and paid for all of his food.<s>
+After buying his food, he went home and ate it.<s>
+The sandwich was delicious and after he ate the sandwich he ate the candy too.<s>
+Bob was very happy that he was full now and no longer hungry.<s>
+
+1) <multiple> Why did Bob go to the store?
+He wanted to buy a new picture for his house.
+* He was hungry but did not want to eat what was in his fridge.
+He wanted to buy groceries for his fridge.
+He only wanted to buy some candy.
+
+2) <single> What did Bob have in his fridge?
+* Some pancakes.
+Candy.
+A sandwich.
+Pancakes, a sandwich, and candy.
+
+3) <multiple> What did Bob buy at the store?
+Just a sandwich.
+A picture of a cat and a sandwich.
+Pancakes and a sandwich.
+* A sandwich and some candy.
+
+4) <single> What was on the picture on the wall inside the store?
+* A brown cat.
+A box of candy.
+A pancake.
+A sandwich.
+

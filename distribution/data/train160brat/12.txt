@@ -1,0 +1,45 @@
+James is going to the baseball field with his friend Tommy.<s>
+James has to practice because baseball season starts in a week.<s>
+He wants to be a good player when the season starts.<s>
+James has been lazy in practicing so he is not very good at baseball right now.<s>
+He has to make up for it by playing baseball for 5 hours every day for a week.<s>
+James thinks this is enough practice for him to catch up and be a good player when the season starts.<s>
+So James and Tommy practice every day.<s>
+They throw the ball around.<s>
+They practice batting and they practice fielding.<s>
+Tommy begins to see that James is getting better every day.<s>
+He says "I do not believe it, James, but I think you are going to be pretty good when the season starts!"<s>
+Usually a week is not enough time to get pretty good at baseball but James is practicing so much he is fitting a month of practice into one week.<s>
+Then James has a setback.<s>
+His glove rips during practice.<s>
+He can't keep playing with a broken glove!<s>
+So Tommy and James go around town collecting bottles to trade in for five cents for each bottle.<s>
+James misses a day of practicing but they find enough bottles to turn in for thirty dollars.<s>
+This is enough money for James to buy a new glove!<s>
+So James buys a new glove and he and Tommy go back to the field and practice some more.<s>
+By the time the season comes James is one of the best players on his team.<s>
+
+1) <multiple> How long does James have to play every day for a week to be good at baseball?
+2 hours
+1 hour
+7 hours
+* 5 hours
+
+2) <multiple> what does James do when his glove rips?
+he gives up
+he borrows his brother's glove
+* he looks for a way to make money
+he gets mad and yells
+
+3) <single> What does James need to practice?
+music
+hockey
+football
+* baseball
+
+4) <single> What is James' friend's name?
+Harry
+* Tommy
+Arnold
+Mikey
+

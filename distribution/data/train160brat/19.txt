@@ -1,0 +1,67 @@
+I used to be afraid of butterflies!<s>
+It is true!<s>
+Once, my mom took me to Seattle.<s>
+There, we went to a special place.<s>
+We went to the zoo!<s>
+I saw lots of animals at the zoo.<s>
+I saw bears.<s>
+I saw tigers.<s>
+I saw apes.<s>
+I saw monkeys.<s>
+I saw snakes.<s>
+I loved seeing all these animals.<s>
+They made me happy.<s>
+We even saw one place where there were giant bugs and they didn't even scare me.<s>
+In fact, I like bugs.<s>
+But there was one place where you walked inside a big room where there were lots of plants and butterflies flying all over the place.<s>
+You could buy sugar water to feed them and they could land on you.<s>
+My mom and brother were so excited to go in, but I was scared.<s>
+I wasn't sure that I wanted to be in the room with butterflies flying everywhere.<s>
+My mom said I would be okay.<s>
+My brother said I would be okay.<s>
+They said butterflies were nice and beautiful.<s>
+They said they would not hurt me.<s>
+So I went in the room.<s>
+Guess what?<s>
+I was so scared when one landed on me that I went screaming for the door!<s>
+The man watching the door to make sure butterflies did not escape or get hurt yelled at me to stop.<s>
+He was mad at me for running out and not caring about the butterflies.<s>
+I said I was sorry, but I was scared.<s>
+He checked me for butterflies and then let me get out of there!<s>
+I stayed outside and my mom and my brother enjoyed the butterflies.<s>
+Since then, they would tease me about being afraid.<s>
+They would try and get me to not be afraid.<s>
+Last year for my birthday, mom bought me a butterfly book.<s>
+She bought one for my brother, too.<s>
+I tried really hard to not be afraid and to go out into the yard and find butterflies with my brother.<s>
+It became really fun to do.<s>
+Once, a butterfly landed on me and I laughed.<s>
+I liked it.<s>
+It tickled me.<s>
+It did not hurt me.<s>
+Now, I like butterflies!<s>
+
+1) <multiple> Where did the child go when he saw the butterflies?
+To the movie
+To school
+In the car
+* To the zoo in Seattle
+
+2) <multiple> What kind of animals were at the zoo?
+deer, worms and cats
+wolves, ants and giraffe
+* tigers, bears and snakes
+penguins, zebras and crocodiles
+
+3) <single> What did mom get the child to learn about butterflies?
+* a book
+an ice cream
+a zoo
+a movie
+
+4) <single> What is the child afraid of?
+tigers
+brother
+* butterflies
+bears
+

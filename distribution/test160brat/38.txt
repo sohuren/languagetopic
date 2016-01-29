@@ -1,0 +1,46 @@
+Oliver is a cat.<s>
+He has a sister called Spike.<s>
+Oliver and Spike like to play outside.<s>
+They chase bugs in the backyard.<s>
+When they get tired, they sleep in the sun.<s>
+They don't like to go outside when it is raining.<s>
+On rainy days Oliver and Spike sit in the window.<s>
+They watch the rain through the window.<s>
+Oliver is big and has grey and white fur.<s>
+His nose is pink.<s>
+Spike is small and has grey fur.<s>
+Her nose is the same color as her fur.<s>
+Spike is round.<s>
+Oliver is tall.<s>
+Oliver likes to eat.<s>
+He worries when there is no food in his bowl.<s>
+Spike likes to roll in dirt.<s>
+Sometimes she is smelly.<s>
+At Christmas time they like to play with the Christmas tree and presents.<s>
+Oliver climbs the Christmas tree and breaks ornaments.<s>
+Spike plays with the presents and unwraps them with her claws.<s>
+
+1) <single> What does Spike like to roll in?
+Perfume.
+Chocolate.
+Snow.
+* Dirt.
+
+2) <multiple> When do Oliver and Spike watch the rain through the window?
+* On rainy days.
+On Christmas Day.
+When they are tired.
+On Tuesdays.
+
+3) <single> What do Oliver and Spike chase in the backyard?
+* Bugs.
+Mice.
+Birds.
+Dogs.
+
+4) <multiple> What color is Spike's nose?
+* Grey.
+White.
+Purple.
+Pink.
+

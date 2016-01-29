@@ -1,0 +1,41 @@
+The second grade students at Valley Elementary School were going to put on a bake sale.<s>
+They wanted to raise enough money to take a field trip to the zoo.<s>
+They invited all of the other students and teachers.<s>
+They also invited the principal and their parents to come!<s>
+They were going to have the bake sale on Friday afternoon.<s>
+Today was Monday, so they only had four days to get everything together!<s>
+First, Miss Walter, the principal, bought the tables and chairs for the bake sale.<s>
+Next, Miss Holly, the second grade teacher, bought plates and forks and spoons.<s>
+But Miss Holly forgot to buy the napkins!<s>
+One of the other second grade teachers ended up buying napkins along with cups for milk and juice.<s>
+On Friday, all of the students brought in their baked goods and drinks.<s>
+Nancy brought chocolate chip cookies.<s>
+Alex brought brownies.<s>
+Jose brought vanilla cupcakes.<s>
+Patty brought lemonade and apple juice.<s>
+The bake sale raised enough money for two field trips!<s>
+
+1) <multiple> What food was NOT at the bake sale?
+Vanilla cupcakes.
+Chocolate chip cookies.
+* Chocolate fudge.
+Brownies.
+
+2) <multiple> What did Miss Holly forget to buy?
+Forks.
+Plates.
+Spoons.
+* Napkins.
+
+3) <single> What day was the bake sale?
+Thursday
+* Friday
+Tuesday
+Monday
+
+4) <multiple> Why did they have a bake sale?
+To buy new tables and chairs.
+To have a pizza party.
+Because they wanted to eat brownies.
+* To raise money for a field trip.
+

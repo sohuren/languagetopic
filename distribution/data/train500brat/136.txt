@@ -1,0 +1,47 @@
+The turtle and the fox were best friends.<s>
+One day Turtle wanted to find Fox and ask if he would come fishing with him.<s>
+Turtle went to foxes house.<s>
+Fox was not home.<s>
+Turtle went to look for Fox.<s>
+Fox lived near several friends.<s>
+Turtle went to Bear's house first.<s>
+Bear lived next door to Fox.<s>
+Bear answered the door, but Fox wasn't there.<s>
+Turtle went to Duck's house next.<s>
+Duck lived next door to Bear.<s>
+Duck answered the door, but Fox wasn't there.<s>
+Turtle went to Goose's house next.<s>
+Goose answered the door, but Fox wasn't there.<s>
+Finally, Turtle stopped at Rabbit's house.<s>
+Rabbit wasn't home, and Fox wasn't there.<s>
+Turtle was sad because he wanted to go fishing with his friend.<s>
+He walked slowly toward the stream to go fishing by himself.<s>
+When he got to the stream, he found Fox and Rabbit were there.<s>
+They were fishing.<s>
+They asked Turtle to join them.<s>
+Turtle was very happy that he had found Fox, and he joined them for a fun afternoon of fishing in the stream.<s>
+
+1) <multiple> Who was not home?
+* Fox and Rabbit
+Bear and Goose
+Duck and Turtle
+Bear and Duck
+
+2) <single> Who lives next door to Bear?
+Rabbit
+* Duck and Fox
+Turtle
+Bear
+
+3) <multiple> Who was Fox fishing with?
+* Rabbit
+Duck
+Turtle
+Bear
+
+4) <single> Who was Turtle's best friend?
+* Fox
+Duck
+Rabbit
+Bear
+

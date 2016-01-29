@@ -1,0 +1,42 @@
+Once upon a time, there was a little white mouse that lived on a farm.<s>
+He liked to hide in the hay stacks where it was warm through the day and night.<s>
+On cold winter days, he would wiggle out from the hay stack to get closer to the lamp in the barn, getting some extra warmth.<s>
+One winter day, the mouse was very cold, but needed something to eat.<s>
+He left the hay stack, and ran past the lamp.<s>
+He ran across an old wood board that was laying on top of the snow - the mouse didn't have mittens and wanted to keep his feet warm.<s>
+He ran and ran until he couldn't any longer.<s>
+The cold weather was keeping every living thing inside, so the mouse was all alone.<s>
+He walked towards the house and met a little bug named Fred.<s>
+Fred told the mouse that he went inside and found lots of crumbs to eat on the kitchen floor.<s>
+The mouse waited until the farmer's wife, Julie, came out the back door, and then the mouse ran into the kitchen.<s>
+There were bread crumbs everywhere!<s>
+The mouse ate as many as he could before anyone found him.<s>
+He heard the back door open again, and hid under the oven.<s>
+It was warm there - there must have been a pie baking.<s>
+Farmer Bill liked pies more than bread, cake, or cookies.<s>
+The mouse stayed there to warm up, then ran back to the barn to sleep for the night.<s>
+
+1) <single> Who opened the back door?
+The mouse
+* The farmer's wife
+Fred
+The farmer
+
+2) <multiple> What was baking in the oven?
+Cookies
+Bread
+A cake
+* A pie
+
+3) <multiple> What did the mouse eat in the kitchen?
+Hay
+Bugs
+* Bread crumbs
+Pie
+
+4) <single> What was the bug's name?
+* Fred
+Bug
+Julie
+Bill
+

@@ -1,0 +1,24 @@
+Rob is a dog.<s>
+Rob is a big red dog.<s>
+He likes to go to the park.<s>
+Rob likes the swing.<s>
+He likes to go as high as he can.<s>
+To get to the park, Rob has to go to town.<s>
+When he is in town, he walks by the school.<s>
+It is by the baseball field.<s>
+Rob likes to go to the park with Rod.<s>
+Rod is a small dog.<s>
+Rod is a brown dog.<s>
+Rod likes to go down the slide.<s>
+Rod likes to go fast.<s>
+Rob likes to slide too.<s>
+Rob and Rod like to go down the slide many times.<s>
+When it gets dark, Rob and Rod have to go home.<s>
+Rob has to go home.<s>
+He has to go eat.<s>
+Swinging makes Rob hungry.<s>
+Rod has to go home too.<s>
+He does not like to be in the dark.<s>
+They can go to the park tomorrow.<s>
+Goodbye Rob and Rod.<s>
+

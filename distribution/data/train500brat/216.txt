@@ -1,0 +1,42 @@
+I like to go to the park that is next to the hotel.<s>
+The park is very big and has lots of ladders and slides.<s>
+My favorite thing to do at the park is to swim in the lake.<s>
+The lake is small but there are a lot of red fish that live in it.<s>
+There are also some turtles and worms at the bottom of the lake.<s>
+Sometimes the fish swim by my leg and make me laugh and feel happy.<s>
+One time I stepped on a stick and cut my foot.<s>
+That cut hurt and made me sad.<s>
+The next time I went in the lake I was scared that I would get another cut.<s>
+Another thing I like to do at the park is to feed the animals.<s>
+There are lots of pigs, squirrels and raccoon living in the park.<s>
+Sometimes I feed them bread and crackers.<s>
+Their favorite thing to eat is ham.<s>
+After I am done at the park I go to the store to buy some ice cream.<s>
+Sometimes I see my friend Christopher and he eats his ice cream with me.<s>
+Christopher also likes feeding the animals.<s>
+His favorite animal at the park is the squirrel.<s>
+
+1) <single> How do the fish make me feel?
+Sad
+Hurt
+Scared
+* Happy
+
+2) <single> What animal lives in the lake?
+Pigs
+* Fish
+Squirrels
+Raccoon
+
+3) <multiple> What do I feed the animals at the park?
+* Bread, Crackers and Ham
+Fish
+Cracker, Ice Cream and Ham
+Bread and Ice Cream
+
+4) <multiple> What is not found in the lake?
+* Squirrels
+Turtles
+Worms
+Fish
+

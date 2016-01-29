@@ -1,0 +1,49 @@
+There was once a little boy named Jacob, who owned a dog named Pet.<s>
+One day, Jacob was taking Pet outside to play.<s>
+He picked up her favorite toy frog.<s>
+When he did, he hit his elbow on the table.<s>
+Ouch!<s>
+He rubbed his elbow and frowned.<s>
+Then he put his shoes on his feet, washed his hands, put on a jacket.<s>
+Jacob felt better, and went to open the door to the back yard.<s>
+He walked outside.<s>
+Once he got outside, he felt the cool breeze and the warm sun.<s>
+They made him feel sleepy.<s>
+He thought he would take a nap outside on the deck.<s>
+He pushed two chairs together to make a bed.<s>
+He climbed up and lay down.<s>
+He used Pet's toy frog as a pillow.<s>
+He lay his head on it.<s>
+Pet curled up next to the chairs to take a nap too.<s>
+While Jacob and Pet slept, a bumblebee came flying by.<s>
+It made a sleepy humming noise, and thought that the deck looked like a nice place to take a nap.<s>
+A robin who had been following the bumblebee stopped too.<s>
+The robin and the bee snuggled up together on the picnic table.<s>
+Jacob's mother looked out the window and saw Jacob, Pet, the bumblebee, and the robin all sleeping.<s>
+"What a peaceful group," she thought.<s>
+And then she yawned and said, "Now I am feeling sleepy too!"<s>
+
+1) <single> Who did the robin snuggle up with?
+Pet.
+Jacob's mother.
+Jacob.
+* The bumblebee.
+
+2) <single> What part of Jacob's body got hurt?
+feet
+head
+hands
+* elbow
+
+3) <multiple> What did Jacob lay his head on?
+The picnic table.
+A robin.
+His dog, Pet.
+* Pet's toy frog.
+
+4) <multiple> What made Jacob feel sleepy?
+Hitting his elbow.
+Washing his hands.
+Seeing a robin.
+* The cool breeze and the warm sun.
+

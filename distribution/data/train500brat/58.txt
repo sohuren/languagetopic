@@ -1,0 +1,47 @@
+It was movie night at Tom's house.<s>
+He was looking forward to watching a movie.<s>
+He wondered what sort of movie it would be.<s>
+Would it be a cartoon?<s>
+Would there be knights?<s>
+He really likes to watch movies about spaceships.<s>
+His sister likes to watch movies about animals.<s>
+Tonight they would watch his father's favorite type of movie.<s>
+His mother came home and put it on the table.<s>
+After dinner Tom cleared away the plates from the table.<s>
+It was his sister's turn to wash the dishes.<s>
+His father went to read the newspaper.<s>
+His mother began to make popcorn.<s>
+She made a big bowl of popcorn.<s>
+There was plenty for everyone.<s>
+She put lots of butter on it.<s>
+Tom was excited he went to sit on the striped rug in front of the television.<s>
+His sister came and sat next to him.<s>
+His parents sat on the couch.<s>
+The dog climbed on to the blue chair.<s>
+The movie was about cars.<s>
+Tom had a great movie night.<s>
+
+1) <multiple> What did the mother bring home?
+dinner
+popcorn
+* a movie
+the newspaper
+
+2) <single> Where did Tom sit to watch the movie?
+on the couch
+* On the striped rug
+In the blue chair
+At the kitchen table
+
+3) <single> What did Tom do after dinner?
+* Cleared away the plates
+Made popcorn
+Climbed in the blue chair
+Read the newspaper
+
+4) <multiple> What kind of movies does Tom's father like?
+movies about spaceships
+movies with animals
+movies about Knights
+* movies about cars
+

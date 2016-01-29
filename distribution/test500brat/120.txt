@@ -1,0 +1,50 @@
+John Bill Bob lived on a boat in the sea.<s>
+He went all around the world, to see what he could see.<s>
+In America, he went to a farm.<s>
+There, he saw a barn.<s>
+He had some milk from a cup.<s>
+The cup was big; Cow filled it up!<s>
+In Africa, he went to the wild.<s>
+He saw a tiger and heard it growl.<s>
+From the growl, he ran away.<s>
+He wanted to live another day!<s>
+In England he went riding on a horse.<s>
+He had so much fun, up in the North!<s>
+The horse grew tired; they stopped to rest.<s>
+It was time to move on, it was for the best.<s>
+In Italy, he wanted a sandwich.<s>
+Problem was, he could not choose which!<s>
+The tuna salad?<s>
+The ham and cheese?<s>
+It was too much, he had to leave.<s>
+In Siberia, he spent a winter.<s>
+The houses were frozen, he could not enter!<s>
+Where did he sleep, what did he do?<s>
+We do not know, not me, not you!<s>
+John Bill Bob lived on a boat in the sea.<s>
+He'd gone all around the world, but the sea was where he wanted to be.<s>
+
+1) <multiple> What did he do in America?
+We do not know!
+* Drank some milk from a big cup.
+Ate a tuna salad sandwich.
+Talked with a cow on a farm.
+
+2) <single> Where did John Bill Bob want to be?
+America
+* The Sea
+Africa
+Siberia
+
+3) <multiple> What did John Bill Bob run away from in Africa?
+a cold winter
+a ham and cheese sandwich
+* a tiger's growl
+a cow's milk
+
+4) <single> What did he ride in England?
+a sandwich
+a tiger
+a boat
+* a horse
+

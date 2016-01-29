@@ -1,0 +1,41 @@
+Jack woke up on a Saturday morning.<s>
+He got out of bed and went to the bathroom, and brushed his teeth.<s>
+He put on his clothes and walked to the kitchen.<s>
+Jack had a few choices to pick for breakfast.<s>
+He could choose between an apple, pear, cereal or eggs.<s>
+He picked an apple to eat for breakfast.<s>
+After his breakfast, he turned on the TV to find something to watch.<s>
+He could watch sports, the news, the weather or a cooking show.<s>
+He chose to watch the weather.<s>
+The reporter said fall was coming but that the weather was getting warmer instead of cooler.<s>
+He turned off the TV and went outside to the backyard.<s>
+Jack wanted to make some hot dogs for lunch the next day.<s>
+He went to the store to get hot dogs, mustard, and ketchup.<s>
+After coming back home from the store, Jack made lunch.<s>
+After lunch, he found that he needed to do some cleaning.<s>
+He started cleaning the kitchen and moved on to the living room.<s>
+
+1) <single> What did Jack eat for breakfast?
+pear
+eggs
+cereal
+* apple
+
+2) <single> What did Jack watch on TV?
+the news
+* the weather
+cooking show
+sports
+
+3) <multiple> When did Jack make hot dogs?
+next week
+today
+* Sunday
+Saturday
+
+4) <multiple> Where did Jack start cleaning after lunch?
+backyard
+* kitchen
+living room
+bathroom
+
